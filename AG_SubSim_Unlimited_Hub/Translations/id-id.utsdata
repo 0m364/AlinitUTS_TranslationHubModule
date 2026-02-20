@@ -1,0 +1,186 @@
+$lang:[AUTO] Indonesian
+$version:2
+//UI Strings
+@new_game_button:Permainan baru
+@settings_button:Pengaturan
+@about_button:Tentang
+@quit_button:Keluar
+@choose_line_button:ok 124; pilih baris
+@max_speed_text:Kecepatan maksimum
+@cars_total_text:Mobil (total)
+@controller_text:Pengontrol
+@cab_preview_button:Taksi
+@interior_preview_button:Interior
+@score_text:Nilai
+@passengers_text:Penumpang
+@speed_limit_text:Batas Kecepatan
+@current_speed_text:Kecepatan
+@cab_camera_button:Kamera taksi
+@interior_camera_button:Interior
+@station_camera_button:Stasiun
+@controller_panel_header:Pengontrol
+@head_light_button:Kepala
+@@:Cahaya
+@cab_light_button:Cab Light
+@doors_button:Pintu
+@horn_button:Horn
+@stop_pos_header:Hentikan kontrol posisi
+@express_train_notifiaction:Ini kereta ekspres. Lewati stasiun ini.
+@view_pos_header:< - Tampilan posisi - >
+@announcement_button:Pengumuman
+@inf_msg_1:Pesan 1
+@@:(5 detik)
+@inf_msg_2:Pesan 2
+@@:(10 detik)
+@inf_ready:Siap
+@inf_playback:Pesan diputar kembali...
+@inf_recording:Merekam...
+@inf_record_txt:Rekam
+@inf_done_txt:Selesai
+@announcement_setup_button:Penyiapan
+@simple_lighting_notice:<b> < warna = merah > Catatan: </color> Jika perangkat Anda tidak mendukung Sistem Pencahayaannya (Fitur Headlight tidak bekerja), Anda dapat mengaktifkan "Sistem Penahan Sederhana": </b>
+@quit_text:Keluar
+@back_to_menu_button:Kembali ke menu Utama
+@cancel_button:Batal
+@simple_lighting_option:Gunakan pencahayaan sederhana (relachdown dibutuhkan)
+@back_button:kembali
+@line_select_text:Pilih baris
+@start_line_button:Ayo!
+@system_text:Sistem
+@master_switch_button:MASTER SWITCH
+@line_1_name:Garis Barat
+@line_2_name:Baris N
+@line_3_name:Baris S
+@line_4_name:Garis Tengah
+@line_5_name:A Line (Express)
+@line_1_description:Stasiun: 10
+@@:Tingkat: mudah
+@line_2_description:Stasiun: 9
+@@:Tingkat: mudah
+@line_3_description:Stasiun: 7
+@@:Tingkat: sedang
+@line_4_description:Stasiun: 10
+@@:Tingkat: keras
+@line_5_description:Stasiun: 11 (17)
+@@:Tingkat: keras
+//////////////////
+@inf_next_signal:Sinyal Berikutnya
+@inf_pressure:Tekanan Udara Rem
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Rem otomatis aktif
+@msg_unloading:Mengbongkar...
+@msg_correct_stop:Benar berhenti di stasiun. Bonus + 100
+@msg_nxt_station:Sekarang Anda dapat pergi ke stasiun berikutnya
+@msg_start_1:Bersiap untuk awal... Tunggu sebentar.
+@msg_start_2:Siapkan mesin dan kompresor. Tunggu sebentar.
+@msg_start_3:Kereta siap untuk pergi. Semoga berhasil!
+@controller_lock:Diblokir
+@fines_total:Fines, total:
+@passengers_transported:Penumpang diangkut:
+@score:Skor akhir:
+@signal_red_txt:Merah
+@signal_green_txt:Hijau
+@signal_connection:Koneksi...
+@signal_warning:Sinyal merah di depan
+@signal_fine:Mengabaikan sinyal merah, baik -50
+@ads_disabled_txt:<b> Ads dimatikan </b>
+@ads_disable_txt:<b> Matikan mode iklan + offline </b>
+@@:<i> <size=10> Menonaktifkan semua iklan pihak ketiga dan memungkinkan untuk bermain offline </size> </i>
+@load_text_1:Memeriksa sistem...
+@load_text_2:Memeriksa kompresor...
+@load_text_3:Memeriksa sinyal dan mesin...
+@load_text_4:Hampir selesai...
+@spd_warning_50:Peringatan: Batas kecepatan di depan (50 kph)
+@spd_warning_35:Peringatan: Batas kecepatan di depan (35 kph)
+@spd_overspeed:Terlalu cepat. Tolong jaga kecepatan keretanya tetap terkendali.
+@spd_ok:Sekarang kecepatan kereta api OK...
+@spd_fine:Terlalu cepat. Pelan-pelan! Baik 1 poin / detik
+@compressor_busy:Kondisi: sibuk
+@compressor_standby:Negara: standby
+@graphics_qual_txt:Kualitas Grafik
+@qual_low_txt:Rendah
+@qual_medium_txt:Sedang
+@qual_norm_txt:Normal
+@qual_high_txt:Tinggi
+@qual_refl_checkbox:Refleksi
+@qual_light_checkbox:Gunakan sistem pencahayaan yang disederhanakan (dibutuhkan relachch)
+@change_lang_btn:Ubah bahasa permainan
+@close_btn:Tutup
+@about_text:Programming by: Sviatoslav Bilov (bilov @ alinit.org)
+@@:Model 3D oleh Anton Romanchuk
+@@:------
+@@:Penerbit: Alpha Intl Grup IT
+@@:Projek pemeliharaan: Alinit Project (alinit.org), dukung @ alinit.org
+@offline_notice:<b> Permainan ini membutuhkan akses Internet </b>
+@@:
+@@:Akses Internet dan iklan pihak 3rd- memungkinkan untuk mendapatkan beberapa pendanaan untuk meningkatkan permainan ini. Namun, Anda dapat membeli fitur "Matikan iklan" untuk menonaktifkan semua iklan pihak 3rd- dan mengaktifkan mode offline. Harapan untuk pemahaman Anda.
+@selected_train_txt:Kereta yang dipilih
+@next_signal_txt:Sinyal Berikutnya
+@air_compr_txt:Kompresor Udara
+@air_pressure_txt:Tekanan:
+@system_battery_txt:Baterai
+@system_atc_txt:ATC
+@controller_positions_txt:posisi
+@nxt_station_txt:Stasiun berikutnya:
+@nxt_ad_text:Ad berikutnya:
+@prep_ad_text:Menyiapkan iklan...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Jalan Bunga
+@line_1_2:Musikalnaya
+@line_1_3:Taman Hutan
+@line_1_4:Jalan Industri
+@line_1_5:Morskaya
+@line_1_6:Abrikosava
+@line_1_7:Jalan Sunshine
+@line_1_8:Apelsinogaya
+@line_1_9:West Street
+@line_1_10:Titik kendali
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry- pohon Taman
+@line_2_8:Pembangkit Daya
+@line_2_9:Titik kendali
+@line_3_0:Old City
+@line_3_1:Pine Park
+@line_3_2:Kuratal 7
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:Bandara
+@line_3_7:Titik kendali
+@line_4_0:Jalan 38
+@line_4_1:Pusat Bisnis
+@line_4_2:City Square
+@line_4_3:Balai Kota
+@line_4_4:Faille Avenue
+@line_4_5:Downtown
+@line_4_6:Jalan 91
+@line_4_7:Trade Center
+@line_4_8:Stadion
+@line_4_9:Central Park
+@line_4_10:Titik kendali
+@line_5_0:Keanehan suburban
+@line_5_1:Jalan hutan
+@line_5_2:Birch Park
+@line_5_3:Stadium (tanpa berhenti)
+@line_5_4:Jalan 91
+@line_5_5:West Highway (tanpa berhenti)
+@line_5_6:Jalan 87
+@line_5_7:Institut Energi
+@line_5_8:Museum Sejarah (tanpa berhenti)
+@line_5_9:Pustaka Tengah
+@line_5_10:Jalan Museum (tanpa berhenti)
+@line_5_11:Park Street
+@line_5_12:Otoritas Transportasi
+@line_5_13:Lime Street (tanpa berhenti)
+@line_5_14:51st Street
+@line_5_15:49th Street (tanpa berhenti)
+@line_5_16:West Street
+@line_5_17:Titik kendali

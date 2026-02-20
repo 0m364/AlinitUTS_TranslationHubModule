@@ -105,7 +105,7 @@ $version:3
 @qual_refl_checkbox:Reflets
 @qual_light_checkbox:Utiliser un système d'éclairage simplifié (relancement requis)
 @change_lang_btn:Changer la langue du jeu
-@close_btn:Fermer 
+@close_btn:Fermer
 @about_text:Programmé par : Sviatoslav Bilov (bilov@alinit.org)
 @@:Modèles 3D par : Anton Romanchuk
 @@:------

@@ -1,0 +1,186 @@
+$lang:[AUTO] Swedish
+$version:2
+//UI Strings
+@new_game_button:Nytt spel
+@settings_button:Inställningar
+@about_button:Om
+@quit_button:Quit
+@choose_line_button:ok | välj linje
+@max_speed_text:Max hastighet
+@cars_total_text:Bilar (totalt)
+@controller_text:Controller
+@cab_preview_button:Cab
+@interior_preview_button:Interiör
+@score_text:Score
+@passengers_text:Passagerare
+@speed_limit_text:Speed Limit
+@current_speed_text:Hastighet
+@cab_camera_button:Cab kamera
+@interior_camera_button:Interiör
+@station_camera_button:Station
+@controller_panel_header:Controller
+@head_light_button:Head
+@@:Ljus ljus
+@cab_light_button:Cab Light
+@doors_button:Dörrar
+@horn_button:Horn
+@stop_pos_header:Stop positionskontroll
+@express_train_notifiaction:Detta är expresståg. Hoppa över denna station.
+@view_pos_header:<-Visa position ->
+@announcement_button:Tillkännagivande
+@inf_msg_1:Meddelande 1
+@@:(5 sek)
+@inf_msg_2:Meddelande 2
+@@:(10 sek)
+@inf_ready:Redo
+@inf_playback:Meddelande spelar tillbaka...
+@inf_recording:Inspelning...
+@inf_record_txt:Rekord
+@inf_done_txt:Done
+@announcement_setup_button:Setup
+@simple_lighting_notice:<b><color=red> Obs!: </color> Om enheten inte stöder Dynamic Lighting System (Huvudljusfunktionen fungerar inte), kan du aktivera "Enkelt ljussystem": </b>
+@quit_text:Quit
+@back_to_menu_button:Tillbaka till huvudmenyn
+@cancel_button:Avbokning
+@simple_lighting_option:Använd enkel belysning (återlansering krävs)
+@back_button:tillbaka
+@line_select_text:Line Select
+@start_line_button:Låt oss gå!
+@system_text:Systemsystem
+@master_switch_button:MASTER SWITCH
+@line_1_name:Western Line
+@line_2_name:N Line
+@line_3_name:S Line
+@line_4_name:Centrallinjen
+@line_5_name:En linje (Express)
+@line_1_description:Stationer: 10
+@@:Nivå: lätt
+@line_2_description:Stationer: 9
+@@:Nivå: lätt
+@line_3_description:Stationer: 7
+@@:Nivå: Medium
+@line_4_description:Stationer: 10
+@@:Nivå: Hårt
+@line_5_description:Stationer: 11 (17)
+@@:Nivå: Hårt
+//////////////////
+@inf_next_signal:Nästa Signal
+@inf_pressure:Bromsar lufttryck
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Automatisk broms är aktiv
+@msg_unloading:Unloading...
+@msg_correct_stop:Rätt stopp på stationen. Bonus +100
+@msg_nxt_station:Nu kan du gå till nästa station
+@msg_start_1:Förbereda för start... Vänligen vänta
+@msg_start_2:Förbereda motor och kompressor. Vänligen vänta
+@msg_start_3:Tåget är redo att gå. Lycka till!
+@controller_lock:Blockerad
+@fines_total:Fines, totalt:
+@passengers_transported:Passagerare transporterade:
+@score:Final Score:
+@signal_red_txt:Röd
+@signal_green_txt:Grönt grönt
+@signal_connection:Anslutning...
+@signal_warning:Röd signal är framåt
+@signal_fine:Ignorera röd signal, fin -50
+@ads_disabled_txt:<b>Annonser är inaktiverade</b>
+@ads_disable_txt:<b>Disable ads + offline mode</b>
+@@:<i><size=10>Inaktiverar alla tredjepartsannonser och gör det möjligt att spela offline</size></i>
+@load_text_1:Kontrollsystem...
+@load_text_2:Kontrollera kompressor...
+@load_text_3:Kontrollera signaler och motor...
+@load_text_4:Nästan gjort...
+@spd_warning_50:Varning: Hastighetsgränsen är framåt (50 kph)
+@spd_warning_35:Varning: Hastighetsgränsen är framåt (35 kph)
+@spd_overspeed:Överspeed. Håll tåghastigheten under kontroll
+@spd_ok:Nu är tåghastigheten OK...
+@spd_fine:Överspeed. Sakta ner! Fin 1 poäng/sek
+@compressor_busy:State: upptagen
+@compressor_standby:State: standby
+@graphics_qual_txt:Grafikkvalitet
+@qual_low_txt:Låg
+@qual_medium_txt:Medium
+@qual_norm_txt:Normal
+@qual_high_txt:Hög
+@qual_refl_checkbox:Reflektioner
+@qual_light_checkbox:Använd förenklat belysningssystem (relansering krävs)
+@change_lang_btn:Ändra spelspråk
+@close_btn:Nära
+@about_text:Programmering av: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D-modeller av: Anton Romanchuk
+@@:---------
+@@:Förlag: Alpha Intl. IT Group
+@@:Projektunderhåll: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Detta spel kräver internetåtkomst</b>
+@@:
+@@:Internetåtkomst och 3rd-party annonser gör det möjligt att få lite finansiering för att förbättra detta spel. Du kan dock köpa funktionen "Disable ads" för att inaktivera alla 3rd-party-annonser och aktivera offline-läge. Hoppas på din förståelse.
+@selected_train_txt:Valt tåg
+@next_signal_txt:Nästa Signal
+@air_compr_txt:Luftkompressor
+@air_pressure_txt:Tryck:
+@system_battery_txt:Batteri
+@system_atc_txt:ATC
+@controller_positions_txt:positioner
+@nxt_station_txt:Nästa station:
+@nxt_ad_text:Nästa Ad:
+@prep_ad_text:Förbereda annons...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Flowers Street
+@line_1_2:Musikalnaya
+@line_1_3:Skogspark
+@line_1_4:Industrigatan
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:kontrollpunkt
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry-Tree Park
+@line_2_8:Kraftkraftverk
+@line_2_9:kontrollpunkt
+@line_3_0:Gamla stan
+@line_3_1:Pine Park
+@line_3_2:7:e kvartal
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Förort
+@line_3_6:Flygplats flygplats
+@line_3_7:kontrollpunkt
+@line_4_0:38th Street
+@line_4_1:Business Center
+@line_4_2:City Square
+@line_4_3:Stadshus
+@line_4_4:Faille Avenue
+@line_4_5:Downtown
+@line_4_6:91st Street
+@line_4_7:Trade Center
+@line_4_8:Stadium
+@line_4_9:Central Park
+@line_4_10:kontrollpunkt
+@line_5_0:Förortsdiskrikt
+@line_5_1:Skog gata
+@line_5_2:Birch Park
+@line_5_3:Stadium (utan stopp)
+@line_5_4:91st Street
+@line_5_5:West Highway (utan stopp)
+@line_5_6:87th Street
+@line_5_7:Institutet för energi
+@line_5_8:Historiens museum (utan att stanna)
+@line_5_9:Centralbibliotek
+@line_5_10:Museum Street (utan stopp)
+@line_5_11:Park Street
+@line_5_12:Transportmyndigheten
+@line_5_13:Lime Street (utan stopp)
+@line_5_14:51st Street
+@line_5_15:49th Street (utan att stanna)
+@line_5_16:West Street
+@line_5_17:kontrollpunkt

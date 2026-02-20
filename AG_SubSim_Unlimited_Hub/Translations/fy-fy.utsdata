@@ -1,0 +1,186 @@
+$lang:[AUTO] Frisian
+$version:2
+//UI Strings
+@new_game_button:Nij spul
+@settings_button:Ynstellings
+@about_button:Oer
+@quit_button:Quit
+@choose_line_button:ok | kieze line
+@max_speed_text:Max. faasje
+@cars_total_text:Auto's (totaal)
+@controller_text:Controller
+@cab_preview_button:Cab
+@interior_preview_button:Binnenkant
+@score_text:Skoare
+@passengers_text:Passazjiers
+@speed_limit_text:Speed ​​Limit
+@current_speed_text:Faasje
+@cab_camera_button:Cab kamera
+@interior_camera_button:Binnenkant
+@station_camera_button:Stasjon
+@controller_panel_header:Controller
+@head_light_button:Holle
+@@:Ljocht
+@cab_light_button:Cab Light
+@doors_button:Doors
+@horn_button:Hoarn
+@stop_pos_header:Stop posysje kontrôle
+@express_train_notifiaction:Dit is sneltrein. Sla dit stasjon oer.
+@view_pos_header:<- Besjoch posysje ->
+@announcement_button:Oankundiging
+@inf_msg_1:Berjocht 1
+@@:(5 sek)
+@inf_msg_2:Berjocht 2
+@@:(10 sekonden)
+@inf_ready:Klear
+@inf_playback:Berjocht wurdt ôfspile...
+@inf_recording:Opname...
+@inf_record_txt:Opnimme
+@inf_done_txt:Dien
+@announcement_setup_button:Opsette
+@simple_lighting_notice:<b><color=red>Opmerking: </color>As jo ​​apparaat gjin Dynamic Lighting System stipet (Headlight-funksje wurket net), kinne jo "Simple Lighting System" ynskeakelje: </b>
+@quit_text:Quit
+@back_to_menu_button:Werom nei Haadmenu
+@cancel_button:Ofbrekke
+@simple_lighting_option:Brûk ienfâldige ferljochting (relaunch fereaske)
+@back_button:rêch
+@line_select_text:Line selektearje
+@start_line_button:Litte wy gean!
+@system_text:Systeem
+@master_switch_button:MASTER SWITCH
+@line_1_name:Western Line
+@line_2_name:N Lineke
+@line_3_name:S Lineke
+@line_4_name:Sintrale Line
+@line_5_name:A Line (Express)
+@line_1_description:Stasjons: 10
+@@:Nivo: maklik
+@line_2_description:Stasjons: 9
+@@:Nivo: maklik
+@line_3_description:Stasjons: 7
+@@:Nivo: medium
+@line_4_description:Stasjons: 10
+@@:Nivo: hurd
+@line_5_description:Staasjes: 11 (17)
+@@:Nivo: hurd
+//////////////////
+@inf_next_signal:Folgjende sinjaal
+@inf_pressure:Remmen luchtdruk
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Automatyske rem is aktyf
+@msg_unloading:Unloading...
+@msg_correct_stop:Korrekte stop op it stasjon. Bonus +100
+@msg_nxt_station:No kinne jo nei it folgjende stasjon gean
+@msg_start_1:Tariede op it begjin... Wachtsje asjebleaft
+@msg_start_2:Tarieding fan motor en compressor. Wachtsje asjebleaft
+@msg_start_3:De trein is klear om te gean. Súkses!
+@controller_lock:Blocked
+@fines_total:Boetes, totaal:
+@passengers_transported:Passazjiers ferfierd:
+@score:Finale skoare:
+@signal_red_txt:Read
+@signal_green_txt:Grien
+@signal_connection:Ferbining...
+@signal_warning:Reade sinjaal is foarút
+@signal_fine:Negearje read sinjaal, boete -50
+@ads_disabled_txt:<b>Ads binne útskeakele</b>
+@ads_disable_txt:<b>Ads + offline modus útskeakelje</b>
+@@:<i><size=10>Skekelt alle advertinsjes fan tredden út en makket it mooglik om offline te spyljen</size></i>
+@load_text_1:Systeem kontrolearje...
+@load_text_2:Kontrolearje kompressor...
+@load_text_3:Sinjalen en motor kontrolearje...
+@load_text_4:Hast klear...
+@spd_warning_50:Warskôging: snelheidslimyt is foarút (50 km / h)
+@spd_warning_35:Warskôging: snelheidslimyt is foarút (35 km / h)
+@spd_overspeed:Oversnelheid. Hâld asjebleaft de treinsnelheid ûnder kontrôle
+@spd_ok:No is de treinsnelheid goed...
+@spd_fine:Oversnelheid. Restiger oan! Boete 1 punt / sek
+@compressor_busy:Steat: drok
+@compressor_standby:Steat: standby
+@graphics_qual_txt:Grafiken Kwaliteit
+@qual_low_txt:Leech
+@qual_medium_txt:Medium
+@qual_norm_txt:Normaal
+@qual_high_txt:Heech
+@qual_refl_checkbox:Refleksjes
+@qual_light_checkbox:Brûk ferienfâldige ferljochtingssysteem (relaunch fereaske)
+@change_lang_btn:Feroarje spultsje taal
+@close_btn:Slute
+@about_text:Programming troch: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D-modellen troch: Anton Romanchuk
+@@:None
+@@:Utjouwerij: Alpha Intl. IT Group
+@@:Projektûnderhâld: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Dit spul fereasket ynternettagong</b>
+@@:
+@@:Ynternet tagong en advertinsjes fan tredden kinne wat finansiering krije om dit spultsje te ferbetterjen. Jo kinne lykwols de funksje "Ads útskeakelje" keapje om alle advertinsjes fan tredden út te skeakeljen en offline modus te aktivearjen. Hoopje op jo begryp.
+@selected_train_txt:Selektearre trein
+@next_signal_txt:Folgjende sinjaal
+@air_compr_txt:Air Compressor
+@air_pressure_txt:Druk:
+@system_battery_txt:Batterij
+@system_atc_txt:ATC
+@controller_positions_txt:posysjes
+@nxt_station_txt:Folgjende stasjon:
+@nxt_ad_text:Folgjende advertinsje:
+@prep_ad_text:Advertinsje tariede...
+//////////////////
+//Stations
+@line_1_0:Noardwei
+@line_1_1:Blommenstrjitte
+@line_1_2:Musikalnaya
+@line_1_3:Wâldpark
+@line_1_4:Yndustrystrjitte
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:Weststrjitte
+@line_1_10:Kontrôle punt
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stienstrjitte
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry-tree Park
+@line_2_8:Power Plant
+@line_2_9:Kontrôle punt
+@line_3_0:Alde Stêd
+@line_3_1:Pine Park
+@line_3_2:7e kwart
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Foarstêd
+@line_3_6:Fleanfjild
+@line_3_7:Kontrôle punt
+@line_4_0:38th Street
+@line_4_1:Business Center
+@line_4_2:Stedsplein
+@line_4_3:Stedhûs
+@line_4_4:Faille Avenue
+@line_4_5:Binnenstêd
+@line_4_6:91st Street
+@line_4_7:Trade Center
+@line_4_8:Stadium
+@line_4_9:Central Park
+@line_4_10:Kontrôle punt
+@line_5_0:Suburban distrikt
+@line_5_1:Wâldstrjitte
+@line_5_2:Birch Park
+@line_5_3:Stadion (sûnder stopjen)
+@line_5_4:91st Street
+@line_5_5:West Highway (sûnder stopjen)
+@line_5_6:87th Street
+@line_5_7:Ynstitút foar enerzjy
+@line_5_8:Skiednismuseum (sûnder ophâlden)
+@line_5_9:Sintrale Bibleteek
+@line_5_10:Museumstrjitte (sûnder stop)
+@line_5_11:Parkstrjitte
+@line_5_12:Ferfier Authority
+@line_5_13:Lime Street (sûnder stopjen)
+@line_5_14:51st Street
+@line_5_15:49th Street (sûnder stopjen)
+@line_5_16:Weststrjitte
+@line_5_17:Kontrôle punt

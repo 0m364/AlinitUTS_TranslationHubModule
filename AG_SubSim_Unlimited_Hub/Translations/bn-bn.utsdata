@@ -1,0 +1,186 @@
+$lang:[AUTO] Bengali
+$version:2
+//UI Strings
+@new_game_button:নতুন খেলা
+@settings_button:সেটিংস
+@about_button:সম্পর্কে
+@quit_button:প্রস্থান করুন
+@choose_line_button:ঠিক আছে | লাইন নির্বাচন করুন
+@max_speed_text:সর্বোচ্চ গতি
+@cars_total_text:গাড়ি (মোট)
+@controller_text:নিয়ন্ত্রক
+@cab_preview_button:ক্যাব
+@interior_preview_button:অভ্যন্তরীণ
+@score_text:স্কোর
+@passengers_text:যাত্রীদের
+@speed_limit_text:গতি সীমা
+@current_speed_text:গতি
+@cab_camera_button:ক্যাব ক্যামেরা
+@interior_camera_button:অভ্যন্তরীণ
+@station_camera_button:স্টেশন
+@controller_panel_header:নিয়ন্ত্রক
+@head_light_button:মাথা
+@@:আলো
+@cab_light_button:ক্যাব লাইট
+@doors_button:দরজা
+@horn_button:হর্ন
+@stop_pos_header:অবস্থান নিয়ন্ত্রণ বন্ধ করুন
+@express_train_notifiaction:এটি এক্সপ্রেস ট্রেন। এই স্টেশন এড়িয়ে যান.
+@view_pos_header:<- অবস্থান দেখুন ->
+@announcement_button:ঘোষণা
+@inf_msg_1:বার্তা 1
+@@:(5 সেকেন্ড)
+@inf_msg_2:বার্তা 2
+@@:(10 সেকেন্ড)
+@inf_ready:প্রস্তুত
+@inf_playback:বার্তাটি আবার বাজছে...
+@inf_recording:রেকর্ডিং...
+@inf_record_txt:রেকর্ড
+@inf_done_txt:সম্পন্ন
+@announcement_setup_button:সেটআপ
+@simple_lighting_notice:<b><color=red>দ্রষ্টব্য: </color>যদি আপনার ডিভাইস ডায়নামিক লাইটিং সিস্টেম সমর্থন না করে (হেডলাইট বৈশিষ্ট্য কাজ করছে না), আপনি "সাধারণ আলো সিস্টেম" চালু করতে পারেন: </b>
+@quit_text:প্রস্থান করুন
+@back_to_menu_button:মূল মেনুতে ফিরে যান
+@cancel_button:বাতিল করুন
+@simple_lighting_option:সাধারণ আলো ব্যবহার করুন (পুনরায় লঞ্চ প্রয়োজন)
+@back_button:ফিরে
+@line_select_text:লাইন নির্বাচন করুন
+@start_line_button:চলুন!
+@system_text:সিস্টেম
+@master_switch_button:মাস্টার সুইচ
+@line_1_name:ওয়েস্টার্ন লাইন
+@line_2_name:এন লাইন
+@line_3_name:এস লাইন
+@line_4_name:সেন্ট্রাল লাইন
+@line_5_name:একটি লাইন (এক্সপ্রেস)
+@line_1_description:স্টেশন: 10
+@@:স্তর: সহজ
+@line_2_description:স্টেশন: 9
+@@:স্তর: সহজ
+@line_3_description:স্টেশন: 7
+@@:স্তর: মাঝারি
+@line_4_description:স্টেশন: 10
+@@:স্তর: কঠিন
+@line_5_description:স্টেশন: 11 (17)
+@@:স্তর: কঠিন
+//////////////////
+@inf_next_signal:পরবর্তী সংকেত
+@inf_pressure:ব্রেক এয়ার প্রেসার
+@inf_pressure_ind:Prsr.
+@msg_autobrake:স্বয়ংক্রিয় ব্রেক সক্রিয়
+@msg_unloading:আনলোড হচ্ছে...
+@msg_correct_stop:স্টেশনে সঠিক স্টপ। বোনাস +100
+@msg_nxt_station:এখন আপনি পরবর্তী স্টেশনে যেতে পারেন
+@msg_start_1:শুরুর জন্য প্রস্তুত হচ্ছে... অনুগ্রহ করে অপেক্ষা করুন
+@msg_start_2:ইঞ্জিন এবং কম্প্রেসার প্রস্তুত করা হচ্ছে। অনুগ্রহ করে অপেক্ষা করুন
+@msg_start_3:ট্রেন যাওয়ার জন্য প্রস্তুত। শুভকামনা!
+@controller_lock:অবরুদ্ধ
+@fines_total:জরিমানা, মোট:
+@passengers_transported:যাত্রী পরিবহন:
+@score:চূড়ান্ত স্কোর:
+@signal_red_txt:লাল
+@signal_green_txt:সবুজ
+@signal_connection:সংযোগ...
+@signal_warning:সামনে লাল সংকেত
+@signal_fine:লাল সংকেত উপেক্ষা করা, জরিমানা -50
+@ads_disabled_txt:<b>বিজ্ঞাপনগুলি নিষ্ক্রিয় করা হয়েছে</b>৷
+@ads_disable_txt:<b>বিজ্ঞাপন + অফলাইন মোড অক্ষম করুন</b>
+@@:<i><size=10>সমস্ত তৃতীয় পক্ষের বিজ্ঞাপন অক্ষম করে এবং অফলাইনে খেলা সম্ভব করে তোলে</size></i>
+@load_text_1:সিস্টেম চেক করা হচ্ছে...
+@load_text_2:কম্প্রেসার পরীক্ষা করা হচ্ছে...
+@load_text_3:সংকেত এবং ইঞ্জিন পরীক্ষা করা হচ্ছে...
+@load_text_4:প্রায় শেষ...
+@spd_warning_50:সতর্কতা: গতি সীমা এগিয়ে (50 কিমি প্রতি ঘণ্টা)
+@spd_warning_35:সতর্কতা: গতি সীমা এগিয়ে আছে (35 কিমি প্রতি ঘণ্টা)
+@spd_overspeed:ওভারস্পিড। অনুগ্রহ করে ট্রেনের গতি নিয়ন্ত্রণে রাখুন
+@spd_ok:এখন ট্রেনের গতি ঠিক আছে...
+@spd_fine:ওভারস্পিড। ধীর গতি! জরিমানা 1 পয়েন্ট/সেকেন্ড
+@compressor_busy:রাজ্য: ব্যস্ত
+@compressor_standby:রাজ্য: স্ট্যান্ডবাই
+@graphics_qual_txt:গ্রাফিক্স কোয়ালিটি
+@qual_low_txt:কম
+@qual_medium_txt:মাঝারি
+@qual_norm_txt:স্বাভাবিক
+@qual_high_txt:উচ্চ
+@qual_refl_checkbox:প্রতিফলন
+@qual_light_checkbox:সরলীকৃত আলোর ব্যবস্থা ব্যবহার করুন (পুনরায় লঞ্চ প্রয়োজন)
+@change_lang_btn:খেলার ভাষা পরিবর্তন করুন
+@close_btn:বন্ধ
+@about_text:প্রোগ্রামিং দ্বারা: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D মডেল দ্বারা: Anton Romanchuk
+@@:None
+@@:প্রকাশক: Alpha Intl. আইটি গ্রুপ
+@@:প্রকল্প রক্ষণাবেক্ষণ: অ্যালিনিট প্রকল্প (alinit.org), support@alinit.org
+@offline_notice:<b>এই গেমটির জন্য ইন্টারনেট অ্যাক্সেস প্রয়োজন</b>
+@@:
+@@:ইন্টারনেট অ্যাক্সেস এবং 3য়-পক্ষের বিজ্ঞাপনগুলি এই গেমটিকে উন্নত করার জন্য কিছু তহবিল পেতে অনুমতি দেয়। যাইহোক, আপনি সমস্ত থার্ড-পার্টি বিজ্ঞাপন অক্ষম করতে এবং অফলাইন মোড সক্রিয় করতে "বিজ্ঞাপনগুলি অক্ষম করুন" বৈশিষ্ট্যটি কিনতে পারেন৷ আপনার বোঝার জন্য আশা করি.
+@selected_train_txt:নির্বাচিত ট্রেন
+@next_signal_txt:পরবর্তী সংকেত
+@air_compr_txt:এয়ার কম্প্রেসার
+@air_pressure_txt:চাপ:
+@system_battery_txt:ব্যাটারি
+@system_atc_txt:এটিসি
+@controller_positions_txt:অবস্থান
+@nxt_station_txt:পরবর্তী স্টেশন:
+@nxt_ad_text:পরবর্তী বিজ্ঞাপন:
+@prep_ad_text:বিজ্ঞাপন প্রস্তুত করা হচ্ছে...
+//////////////////
+//Stations
+@line_1_0:উত্তরপথ
+@line_1_1:ফুলের রাস্তা
+@line_1_2:সঙ্গীতকালনায়
+@line_1_3:ফরেস্ট পার্ক
+@line_1_4:ইন্ডাস্ট্রিয়াল স্ট্রিট
+@line_1_5:মরস্কায়া
+@line_1_6:আব্রিকোসোভায়া
+@line_1_7:সানশাইন স্ট্রিট
+@line_1_8:অ্যাপেলসিনোভায়া
+@line_1_9:ওয়েস্ট স্ট্রিট
+@line_1_10:কন্ট্রোল পয়েন্ট
+@line_2_0:জাভোদস্কায়া
+@line_2_1:লিটেইনয়া
+@line_2_2:অ্যাভটোজাভোড
+@line_2_3:স্টোন স্ট্রিট
+@line_2_4:রিভার স্ট্রিট
+@line_2_5:সুডোরেমন্টনি জাভোদ
+@line_2_6:ইস্ট স্ট্রিট
+@line_2_7:চেরি-ট্রি পার্ক
+@line_2_8:পাওয়ার প্ল্যান্ট
+@line_2_9:কন্ট্রোল পয়েন্ট
+@line_3_0:পুরাতন শহর
+@line_3_1:পাইন পার্ক
+@line_3_2:7ম কোয়ার্টাল
+@line_3_3:স্ট্রবেরি বাগান
+@line_3_4:ওজারনায়া
+@line_3_5:উপশহর
+@line_3_6:বিমানবন্দর
+@line_3_7:কন্ট্রোল পয়েন্ট
+@line_4_0:38 তম রাস্তা
+@line_4_1:ব্যবসা কেন্দ্র
+@line_4_2:সিটি স্কোয়ার
+@line_4_3:সিটি হল
+@line_4_4:Faille এভিনিউ
+@line_4_5:ডাউনটাউন
+@line_4_6:91 তম রাস্তা
+@line_4_7:ট্রেড সেন্টার
+@line_4_8:স্টেডিয়াম
+@line_4_9:সেন্ট্রাল পার্ক
+@line_4_10:কন্ট্রোল পয়েন্ট
+@line_5_0:শহরতলির জেলা
+@line_5_1:বন রাস্তা
+@line_5_2:বার্চ পার্ক
+@line_5_3:স্টেডিয়াম (না থামিয়ে)
+@line_5_4:91 তম রাস্তা
+@line_5_5:পশ্চিম মহাসড়ক (না থামিয়ে)
+@line_5_6:87 তম স্ট্রিট
+@line_5_7:ইনস্টিটিউট অফ এনার্জি
+@line_5_8:ইতিহাসের যাদুঘর (থেমে নেই)
+@line_5_9:কেন্দ্রীয় গ্রন্থাগার
+@line_5_10:মিউজিয়াম স্ট্রিট (না থামিয়ে)
+@line_5_11:পার্ক স্ট্রিট
+@line_5_12:পরিবহন কর্তৃপক্ষ
+@line_5_13:লাইম স্ট্রিট (না থামিয়ে)
+@line_5_14:51 তম রাস্তা
+@line_5_15:49 তম রাস্তা (না থামিয়ে)
+@line_5_16:ওয়েস্ট স্ট্রিট
+@line_5_17:কন্ট্রোল পয়েন্ট

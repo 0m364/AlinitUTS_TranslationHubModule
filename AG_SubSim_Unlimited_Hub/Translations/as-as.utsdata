@@ -1,0 +1,186 @@
+$lang:[AUTO] Assamese
+$version:2
+//UI Strings
+@new_game_button:নতুন খেল
+@settings_button:ছেটিংছ
+@about_button:বিষয়ে
+@quit_button:এৰি দিয়া
+@choose_line_button:ঠিক আছে | লাইন বাছক
+@max_speed_text:সৰ্বোচ্চ। বেগ
+@cars_total_text:গাড়ী (মুঠ)
+@controller_text:নিয়ন্ত্ৰক
+@cab_preview_button:কেব
+@interior_preview_button:অভ্যন্তৰীণ অংশ
+@score_text:মানংক
+@passengers_text:যাত্ৰী
+@speed_limit_text:গতি সীমা
+@current_speed_text:বেগ
+@cab_camera_button:কেব কেমেৰা
+@interior_camera_button:অভ্যন্তৰীণ অংশ
+@station_camera_button:ষ্টেছন
+@controller_panel_header:নিয়ন্ত্ৰক
+@head_light_button:মূৰ
+@@:পাতল
+@cab_light_button:কেব লাইট
+@doors_button:দুৱাৰ
+@horn_button:শিঙ
+@stop_pos_header:অৱস্থান নিয়ন্ত্ৰণ বন্ধ কৰক
+@express_train_notifiaction:এইখন এক্সপ্ৰেছ ট্ৰেইন। এই ষ্টেচনটো এৰি দিয়ক।
+@view_pos_header:<- অৱস্থান চাওক ->
+@announcement_button:ঘোষণা
+@inf_msg_1:বাৰ্তা ১
+@@:(৫ ছেকেণ্ড)
+@inf_msg_2:বাৰ্তা ২
+@@:(১০ ছেকেণ্ড)
+@inf_ready:সাজু
+@inf_playback:বাৰ্তা পিছলৈ খেলা হয়...
+@inf_recording:ৰেকৰ্ডিং...
+@inf_record_txt:নথিভুক্ত
+@inf_done_txt:কৰা হ’ল
+@announcement_setup_button:স্থাপন কৰা
+@simple_lighting_notice:<b><color=red>টোকা: </color>যদি আপোনাৰ ডিভাইচে গতিশীল পোহৰ ব্যৱস্থাপ্ৰণালী সমৰ্থন কৰা নাই (হেডলাইট বৈশিষ্ট্যই কাম কৰা নাই), আপুনি "সৰল পোহৰ ব্যৱস্থাপ্ৰণালী" অন কৰিব পাৰে: </b>
+@quit_text:এৰি দিয়া
+@back_to_menu_button:মূল মেনুলৈ উভতি যাওক
+@cancel_button:বাতিল কৰক
+@simple_lighting_option:সহজ পোহৰ ব্যৱহাৰ কৰক (পুনৰ আৰম্ভ কৰাৰ প্ৰয়োজন)
+@back_button:পিছলৈ
+@line_select_text:লাইন নিৰ্বাচন কৰক
+@start_line_button:যাওঁ!
+@system_text:পদ্ধতি
+@master_switch_button:মাষ্টাৰ চুইচ
+@line_1_name:পশ্চিম লাইন
+@line_2_name:এন লাইন
+@line_3_name:এছ লাইন
+@line_4_name:চেণ্ট্ৰেল লাইন
+@line_5_name:এটা লাইন (এক্সপ্ৰেছ)
+@line_1_description:ষ্টেচন: ১০
+@@:স্তৰ: সহজ
+@line_2_description:ষ্টেচন: ৯
+@@:স্তৰ: সহজ
+@line_3_description:ষ্টেচন: ৭
+@@:স্তৰ: মধ্যমীয়া
+@line_4_description:ষ্টেচন: ১০
+@@:স্তৰ: কঠিন
+@line_5_description:ষ্টেচন: ১১ (১৭)
+@@:স্তৰ: কঠিন
+//////////////////
+@inf_next_signal:পৰৱৰ্তী সংকেত
+@inf_pressure:ব্ৰেক বায়ুৰ চাপ
+@inf_pressure_ind:Prsr.
+@msg_autobrake:অটোমেটিক ব্ৰেক সক্ৰিয় হৈ থাকে
+@msg_unloading:আনলোড কৰা হৈছে...
+@msg_correct_stop:ষ্টেচনত সঠিক ষ্টপ। বোনাছ +১০০
+@msg_nxt_station:এতিয়া পৰৱৰ্তী ষ্টেচনলৈ যাব পাৰিব
+@msg_start_1:আৰম্ভণিৰ বাবে প্ৰস্তুতি... অনুগ্ৰহ কৰি অপেক্ষা কৰক
+@msg_start_2:ইঞ্জিন আৰু কম্প্ৰেছাৰ প্ৰস্তুত কৰা। অনুগ্ৰহ কৰি অপেক্ষা কৰক
+@msg_start_3:ৰেলখন যাবলৈ সাজু হৈছে। শুভেচ্ছা থাকিল!
+@controller_lock:ব্লক কৰা হৈছে
+@fines_total:জৰিমনা, ​​মুঠ:
+@passengers_transported:পৰিবহণ কৰা যাত্ৰীসকল:
+@score:চূড়ান্ত স্ক'ৰ:
+@signal_red_txt:ৰঙা
+@signal_green_txt:সেউজীয়া
+@signal_connection:সংযোগ...
+@signal_warning:ৰঙা সংকেত আগবাঢ়িছে
+@signal_fine:ৰঙা সংকেতক আওকাণ কৰি, জৰিমনা -৫০
+@ads_disabled_txt:<b>বিজ্ঞাপনসমূহ নিষ্ক্ৰিয় কৰা হৈছে</b>
+@ads_disable_txt:<b>বিজ্ঞাপনসমূহ + অফলাইন ধৰণ নিষ্ক্ৰিয় কৰক</b>
+@@:<i><size=10>সকলো তৃতীয় পক্ষৰ বিজ্ঞাপন নিষ্ক্ৰিয় কৰে আৰু অফলাইন খেলা সম্ভৱ কৰে</size></i>
+@load_text_1:চিস্টেম পরীক্ষা...
+@load_text_2:কম্প্ৰেছাৰ পৰীক্ষা কৰি আছে...
+@load_text_3:সংকেত এবং ইঞ্জিন পরীক্ষা...
+@load_text_4:প্ৰায় শেষ...
+@spd_warning_50:সতৰ্কবাণী: গতি সীমা আগুৱাই (৫০ কিলোমিটাৰ প্ৰতি ঘণ্টা)
+@spd_warning_35:সতৰ্কবাণী: গতি সীমা আগুৱাই (৩৫ কিলোমিটাৰ প্ৰতি ঘণ্টা)
+@spd_overspeed:অতিমাত্ৰা গতি। অনুগ্ৰহ কৰি ৰেলৰ গতি নিয়ন্ত্ৰণত ৰাখক
+@spd_ok:এতিয়া ট্ৰেইনৰ গতি ঠিকেই আছে...
+@spd_fine:অতিমাত্ৰা গতি। লেহেমীয়া কৰক! জৰিমনা ১ পইণ্ট/ছেকেণ্ড
+@compressor_busy:ৰাজ্য: ব্যস্ত
+@compressor_standby:ৰাজ্য: ষ্টেণ্ডবাই
+@graphics_qual_txt:গ্রাফিক্সৰ মান
+@qual_low_txt:নিম্ন
+@qual_medium_txt:মাধ্যম
+@qual_norm_txt:স্বাভাৱিক
+@qual_high_txt:ওখ
+@qual_refl_checkbox:প্ৰতিফলন
+@qual_light_checkbox:সৰলীকৃত পোহৰ ব্যৱস্থা ব্যৱহাৰ কৰক (পুনৰ আৰম্ভ কৰাৰ প্ৰয়োজন)
+@change_lang_btn:খেলৰ ভাষা সলনি কৰক
+@close_btn:বন্ধ
+@about_text:দ্বাৰা প্ৰগ্ৰেমিং: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D মডেল দ্বাৰা: Anton Romanchuk
+@@:None
+@@:প্ৰকাশক: আলফা আন্তঃৰাষ্ট্ৰীয়। আই টি গ্ৰুপ
+@@:প্ৰকল্প ৰক্ষণাবেক্ষণ: Alinit প্ৰকল্প (alinit.org), support@alinit.org
+@offline_notice:<b>এই খেলৰ বাবে ইণ্টাৰনেটৰ ব্যৱহাৰ</b>ৰ প্ৰয়োজন
+@@:
+@@:ইণ্টাৰনেটৰ ব্যৱহাৰ আৰু তৃতীয় পক্ষৰ বিজ্ঞাপনে এই খেলখন উন্নত কৰিবলৈ কিছু ধন লাভ কৰাৰ অনুমতি দিয়ে। কিন্তু আপুনি সকলো তৃতীয় পক্ষৰ বিজ্ঞাপন নিষ্ক্ৰিয় কৰিবলৈ আৰু অফলাইন মোড সক্ৰিয় কৰিবলৈ "বিজ্ঞাপন নিষ্ক্ৰিয় কৰক" বৈশিষ্ট্য কিনিব পাৰে। আপোনাৰ বুজাবুজিৰ আশা।
+@selected_train_txt:নিৰ্বাচিত ৰেল
+@next_signal_txt:পৰৱৰ্তী সংকেত
+@air_compr_txt:এয়াৰ কম্প্ৰেছাৰ
+@air_pressure_txt:চাপ:
+@system_battery_txt:বেটাৰি
+@system_atc_txt:এ টি চি
+@controller_positions_txt:অৱস্থানসমূহ
+@nxt_station_txt:পৰৱৰ্তী ষ্টেচন:
+@nxt_ad_text:পৰৱৰ্তী বিজ্ঞাপন:
+@prep_ad_text:বিজ্ঞাপন প্রস্তুত...
+//////////////////
+//Stations
+@line_1_0:নৰ্থৱে
+@line_1_1:ফুলৰ ৰাস্তা
+@line_1_2:মুছিকেলনায়া
+@line_1_3:বন উদ্যান
+@line_1_4:ঔদ্যোগিক পথ
+@line_1_5:মৰ্স্কয়া
+@line_1_6:আব্ৰিকোচোভায়া
+@line_1_7:ছানশ্বাইন ষ্ট্ৰীট
+@line_1_8:এপেলচিনোভায়া
+@line_1_9:ৱেষ্ট ষ্ট্ৰীট
+@line_1_10:নিয়ন্ত্ৰণ বিন্দু
+@line_2_0:জাভোডস্কয়া
+@line_2_1:লিতেয়নায়া
+@line_2_2:আভটোজাভোড
+@line_2_3:ষ্টোন ষ্ট্ৰীট
+@line_2_4:ৰিভাৰ ষ্ট্ৰীট
+@line_2_5:চুডোৰেমন্টনি জাভোড
+@line_2_6:ইষ্ট ষ্ট্ৰীট
+@line_2_7:চেৰী-ট্ৰি পাৰ্ক
+@line_2_8:বিদ্যুৎ কেন্দ্ৰ
+@line_2_9:নিয়ন্ত্ৰণ বিন্দু
+@line_3_0:পুৰণি চহৰ
+@line_3_1:পাইন পাৰ্ক
+@line_3_2:৭ম চতুৰ্থাংশ
+@line_3_3:ষ্ট্ৰবেৰী বাগিচা
+@line_3_4:ওজেৰনায়া
+@line_3_5:উপকণ্ঠ অঞ্চল
+@line_3_6:বিমান-বন্দৰ
+@line_3_7:নিয়ন্ত্ৰণ বিন্দু
+@line_4_0:৩৮ নং ষ্ট্ৰীট
+@line_4_1:ব্যৱসায়িক কেন্দ্ৰ
+@line_4_2:চিটি স্কোৱাৰ
+@line_4_3:চিটি হল
+@line_4_4:ফেইল এভিনিউ
+@line_4_5:ডাউনটাউন
+@line_4_6:৯১ নং ষ্ট্ৰীট
+@line_4_7:ট্ৰেড চেণ্টাৰ
+@line_4_8:ষ্টেডিয়াম
+@line_4_9:চেণ্ট্ৰেল পাৰ্ক
+@line_4_10:নিয়ন্ত্ৰণ বিন্দু
+@line_5_0:উপনগৰীয়া বিচ্ছিন্নতা
+@line_5_1:বনৰ ৰাস্তা
+@line_5_2:বাৰ্চ পাৰ্ক
+@line_5_3:ষ্টেডিয়াম (ৰৈ নোযোৱাকৈ)
+@line_5_4:৯১ নং ষ্ট্ৰীট
+@line_5_5:পশ্চিম ঘাইপথ (ৰৈ নোযোৱাকৈ)
+@line_5_6:৮৭ নং ষ্ট্ৰীট
+@line_5_7:ইনষ্টিটিউট অৱ এনাৰ্জি
+@line_5_8:ইতিহাস সংগ্ৰহালয় (ৰৈ নোযোৱাকৈ)
+@line_5_9:কেন্দ্ৰীয় পুথিভঁৰাল
+@line_5_10:মিউজিয়াম ষ্ট্ৰীট (ৰৈ নোযোৱাকৈ)
+@line_5_11:পাৰ্ক ষ্ট্ৰীট
+@line_5_12:পৰিবহণ কৰ্তৃপক্ষ
+@line_5_13:লাইম ষ্ট্ৰীট (ৰৈ নোযোৱাকৈ)
+@line_5_14:৫১ নং ষ্ট্ৰীট
+@line_5_15:৪৯ নং ষ্ট্ৰীট (ৰৈ নোযোৱাকৈ)
+@line_5_16:ৱেষ্ট ষ্ট্ৰীট
+@line_5_17:নিয়ন্ত্ৰণ বিন্দু

@@ -1,0 +1,186 @@
+$lang:[AUTO] Afrikaans
+$version:2
+//UI Strings
+@new_game_button:Nuwe speletjie
+@settings_button:Instellings
+@about_button:Oor
+@quit_button:Hou op
+@choose_line_button:ok |kies lyn
+@max_speed_text:Maks.spoed
+@cars_total_text:Motors (totaal)
+@controller_text:Beheerder
+@cab_preview_button:Kajuit
+@interior_preview_button:Binne
+@score_text:Telling
+@passengers_text:Passasiers
+@speed_limit_text:Spoedbeperking
+@current_speed_text:Spoed
+@cab_camera_button:Kajuitkamera
+@interior_camera_button:Binne
+@station_camera_button:Stasie
+@controller_panel_header:Beheerder
+@head_light_button:Hoof
+@@:Lig
+@cab_light_button:Kajuit lig
+@doors_button:Deure
+@horn_button:Horing
+@stop_pos_header:Stop posisie beheer
+@express_train_notifiaction:Dit is sneltrein.Slaan hierdie stasie oor.
+@view_pos_header:<- Bekyk posisie ->
+@announcement_button:Aankondiging
+@inf_msg_1:Boodskap 1
+@@:(5 sekondes)
+@inf_msg_2:Boodskap 2
+@@:(10 sekondes)
+@inf_ready:Gereed
+@inf_playback:Boodskap speel tans af...
+@inf_recording:Neem tans op...
+@inf_record_txt:Rekord
+@inf_done_txt:Klaar
+@announcement_setup_button:Opstelling
+@simple_lighting_notice:<b><color=red>Let wel: </color>As jou toestel nie dinamiese beligtingstelsel ondersteun nie (kopligfunksie werk nie), kan jy "Eenvoudige beligtingstelsel" aanskakel: </b>
+@quit_text:Hou op
+@back_to_menu_button:Terug na Hoofkieslys
+@cancel_button:Kanselleer
+@simple_lighting_option:Gebruik eenvoudige beligting (herbegin vereis)
+@back_button:terug
+@line_select_text:Lyn kies
+@start_line_button:Kom ons gaan!
+@system_text:Stelsel
+@master_switch_button:MEESTER SWITCH
+@line_1_name:Westelike lyn
+@line_2_name:N lyn
+@line_3_name:S lyn
+@line_4_name:Sentrale lyn
+@line_5_name:'n Lyn (Express)
+@line_1_description:Stasies: 10
+@@:Vlak: maklik
+@line_2_description:Stasies: 9
+@@:Vlak: maklik
+@line_3_description:Stasies: 7
+@@:Vlak: medium
+@line_4_description:Stasies: 10
+@@:Vlak: hard
+@line_5_description:Stasies: 11 (17)
+@@:Vlak: hard
+//////////////////
+@inf_next_signal:Volgende sein
+@inf_pressure:Remme lugdruk
+@inf_pressure_ind:Psr.
+@msg_autobrake:Outomatiese rem is aktief
+@msg_unloading:Laai tans af …
+@msg_correct_stop:Korrekte stop op die stasie.Bonus +100
+@msg_nxt_station:Nou kan jy na die volgende stasie gaan
+@msg_start_1:Berei tans voor vir die begin... Wag asseblief
+@msg_start_2:Voorbereiding van enjin en kompressor.Wag asseblief
+@msg_start_3:Die trein is gereed om te gaan.Sterkte!
+@controller_lock:Geblokkeer
+@fines_total:Boetes, totaal:
+@passengers_transported:Passasiers vervoer:
+@score:Finale telling:
+@signal_red_txt:Rooi
+@signal_green_txt:Groen
+@signal_connection:Verbinding...
+@signal_warning:Rooi sein is voor
+@signal_fine:Ignoreer rooi sein, fyn -50
+@ads_disabled_txt:<b>Advertensies is gedeaktiveer</b>
+@ads_disable_txt:<b>Deaktiveer advertensies + vanlyn modus</b>
+@@:<i><size=10>Deaktiveer alle derdeparty-advertensies en maak dit moontlik om vanlyn te speel</size></i>
+@load_text_1:Gaan tans stelsels na...
+@load_text_2:Gaan tans kompressor na …
+@load_text_3:Gaan tans seine en enjin na...
+@load_text_4:Amper klaar...
+@spd_warning_50:Waarskuwing: Spoedbeperking is voor (50 km/u)
+@spd_warning_35:Waarskuwing: Spoedbeperking is voor (35 km/u)
+@spd_overspeed:Oorspoed.Hou asseblief die treinspoed onder beheer
+@spd_ok:Nou is die treinspoed OK...
+@spd_fine:Oorspoed.Gaan stadiger!Boete 1 punt/sek
+@compressor_busy:Staat: besig
+@compressor_standby:Staat: bystand
+@graphics_qual_txt:Grafiese kwaliteit
+@qual_low_txt:Laag
+@qual_medium_txt:Medium
+@qual_norm_txt:Normaal
+@qual_high_txt:Hoog
+@qual_refl_checkbox:Refleksies
+@qual_light_checkbox:Gebruik vereenvoudigde beligtingstelsel (herbegin vereis)
+@change_lang_btn:Verander speltaal
+@close_btn:Maak toe
+@about_text:Programmering deur: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D-modelle deur: Anton Romanchuk
+@@:------
+@@:Uitgewer: Alpha Intl.IT Groep
+@@:Projekonderhoud: Alinit-projek (alinit.org), support@alinit.org
+@offline_notice:<b>Hierdie speletjie vereis internettoegang</b>
+@@:
+@@:Internettoegang en derdeparty-advertensies maak dit moontlik om befondsing te kry om hierdie speletjie te verbeter.Jy kan egter die "Deaktiveer advertensies"-funksie koop om alle derdeparty-advertensies te deaktiveer en vanlynmodus te aktiveer.Hoop vir jou begrip.
+@selected_train_txt:Geselekteerde trein
+@next_signal_txt:Volgende sein
+@air_compr_txt:Lug kompressor
+@air_pressure_txt:Druk:
+@system_battery_txt:Battery
+@system_atc_txt:ATC
+@controller_positions_txt:posisies
+@nxt_station_txt:Volgende stasie:
+@nxt_ad_text:Volgende advertensie:
+@prep_ad_text:Berei tans advertensie voor...
+//////////////////
+//Stations
+@line_1_0:Noordweg
+@line_1_1:Blommestraat
+@line_1_2:Musikalnaya
+@line_1_3:Bospark
+@line_1_4:Industriële straat
+@line_1_5:Morskaja
+@line_1_6:Abrikosovaya
+@line_1_7:Sonskynstraat
+@line_1_8:Apelsinovaya
+@line_1_9:Wesstraat
+@line_1_10:Beheerpunt
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Klipstraat
+@line_2_4:Rivierstraat
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:Oosstraat
+@line_2_7:Kersieboom Park
+@line_2_8:Kragstasie
+@line_2_9:Beheerpunt
+@line_3_0:Ou Stad
+@line_3_1:Pine Park
+@line_3_2:7de kwartaal
+@line_3_3:Aarbei Tuin
+@line_3_4:Ozernaya
+@line_3_5:Voorstad
+@line_3_6:Lughawe
+@line_3_7:Beheerpunt
+@line_4_0:38ste straat
+@line_4_1:Besigheidsentrum
+@line_4_2:Stadsplein
+@line_4_3:Stadsaal
+@line_4_4:Faillelaan
+@line_4_5:Die middestad
+@line_4_6:91ste straat
+@line_4_7:Handelsentrum
+@line_4_8:Stadion
+@line_4_9:Central Park
+@line_4_10:Beheerpunt
+@line_5_0:Voorstedelike distrik
+@line_5_1:Bosstraat
+@line_5_2:Berkpark
+@line_5_3:Stadion (sonder om te stop)
+@line_5_4:91ste straat
+@line_5_5:West Highway (sonder om te stop)
+@line_5_6:87ste straat
+@line_5_7:Instituut vir Energie
+@line_5_8:Museum van Geskiedenis (sonder om te stop)
+@line_5_9:Sentrale Biblioteek
+@line_5_10:Museumstraat (sonder om te stop)
+@line_5_11:Parkstraat
+@line_5_12:Vervoerowerheid
+@line_5_13:Lime Street (sonder om te stop)
+@line_5_14:51ste straat
+@line_5_15:49ste Straat (sonder om te stop)
+@line_5_16:Wesstraat
+@line_5_17:Beheerpunt

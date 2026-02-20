@@ -1,0 +1,186 @@
+$lang:[AUTO] Tagalog
+$version:2
+//UI Strings
+@new_game_button:Bagong laro
+@settings_button:Mga Pagtatakda
+@about_button:Tungkol dito
+@quit_button:Lumabas
+@choose_line_button:Oksilya ang pumili ng linya
+@max_speed_text:Max. Bilis
+@cars_total_text:Mga Kotse (sa kabuuan)
+@controller_text:Tagakontrol
+@cab_preview_button:Cab
+@interior_preview_button:Loob
+@score_text:Dumarami
+@passengers_text:Mga pasahero
+@speed_limit_text:Mabilis na Hangganan
+@current_speed_text:Bilis
+@cab_camera_button:Cab camera
+@interior_camera_button:Loob
+@station_camera_button:Istasyon
+@controller_panel_header:Tagakontrol
+@head_light_button:Ulo
+@@:Liwanag
+@cab_light_button:Liwanag ng Cab
+@doors_button:Mga Pinto
+@horn_button:Sungay
+@stop_pos_header:Ihinto ang pagkontrol sa posisyon
+@express_train_notifiaction:Ito ay express train. Talin mo ang istasyong ito.
+@view_pos_header:<-Tingnan ang posisyon ->
+@announcement_button:Patalastas
+@inf_msg_1:Mensahe 1
+@@:(5 sec)
+@inf_msg_2:Mensahe 2
+@@:(10 sec)
+@inf_ready:Handa
+@inf_playback:Ang mensahe ay sumasagot...
+@inf_recording:Pagrerekord...
+@inf_record_txt:Ulat
+@inf_done_txt:Tapos
+@announcement_setup_button:Paglalagay
+@simple_lighting_notice:<b><color=red> Pansinin: </kulay> Kung ang iyong aparato ay hindi sumusuporta sa Dynamic Lighting System (Hindi gumagana ang tampok na liwanag), maaari mong buksan ang "Simpleng Sistema ng Pagliliwanag": </b>
+@quit_text:Lumabas
+@back_to_menu_button:Pagbabalik sa Pangunahing Pagkain
+@cancel_button:Huwag ituloy
+@simple_lighting_option:Gumamit ng simpleng ilaw (kailangan ang relaunch)
+@back_button:bumalik
+@line_select_text:Pumili ng linya
+@start_line_button:Tayo na!
+@system_text:Sistema
+@master_switch_button:SWITCH NG MASTER
+@line_1_name:Kanlurang Linya
+@line_2_name:N Line
+@line_3_name:Linya
+@line_4_name:Gitnang Linya
+@line_5_name:Isang Linya (Express)
+@line_1_description:Mga Istasyon: 10
+@@:Level: Madali
+@line_2_description:Mga Istasyon: 9
+@@:Level: Madali
+@line_3_description:Mga Istasyon: 7
+@@:Level: medium
+@line_4_description:Mga Istasyon: 10
+@@:Level: matigas
+@line_5_description:Mga estasyon: 11 (17)
+@@:Level: matigas
+//////////////////
+@inf_next_signal:Susunod na Tanda
+@inf_pressure:Labanan ang Panggigipit ng Hangin
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Aktibo ang awtomatikong preno
+@msg_unloading:Pagdidiskarga...
+@msg_correct_stop:Ituwid ang paghinto sa istasyon. Bonus +100
+@msg_nxt_station:Ngayon ay maaari ka nang magtungo sa susunod na istasyon
+@msg_start_1:Paghahanda para sa pasimula... Pakisuyong maghintay
+@msg_start_2:Paghahanda ng makina at compressor. Pakisuyong maghintay
+@msg_start_3:Handa nang umalis ang tren. Magandang kapalaran!
+@controller_lock:Naharang
+@fines_total:Mga multa, kabuuan:
+@passengers_transported:Mga pasaherong inihahatid:
+@score:Wakas:
+@signal_red_txt:Pula
+@signal_green_txt:Luntian
+@signal_connection:Kaugnayan...
+@signal_warning:Ang pulang hudyat ay nasa unahan na
+@signal_fine:Hindi pinapansin ang pulang hudyat, mainam -50
+@ads_disabled_txt:Ang mga <b>Ad ay may kapansanan</b>
+@ads_disable_txt:<b> Disibleng mga anunsiyo + offline mode</b>
+@@:<=10> Disables All 3rd party advertisings at ginawang posible na maglaro ng offline</size></i>
+@load_text_1:Mga sistema ng pagsusuri...
+@load_text_2:Pagsusuri sa compressor...
+@load_text_3:Sinusuri ang mga hudyat at makina...
+@load_text_4:Halos gawin...
+@spd_warning_50:Babala: Ang itinakdang bilis ay nasa unahan (50 stage)
+@spd_warning_35:Babala: Ang itinakdang bilis ay nasa unahan (35 kilometer)
+@spd_overspeed:Labis na pagkabalisa. Pakisuyong kontrolin ang bilis ng tren
+@spd_ok:OK na ngayon ang bilis ng tren...
+@spd_fine:Labis na pagkabalisa. Mabagal! Mainam na 1 punto/sec
+@compressor_busy:Kalagayan: abala
+@compressor_standby:Katayuan:
+@graphics_qual_txt:Katangian ng Graphics
+@qual_low_txt:Mababa
+@qual_medium_txt:Medium
+@qual_norm_txt:Normal
+@qual_high_txt:Mataas
+@qual_refl_checkbox:Pagbubulay - bulay
+@qual_light_checkbox:Gumamit ng pinasimpleng sistema ng ilaw (kailangan ang relaunch)
+@change_lang_btn:Palitan ang wika ng laro
+@close_btn:Malapit
+@about_text:Programa ni: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D Modelo ni: Anton Romanchuk
+@@:--
+@@:Publisher: Alpha Intl. IT Group
+@@:Project maintenance: Alinit Project (alinit.org), support @alinit.org
+@offline_notice:<b> Ang larong ito ay nangangailangan ng Internet access</b>
+@@:
+@@:Ang pag-access sa Internet at 3rd-party na mga anunsiyo ay pumapayag na makakuha ng ilang pondo upang mapabuti ang larong ito. Gayunman, mabibili mo ang "Disable adventure" na tampok upang sirain ang lahat ng 3rd-party adventures at mag-interline mode. Umasa sa iyong unawa.
+@selected_train_txt:Piniling tren
+@next_signal_txt:Susunod na Tanda
+@air_compr_txt:Pananakop sa Himpapawid
+@air_pressure_txt:Panggigipit:
+@system_battery_txt:Baterya
+@system_atc_txt:ATC
+@controller_positions_txt:kalagayan
+@nxt_station_txt:Susunod na istasyon:
+@nxt_ad_text:Susunod na Ad:
+@prep_ad_text:Paghahanda ng anunsiyo...
+//////////////////
+//Stations
+@line_1_0:Daan sa Hilaga
+@line_1_1:Lansangang Bulaklak
+@line_1_2:Musikalnaya
+@line_1_3:Parke ng Kagubatan
+@line_1_4:Industriyal na Lansangan
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Lansangang Sikatan ng Araw
+@line_1_8:Apelsinovaya
+@line_1_9:Lansangan sa Kanluran
+@line_1_10:Pagkontrol sa punto
+@line_2_0:Zavodkaya
+@line_2_1:Liteynaya
+@line_2_2:Naligtas
+@line_2_3:Lansangang Bato
+@line_2_4:Lansangan sa Ilog
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:Lansangan sa Silangan
+@line_2_7:Cherry-tree Park
+@line_2_8:Halaman ng Kuryente
+@line_2_9:Pagkontrol sa punto
+@line_3_0:Matandang Lunsod
+@line_3_1:Parke ng Pine
+@line_3_2:7th litro
+@line_3_3:Hardin ng Strawberry
+@line_3_4:Ozernaya
+@line_3_5:Sugarlo
+@line_3_6:Paliparan
+@line_3_7:Pagkontrol sa punto
+@line_4_0:Ika - 38 Lansangan
+@line_4_1:Sentro ng Negosyo
+@line_4_2:Liwasan ng Lunsod
+@line_4_3:City Hall
+@line_4_4:Bigong Avenue
+@line_4_5:Pagbaba ng Bayan
+@line_4_6:Ika - 91 Lansangan
+@line_4_7:Sentro ng Kalakalan
+@line_4_8:Istadyum
+@line_4_9:Gitnang Parke
+@line_4_10:Pagkontrol sa punto
+@line_5_0:" Suburban discrict "
+@line_5_1:Daang gubat
+@line_5_2:Parke ng Birch
+@line_5_3:Istadyum (nang hindi humihinto)
+@line_5_4:Ika - 91 Lansangan
+@line_5_5:West Highway (nang hindi humihinto)
+@line_5_6:Ika - 87 Lansangan
+@line_5_7:Instituto ng Enerhiya
+@line_5_8:Museo ng Kasaysayan (nang hindi humihinto)
+@line_5_9:Gitnang Aklatan
+@line_5_10:Museo Lansangan (nang hindi humihinto)
+@line_5_11:Lansangang Panlipunan
+@line_5_12:Awtoridad sa Transportasyon
+@line_5_13:Lansangang Lime (nang hindi humihinto)
+@line_5_14:Ika - 51 Lansangan
+@line_5_15:49th Street (nang hindi humihinto)
+@line_5_16:Lansangan sa Kanluran
+@line_5_17:Pagkontrol sa punto

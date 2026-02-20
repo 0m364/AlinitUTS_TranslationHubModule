@@ -1,0 +1,186 @@
+$lang:[AUTO] Latvian
+$version:2
+//UI Strings
+@new_game_button:Jauna spēle
+@settings_button:Iestatījumi
+@about_button:Par
+@quit_button:Iziet
+@choose_line_button:ok
+@max_speed_text:Maksimālais ātrums
+@cars_total_text:Automašīnas (kopā)
+@controller_text:Kontrolieris
+@cab_preview_button:Kabīne
+@interior_preview_button:Interjers
+@score_text:Rezultāts
+@passengers_text:Pasažieri
+@speed_limit_text:Ātruma ierobežojums
+@current_speed_text:Ātrums
+@cab_camera_button:Kabīnes kamera
+@interior_camera_button:Interjers
+@station_camera_button:Stacija
+@controller_panel_header:Kontrolieris
+@head_light_button:Galva
+@@:Gaišs
+@cab_light_button:Kabīnes apgaismojums
+@doors_button:Durvis
+@horn_button:Rags
+@stop_pos_header:Apstādināšanas pozīcijas vadība
+@express_train_notifiaction:Tas ir ekspresvilciens. Izlaist šo staciju.
+@view_pos_header:<- Skata pozīcija
+@announcement_button:Paziņojums
+@inf_msg_1:ziņojums
+@@:(5 sekundes)
+@inf_msg_2:2. vēstījums
+@@:(10 sek)
+@inf_ready:Gatavi
+@inf_playback:Vēstule atskaņojas...
+@inf_recording:Ieraksta...
+@inf_record_txt:Ieraksts
+@inf_done_txt:Pabeigts
+@announcement_setup_button:Iestatījumi
+@simple_lighting_notice:<b> <color=red> Piezīme: </color> Ja jūsu ierīce neatbalsta Dynamic Lighting System (Priekšgaismas funkcija nedarbojas), jūs varat ieslēgt "Vienkārša apgaismojuma sistēma": </b>
+@quit_text:Iziet
+@back_to_menu_button:Atpakaļ uz galveno izvēlni
+@cancel_button:Atcelt
+@simple_lighting_option:Izmantot vienkāršu apgaismojumu (nepieciešama atkārtota iedarbināšana)
+@back_button:atpakaļ
+@line_select_text:Rinda izvēlēta
+@start_line_button:Ejam!
+@system_text:Sistēma
+@master_switch_button:GALVENĀ SŪDZĪBA
+@line_1_name:Rietumu līnija
+@line_2_name:N līnija
+@line_3_name:S rinda
+@line_4_name:Centrālā līnija
+@line_5_name:Rinda (izspiest)
+@line_1_description:Stacijas: 10
+@@:Līmenis: viegli
+@line_2_description:Stacijas: 9
+@@:Līmenis: viegli
+@line_3_description:Stacijas: 7
+@@:Līmenis: vide
+@line_4_description:Stacijas: 10
+@@:Līmenis: grūti
+@line_5_description:Stacijas: 11 (17)
+@@:Līmenis: grūti
+//////////////////
+@inf_next_signal:Nākamais signāls
+@inf_pressure:Bremzes Gaisa spiediens
+@inf_pressure_ind:Presr.
+@msg_autobrake:Automātiskā bremzēšana ir aktīva
+@msg_unloading:Izlādē...
+@msg_correct_stop:Pareiza pietura stacijā. Bonuss +100
+@msg_nxt_station:Tagad jūs varat doties uz nākamo staciju
+@msg_start_1:Gatavojas startam... Lūdzu uzgaidiet
+@msg_start_2:Dzinēja un kompresora sagatavošana. Lūdzu uzgaidiet
+@msg_start_3:Vilciens ir gatavs. Lai veicas!
+@controller_lock:Bloķēts
+@fines_total:Soda naudas, kopā:
+@passengers_transported:Pārvadātie pasažieri:
+@score:Galīgais rezultāts:
+@signal_red_txt:Sarkans
+@signal_green_txt:Zaļš
+@signal_connection:Savienojums...
+@signal_warning:Sarkanais signāls ir priekšā
+@signal_fine:Ignorē sarkano signālu, smalki -50
+@ads_disabled_txt:<b>Adds atslēdzas
+@ads_disable_txt:<b> Atslēdzamas reklāmas + nesaistes režīms </b>
+@@:<i> <size=10> Atslēdz visas trešās puses reklāmas un ļauj atskaņot bezsaistē </size>
+@load_text_1:Pārbauda sistēmas...
+@load_text_2:Pārbauda kompresoru...
+@load_text_3:Pārbauda signālus un dzinēju...
+@load_text_4:Gandrīz pabeigts...
+@spd_warning_50:Brīdinājums: ātruma ierobežojums ir priekšā (50 kph)
+@spd_warning_35:Brīdinājums: ātruma ierobežojums ir priekšā (35 kph)
+@spd_overspeed:Pārāk liels ātrums. Lūdzu, kontrolējiet vilciena ātrumu
+@spd_ok:Tagad vilciena ātrums ir OK...
+@spd_fine:Pārāk liels ātrums. Lēnāk! Precīzs 1 punkts/sek.
+@compressor_busy:Stāvoklis: aizņemts
+@compressor_standby:Stāvoklis: dežūras laiks
+@graphics_qual_txt:Grafikas kvalitāte
+@qual_low_txt:Zema
+@qual_medium_txt:Vidējs
+@qual_norm_txt:Normāls
+@qual_high_txt:Augsts
+@qual_refl_checkbox:Atspīdumi
+@qual_light_checkbox:Izmantot vienkāršotu apgaismes sistēmu (nepieciešama atkārtota iedarbināšana)
+@change_lang_btn:Mainīt spēles valodu
+@close_btn:Aizvērt
+@about_text:Programmēšana: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D Modeļi: Anton Romanchuk
+@@:------
+@@:Izdevējs: Alpha Intl. IT grupa
+@@:Projekta uzturēšana: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:Šai spēlei ir nepieciešama piekļuve internetam
+@@:
+@@:Interneta piekļuve un 3rd-party reklāmas ļauj iegūt kādu finansējumu, lai uzlabotu šo spēli. Tomēr, jūs varat iegādāties "Disable Ads" funkciju, lai atspējotu visas 3rd-party reklāmas un aktivizēt bezsaistes režīmā. Ceru uz jūsu sapratni.
+@selected_train_txt:Izvēlētais vilciens
+@next_signal_txt:Nākamais signāls
+@air_compr_txt:Gaisa kompresors
+@air_pressure_txt:Spiediens:
+@system_battery_txt:Baterija
+@system_atc_txt:ATĶ
+@controller_positions_txt:pozīcijas
+@nxt_station_txt:Nākamā stacija:
+@nxt_ad_text:Nākamā reklāma:
+@prep_ad_text:Sagatavo reklāmu...
+//////////////////
+//Stations
+@line_1_0:Ziemeļu ceļš
+@line_1_1:Ziedu iela
+@line_1_2:Musikalnaja
+@line_1_3:Meža parks
+@line_1_4:Rūpnieciskā iela
+@line_1_5:Morskaja
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Vadības punkts
+@line_2_0:Zavodskaya
+@line_2_1:Liteinaja
+@line_2_2:Avtozavod
+@line_2_3:Akmens iela
+@line_2_4:Upes iela
+@line_2_5:Sudormontniy Zavod
+@line_2_6:East Street
+@line_2_7:Ķiršu koku parks
+@line_2_8:Elektrostacija
+@line_2_9:Vadības punkts
+@line_3_0:Vecpilsēta
+@line_3_1:Priežu parks
+@line_3_2:Kvartāls
+@line_3_3:Zemeņu dārzs
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:Lidosta
+@line_3_7:Vadības punkts
+@line_4_0:38. iela
+@line_4_1:Biznesa centrs
+@line_4_2:Pilsētas laukums
+@line_4_3:Pilsētas dome
+@line_4_4:Faille Avenue
+@line_4_5:Pilsēta
+@line_4_6:91. iela
+@line_4_7:Tirdzniecības centrs
+@line_4_8:Stadions
+@line_4_9:Centrālais parks
+@line_4_10:Vadības punkts
+@line_5_0:Piepilsētas disks
+@line_5_1:Meža iela
+@line_5_2:Bērzu parks
+@line_5_3:Stadions (bez apstāšanās)
+@line_5_4:91. iela
+@line_5_5:Rietumu lielceļš (bez apstāšanās)
+@line_5_6:87. iela
+@line_5_7:Enerģētikas institūts
+@line_5_8:Vēstures muzejs (bez apstāšanās)
+@line_5_9:Centrālā bibliotēka
+@line_5_10:Muzeju iela (bez apstāšanās)
+@line_5_11:Park Street
+@line_5_12:Transporta iestāde
+@line_5_13:Laima iela (bez apstāšanās)
+@line_5_14:51. iela
+@line_5_15:49. iela (bez apstāšanās)
+@line_5_16:West Street
+@line_5_17:Vadības punkts

@@ -1,0 +1,186 @@
+$lang:[AUTO] Bosnian
+$version:2
+//UI Strings
+@new_game_button:Nova igra
+@settings_button:Postavke
+@about_button:O
+@quit_button:Prestani
+@choose_line_button:ok | izaberite liniju
+@max_speed_text:Max. brzina
+@cars_total_text:Automobili (ukupno)
+@controller_text:Kontroler
+@cab_preview_button:Cab
+@interior_preview_button:Enterijer
+@score_text:Rezultat
+@passengers_text:Putnici
+@speed_limit_text:Ograničenje brzine
+@current_speed_text:Brzina
+@cab_camera_button:Kamera u kabini
+@interior_camera_button:Enterijer
+@station_camera_button:Stanica
+@controller_panel_header:Kontroler
+@head_light_button:Glava
+@@:Light
+@cab_light_button:Cab Light
+@doors_button:Vrata
+@horn_button:Horn
+@stop_pos_header:Kontrola položaja zaustavljanja
+@express_train_notifiaction:Ovo je ekspresni voz. Preskoči ovu stanicu.
+@view_pos_header:<- Prikaži poziciju ->
+@announcement_button:Najava
+@inf_msg_1:Poruka 1
+@@:(5 sekundi)
+@inf_msg_2:Poruka 2
+@@:(10 sekundi)
+@inf_ready:Spreman
+@inf_playback:Poruka se reproducira...
+@inf_recording:Snimanje...
+@inf_record_txt:Zapis
+@inf_done_txt:Gotovo
+@announcement_setup_button:Setup
+@simple_lighting_notice:<b><color=red>Napomena: </color>Ako vaš uređaj ne podržava sistem dinamičkog osvjetljenja (funkcija prednjih svjetala ne radi), možete uključiti "Simple Lighting System": </b>
+@quit_text:Prestani
+@back_to_menu_button:Povratak na glavni meni
+@cancel_button:Otkaži
+@simple_lighting_option:Koristite jednostavno osvjetljenje (potrebno je ponovno pokretanje)
+@back_button:nazad
+@line_select_text:Odabir linije
+@start_line_button:Idemo!
+@system_text:Sistem
+@master_switch_button:MASTER SWITCH
+@line_1_name:Western Line
+@line_2_name:N Linija
+@line_3_name:S Line
+@line_4_name:Centralna linija
+@line_5_name:Linija (Express)
+@line_1_description:Stanice: 10
+@@:Nivo: lako
+@line_2_description:Stanice: 9
+@@:Nivo: lako
+@line_3_description:Stanice: 7
+@@:Nivo: srednji
+@line_4_description:Stanice: 10
+@@:Nivo: teško
+@line_5_description:Stanice: 11 (17)
+@@:Nivo: teško
+//////////////////
+@inf_next_signal:Sledeći signal
+@inf_pressure:Pritisak vazduha kočnica
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Automatska kočnica je aktivna
+@msg_unloading:istovar...
+@msg_correct_stop:Ispravno zaustavljanje na stanici. Bonus +100
+@msg_nxt_station:Sada možete ići na sljedeću stanicu
+@msg_start_1:Priprema za početak... Molimo pričekajte
+@msg_start_2:Priprema motora i kompresora. Molimo pričekajte
+@msg_start_3:Voz je spreman za polazak. Sretno!
+@controller_lock:Blokirano
+@fines_total:Novčane kazne, ukupno:
+@passengers_transported:Prevezeni putnici:
+@score:Konačni rezultat:
+@signal_red_txt:Crveni
+@signal_green_txt:Zeleno
+@signal_connection:Veza...
+@signal_warning:Crveni signal je ispred
+@signal_fine:Ignoriranje crvenog signala, u redu -50
+@ads_disabled_txt:<b>Oglasi su onemogućeni</b>
+@ads_disable_txt:<b>Onemogući oglase + način rada van mreže</b>
+@@:<i><size=10>Onemogućuje sve oglase trećih strana i omogućava igranje van mreže</size></i>
+@load_text_1:Provjera sistema...
+@load_text_2:Provjera kompresora...
+@load_text_3:Provjera signala i motora...
+@load_text_4:Skoro gotovo...
+@spd_warning_50:Upozorenje: Ograničenje brzine je ispred (50 km/h)
+@spd_warning_35:Upozorenje: Ograničenje brzine je naprijed (35 km/h)
+@spd_overspeed:Prekoračenje brzine. Molimo držite brzinu voza pod kontrolom
+@spd_ok:Sada je brzina voza OK...
+@spd_fine:Prekoračenje brzine. Uspori! Fino 1 bod/sek
+@compressor_busy:Stanje: zauzeto
+@compressor_standby:Stanje: pripravnost
+@graphics_qual_txt:Kvalitet grafike
+@qual_low_txt:Nisko
+@qual_medium_txt:Srednje
+@qual_norm_txt:Normalno
+@qual_high_txt:Visoko
+@qual_refl_checkbox:Reflections
+@qual_light_checkbox:Koristite pojednostavljeni sistem rasvjete (potrebno je ponovno pokretanje)
+@change_lang_btn:Promijeni jezik igre
+@close_btn:Zatvori
+@about_text:Program: Svjatoslav Bilov (bilov@alinit.org)
+@@:3D modeli: Anton Romanchuk
+@@:None
+@@:Izdavač: Alpha Intl. IT Group
+@@:Održavanje projekta: Alinit projekat (alinit.org), support@alinit.org
+@offline_notice:<b>Ova igra zahtijeva pristup internetu</b>
+@@:
+@@:Pristup internetu i oglasi trećih strana omogućavaju vam da dobijete sredstva za poboljšanje ove igre. Međutim, možete kupiti funkciju "Onemogući oglase" da biste onemogućili sve oglase trećih strana i aktivirali način rada van mreže. Nadamo se Vašem razumijevanju.
+@selected_train_txt:Odabrani voz
+@next_signal_txt:Sledeći signal
+@air_compr_txt:Air Compressor
+@air_pressure_txt:pritisak:
+@system_battery_txt:Baterija
+@system_atc_txt:ATC
+@controller_positions_txt:pozicije
+@nxt_station_txt:Sljedeća stanica:
+@nxt_ad_text:Sljedeći oglas:
+@prep_ad_text:Priprema oglasa...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Flowers Street
+@line_1_2:Musikalnaya
+@line_1_3:Forest Park
+@line_1_4:Industrijska ulica
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Kontrolna tačka
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Trešnja park
+@line_2_8:Power Plant
+@line_2_9:Kontrolna tačka
+@line_3_0:Stari grad
+@line_3_1:Pine Park
+@line_3_2:7. kvartal
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Predgrađe
+@line_3_6:Aerodrom
+@line_3_7:Kontrolna tačka
+@line_4_0:38th Street
+@line_4_1:Poslovni centar
+@line_4_2:Gradski trg
+@line_4_3:Gradska vijećnica
+@line_4_4:Faille Avenue
+@line_4_5:Downtown
+@line_4_6:91. ulica
+@line_4_7:Trade Center
+@line_4_8:Stadion
+@line_4_9:Central Park
+@line_4_10:Kontrolna tačka
+@line_5_0:Prigradski distrikt
+@line_5_1:Šumska ulica
+@line_5_2:Birch Park
+@line_5_3:Stadion (bez zaustavljanja)
+@line_5_4:91. ulica
+@line_5_5:Zapadni autoput (bez zaustavljanja)
+@line_5_6:87th Street
+@line_5_7:Institut za energetiku
+@line_5_8:Istorijski muzej (bez zaustavljanja)
+@line_5_9:Centralna biblioteka
+@line_5_10:Muzejska ulica (bez zaustavljanja)
+@line_5_11:Park Street
+@line_5_12:Transportna uprava
+@line_5_13:Ulica lipa (bez zaustavljanja)
+@line_5_14:51st Street
+@line_5_15:49. ulica (bez zaustavljanja)
+@line_5_16:West Street
+@line_5_17:Kontrolna tačka

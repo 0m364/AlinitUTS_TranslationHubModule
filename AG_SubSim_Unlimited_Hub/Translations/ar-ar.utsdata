@@ -1,0 +1,186 @@
+$lang:[AUTO] Arabic
+$version:2
+//UI Strings
+@new_game_button:لعبة جديدة
+@settings_button:إعدادات
+@about_button:عن
+@quit_button:يترك
+@choose_line_button:طيب |اختر الخط
+@max_speed_text:الأعلى.سرعة
+@cars_total_text:السيارات (المجموع)
+@controller_text:المراقب المالي
+@cab_preview_button:سيارة أجرة
+@interior_preview_button:الداخلية
+@score_text:نتيجة
+@passengers_text:الركاب
+@speed_limit_text:الحد الأقصى للسرعة
+@current_speed_text:سرعة
+@cab_camera_button:كاميرا الكابينة
+@interior_camera_button:الداخلية
+@station_camera_button:محطة
+@controller_panel_header:المراقب المالي
+@head_light_button:رأس
+@@:ضوء
+@cab_light_button:ضوء الكابينة
+@doors_button:أبواب
+@horn_button:القرن
+@stop_pos_header:إيقاف التحكم في الموقف
+@express_train_notifiaction:هذا قطار سريعتخطي هذه المحطة.
+@view_pos_header:<- عرض الموقف ->
+@announcement_button:إعلان
+@inf_msg_1:الرسالة 1
+@@:(5 ثواني)
+@inf_msg_2:الرسالة 2
+@@:(10 ثانية)
+@inf_ready:مستعد
+@inf_playback:يتم إعادة تشغيل الرسالة...
+@inf_recording:تسجيل...
+@inf_record_txt:سِجِلّ
+@inf_done_txt:منتهي
+@announcement_setup_button:يثبت
+@simple_lighting_notice:<b><color=red>ملاحظة: </color>إذا كان جهازك لا يدعم نظام الإضاءة الديناميكي (ميزة المصباح الأمامي لا تعمل)، فيمكنك تشغيل "نظام الإضاءة البسيط": </b>
+@quit_text:يترك
+@back_to_menu_button:العودة إلى القائمة الرئيسية
+@cancel_button:يلغي
+@simple_lighting_option:استخدم الإضاءة البسيطة (يلزم إعادة التشغيل)
+@back_button:خلف
+@line_select_text:تحديد الخط
+@start_line_button:دعنا نذهب!
+@system_text:نظام
+@master_switch_button:التبديل الرئيسي
+@line_1_name:الخط الغربي
+@line_2_name:خط ن
+@line_3_name:خط S
+@line_4_name:الخط المركزي
+@line_5_name:خط (اكسبرس)
+@line_1_description:المحطات: 10
+@@:المستوى: سهل
+@line_2_description:المحطات: 9
+@@:المستوى: سهل
+@line_3_description:المحطات: 7
+@@:المستوى: متوسط
+@line_4_description:المحطات: 10
+@@:المستوى: صعب
+@line_5_description:المحطات: 11 (17)
+@@:المستوى: صعب
+//////////////////
+@inf_next_signal:الإشارة التالية
+@inf_pressure:ضغط هواء الفرامل
+@inf_pressure_ind:برسر.
+@msg_autobrake:الفرامل الأوتوماتيكية نشطة
+@msg_unloading:التفريغ...
+@msg_correct_stop:التوقف الصحيح في المحطة.مكافأة +100
+@msg_nxt_station:الآن يمكنك الذهاب إلى المحطة التالية
+@msg_start_1:التحضير للبدء... الرجاء الانتظار
+@msg_start_2:تحضير المحرك والضاغط.انتظر من فضلك
+@msg_start_3:القطار جاهز للانطلاق.حظ سعيد!
+@controller_lock:محظور
+@fines_total:إجمالي الغرامات:
+@passengers_transported:الركاب الذين تم نقلهم:
+@score:النتيجة النهائية:
+@signal_red_txt:أحمر
+@signal_green_txt:أخضر
+@signal_connection:اتصال...
+@signal_warning:الإشارة الحمراء في المستقبل
+@signal_fine:تجاهل الإشارة الحمراء، غرامة -50
+@ads_disabled_txt:<b>تم تعطيل الإعلانات</b>
+@ads_disable_txt:<b>تعطيل الإعلانات + وضع عدم الاتصال</b>
+@@:<i><size=10>تعطيل جميع إعلانات الجهات الخارجية وإتاحة اللعب دون الاتصال بالإنترنت</size></i>
+@load_text_1:أنظمة الفحص...
+@load_text_2:فحص الضاغط...
+@load_text_3:فحص الإشارات والمحرك...
+@load_text_4:أوشكت على الانتهاء...
+@spd_warning_50:تحذير: الحد الأقصى للسرعة متقدم (50 كم/الساعة)
+@spd_warning_35:تحذير: الحد الأقصى للسرعة متقدم (35 كم/الساعة)
+@spd_overspeed:السرعة الزائدة.يرجى السيطرة على سرعة القطار
+@spd_ok:الآن سرعة القطار جيدة..
+@spd_fine:السرعة الزائدة.ابطئ!غرامة 1 نقطة / ثانية
+@compressor_busy:الدولة: مشغولة
+@compressor_standby:الحالة: الاستعداد
+@graphics_qual_txt:جودة الرسومات
+@qual_low_txt:قليل
+@qual_medium_txt:واسطة
+@qual_norm_txt:طبيعي
+@qual_high_txt:عالي
+@qual_refl_checkbox:تأملات
+@qual_light_checkbox:استخدام نظام الإضاءة المبسط (يلزم إعادة التشغيل)
+@change_lang_btn:تغيير لغة اللعبة
+@close_btn:يغلق
+@about_text:برمجة: سفياتوسلاف بيلوف (bilov@alinit.org)
+@@:نماذج ثلاثية الأبعاد بواسطة: أنطون رومانشوك
+@@:------
+@@:الناشر: ألفا الدولية.مجموعة تكنولوجيا المعلومات
+@@:صيانة المشروع: مشروع ألينيت (alinit.org)، support@alinit.org
+@offline_notice:<b>تتطلب هذه اللعبة الوصول إلى الإنترنت</b>
+@@:
+@@:يتيح الوصول إلى الإنترنت وإعلانات الجهات الخارجية الحصول على بعض التمويل لتحسين هذه اللعبة.ومع ذلك، يمكنك شراء ميزة "تعطيل الإعلانات" لتعطيل جميع إعلانات الجهات الخارجية وتنشيط وضع عدم الاتصال.نأمل لتفهمك.
+@selected_train_txt:القطار المختار
+@next_signal_txt:الإشارة التالية
+@air_compr_txt:ضاغط الهواء
+@air_pressure_txt:ضغط:
+@system_battery_txt:بطارية
+@system_atc_txt:أتك
+@controller_positions_txt:المواقف
+@nxt_station_txt:المحطة التالية:
+@nxt_ad_text:الإعلان التالي:
+@prep_ad_text:جاري تجهيز اعلان...
+//////////////////
+//Stations
+@line_1_0:نورثواي
+@line_1_1:شارع الزهور
+@line_1_2:موسيقى
+@line_1_3:حديقة الغابة
+@line_1_4:شارع الصناعية
+@line_1_5:مورسكايا
+@line_1_6:أبريكوسوفايا
+@line_1_7:شارع الشمس المشرقة
+@line_1_8:أبلسينوفايا
+@line_1_9:شارع الغرب
+@line_1_10:نقطة التحكم
+@line_2_0:زافودسكايا
+@line_2_1:لايتينايا
+@line_2_2:السيارات
+@line_2_3:شارع الحجر
+@line_2_4:شارع النهر
+@line_2_5:سودوريمونتني زافود
+@line_2_6:شارع الشرق
+@line_2_7:حديقة شجرة الكرز
+@line_2_8:محطة توليد الكهرباء
+@line_2_9:نقطة التحكم
+@line_3_0:المدينة القديمة
+@line_3_1:باين بارك
+@line_3_2:الربع السابع
+@line_3_3:حديقة الفراولة
+@line_3_4:أوزيرنايا
+@line_3_5:ضاحية
+@line_3_6:مطار
+@line_3_7:نقطة التحكم
+@line_4_0:شارع 38
+@line_4_1:مركز الأعمال
+@line_4_2:ساحة المدينة
+@line_4_3:بلدية
+@line_4_4:شارع فايل
+@line_4_5:وسط البلد
+@line_4_6:شارع 91
+@line_4_7:مركز التجارة
+@line_4_8:الملعب
+@line_4_9:سنترال بارك
+@line_4_10:نقطة التحكم
+@line_5_0:منطقة الضواحي
+@line_5_1:شارع الغابة
+@line_5_2:بيرش بارك
+@line_5_3:الملعب (بدون توقف)
+@line_5_4:شارع 91
+@line_5_5:الطريق السريع الغربي (بدون توقف)
+@line_5_6:شارع 87
+@line_5_7:معهد الطاقة
+@line_5_8:متحف التاريخ (بدون توقف)
+@line_5_9:المكتبة المركزية
+@line_5_10:شارع المتحف (بدون توقف)
+@line_5_11:شارع بارك
+@line_5_12:هيئة النقل
+@line_5_13:شارع لايم (بدون توقف)
+@line_5_14:شارع 51
+@line_5_15:شارع 49 (بدون توقف)
+@line_5_16:شارع الغرب
+@line_5_17:نقطة التحكم

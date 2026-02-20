@@ -1,0 +1,186 @@
+$lang:[AUTO] Galician
+$version:2
+//UI Strings
+@new_game_button:Novo xogo
+@settings_button:Configuración
+@about_button:Sobre
+@quit_button:Deixar
+@choose_line_button:Escolle a liña
+@max_speed_text:Max velocidade
+@cars_total_text:Coches (totais)
+@controller_text:controlador
+@cab_preview_button:Cabrón
+@interior_preview_button:Interior
+@score_text:Puntuación
+@passengers_text:Pasaxeiros
+@speed_limit_text:Límite de velocidade
+@current_speed_text:velocidade
+@cab_camera_button:Cab cámara
+@interior_camera_button:Interior
+@station_camera_button:Estación
+@controller_panel_header:controlador
+@head_light_button:Cabeza
+@@:Luz
+@cab_light_button:Cab Light
+@doors_button:Portas
+@horn_button:Horn
+@stop_pos_header:Stop control de posición
+@express_train_notifiaction:Este tren expreso. Saltar esta estación.
+@view_pos_header:> posición ->
+@announcement_button:Anuncio
+@inf_msg_1:Mensaxe 1
+@@:(5 sec)
+@inf_msg_2:Mensaxe 2
+@@:(10 sec)
+@inf_ready:Listo
+@inf_playback:A mensaxe está volvendo...
+@inf_recording:Gravación...
+@inf_record_txt:Record Record
+@inf_done_txt:Feito
+@announcement_setup_button:Setup
+@simple_lighting_notice:<b><cor=vermello> Categoría: </color> Se o teu dispositivo non soporta o sistema de iluminación dinámico (a función de Skype non funciona), podes activar o sistema de iluminación simple:
+@quit_text:Deixar
+@back_to_menu_button:Volver ao menú principal
+@cancel_button:Cancelar
+@simple_lighting_option:Usar iluminación simple (relanzamento necesario)
+@back_button:Volta atrás
+@line_select_text:liña select
+@start_line_button:Vamos!
+@system_text:Sistema
+@master_switch_button:Maxistrador SWITCH
+@line_1_name:Liña occidental
+@line_2_name:N Line
+@line_3_name:Liña S
+@line_4_name:Liña central
+@line_5_name:Unha liña (Express)
+@line_1_description:Estacións: 10
+@@:Nivel: fácil
+@line_2_description:Estacións: 9
+@@:Nivel: fácil
+@line_3_description:Estacións: 7
+@@:Nivel: Medio
+@line_4_description:Estacións: 10
+@@:Nivel: duro
+@line_5_description:Estacións: 11 (17)
+@@:Nivel: duro
+//////////////////
+@inf_next_signal:seguinte sinal
+@inf_pressure:Presión do aire freo
+@inf_pressure_ind:Prsr.
+@msg_autobrake:O freo automático está activo
+@msg_unloading:descarga...
+@msg_correct_stop:Correcta parada na estación. Bonus +100
+@msg_nxt_station:Xa podes ir á seguinte estación
+@msg_start_1:Preparándose para o comezo... Por favor, espera
+@msg_start_2:Preparación de motores e compresores. Por favor, espera
+@msg_start_3:O tren está listo para ir. Boa sorte!
+@controller_lock:Bloqueado
+@fines_total:Precios, total:
+@passengers_transported:Pasaxeiros transportados:
+@score:Resultado final:
+@signal_red_txt:Red
+@signal_green_txt:Verde
+@signal_connection:Conexión...
+@signal_warning:O sinal vermello está por diante
+@signal_fine:Sinal vermello, fino -50
+@ads_disabled_txt:<b>Ads están deshabilitados</b>
+@ads_disable_txt:<b>Dispoñibles + modo offline</b>
+@@:<i><size=10> Desactiva todos os anuncios de terceiros e permite xogar sen conexión</size></i>
+@load_text_1:Verificación de sistemas...
+@load_text_2:Comprobar o compresor ...
+@load_text_3:Comprobar os sinais e o motor
+@load_text_4:Case feito...
+@spd_warning_50:Aviso: o límite de velocidade está por diante (50 kph)
+@spd_warning_35:Aviso: o límite de velocidade está por diante (35 kph)
+@spd_overspeed:velocidade excesiva. Manter a velocidade do tren baixo control
+@spd_ok:A velocidade do tren está ben...
+@spd_fine:velocidade excesiva. Zurce despacio. 1 punto/sec
+@compressor_busy:Estado: ocupado
+@compressor_standby:Estado: Standby
+@graphics_qual_txt:Calidade gráfica
+@qual_low_txt:Baixo
+@qual_medium_txt:Medio
+@qual_norm_txt:Normal
+@qual_high_txt:Alto
+@qual_refl_checkbox:Reflexións
+@qual_light_checkbox:Usar un sistema simplificado de iluminación (requirido)
+@change_lang_btn:Cambiar idioma de xogo
+@close_btn:Pechar
+@about_text:Programación: Sviatoslav Bilov (bilov@alinit.org)
+@@:Modelos 3D: Anton Romanchuk
+@@:-...
+@@:Categoría: Alpha Intl. IT Group
+@@:Mantemento do proxecto: Proxecto Alinit (alinit.org), support@alinit.org
+@offline_notice:<b>Este xogo require acceso a Internet</b>
+@@:
+@@:O acceso a Internet e os anuncios de terceiros permiten obter financiamento para mellorar este xogo. Non obstante, pode comprar a función "Disable ads" para desactivar todos os anuncios de terceiros e activar o modo offline. Espero a túa comprensión.
+@selected_train_txt:Tren seleccionado
+@next_signal_txt:seguinte sinal
+@air_compr_txt:Compresor de aire
+@air_pressure_txt:Presión:
+@system_battery_txt:Batería
+@system_atc_txt:ATC
+@controller_positions_txt:Posicións
+@nxt_station_txt:Próxima estación:
+@nxt_ad_text:Seguinte Ad:
+@prep_ad_text:Preparando publicidade...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Flores Rúa
+@line_1_2:Musikalnaya
+@line_1_3:Forest Park
+@line_1_4:Rúa Industrial
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:Rúa Oeste
+@line_1_10:Punto de control
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Rúa Stone
+@line_2_4:Rúa Río
+@line_2_5:Sudoremontniy
+@line_2_6:Rúa Leste
+@line_2_7:Cherry-tree Park
+@line_2_8:Planta de enerxía
+@line_2_9:Punto de control
+@line_3_0:Cidade vella
+@line_3_1:Pine Park
+@line_3_2:7o cuarzo
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:aeroporto
+@line_3_7:Punto de control
+@line_4_0:Rúa 38
+@line_4_1:Centro de Negocios
+@line_4_2:Cidade Plaza
+@line_4_3:City Hall
+@line_4_4:Avenida Faille
+@line_4_5:Centro
+@line_4_6:Rúa 91
+@line_4_7:Centro comercial
+@line_4_8:Estadio
+@line_4_9:Central Park
+@line_4_10:Punto de control
+@line_5_0:Discricción suburbana
+@line_5_1:Rúa Forestal
+@line_5_2:Birch Park
+@line_5_3:Estadio (sen parar)
+@line_5_4:Rúa 91
+@line_5_5:Estrada (sen parar)
+@line_5_6:Rúa 87
+@line_5_7:Instituto de Enerxía
+@line_5_8:Museo da Historia (sen parar)
+@line_5_9:Biblioteca Central
+@line_5_10:Rúa do Museo (sen parar)
+@line_5_11:Park Street
+@line_5_12:Autoridade de transporte
+@line_5_13:Lime Street (sen parar)
+@line_5_14:Rúa 51
+@line_5_15:Rúa 49 (sen parada)
+@line_5_16:Rúa Oeste
+@line_5_17:Punto de control

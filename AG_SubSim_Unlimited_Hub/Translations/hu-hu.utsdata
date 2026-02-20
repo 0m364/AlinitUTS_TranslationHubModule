@@ -1,0 +1,186 @@
+$lang:[AUTO] Hungarian
+$version:2
+//UI Strings
+@new_game_button:Új játék
+@settings_button:Beállítások
+@about_button:Körülbelül
+@quit_button:Kilépés
+@choose_line_button:ok
+@max_speed_text:Max. sebesség
+@cars_total_text:Autók (összesen)
+@controller_text:Vezérlő
+@cab_preview_button:Taxi
+@interior_preview_button:Belső
+@score_text:Pontszám
+@passengers_text:Utasok
+@speed_limit_text:Sebességhatár
+@current_speed_text:Sebesség
+@cab_camera_button:Taxi kamera
+@interior_camera_button:Belső
+@station_camera_button:Állomás
+@controller_panel_header:Vezérlő
+@head_light_button:Fej
+@@:Fény
+@cab_light_button:Taxi fény
+@doors_button:Ajtók
+@horn_button:Horn
+@stop_pos_header:A helyzetellenőrzés leállítása
+@express_train_notifiaction:Ez a gyorsvonat. Hagyd ezt az állomást.
+@view_pos_header:< - Pozíció megtekintése - >
+@announcement_button:Bejelentés
+@inf_msg_1:1. üzenet
+@@:(5 másodperc)
+@inf_msg_2:2. üzenet
+@@:(10 másodperc)
+@inf_ready:Kész
+@inf_playback:Az üzenet visszaüt...
+@inf_recording:Felvétel...
+@inf_record_txt:Nyilvántartás
+@inf_done_txt:Kész.
+@announcement_setup_button:Beállítás
+@simple_lighting_notice:<b> < szín = piros > Megjegyzés: < / szín > Ha a készülék nem támogatja a dinamikus világítási rendszert (a fényszóró funkció nem működik), bekapcsolhatja az "Egyszerű világítási rendszert": </b>
+@quit_text:Kilépés
+@back_to_menu_button:Vissza a főmenübe
+@cancel_button:Törlés
+@simple_lighting_option:Egyszerű világítás használata (újraindítás szükséges)
+@back_button:vissza
+@line_select_text:Vonalkijelölés
+@start_line_button:Gyerünk!
+@system_text:Rendszer
+@master_switch_button:MASTER SVÁJC
+@line_1_name:Nyugati vonal
+@line_2_name:N vonal
+@line_3_name:S vonal
+@line_4_name:Központi vonal
+@line_5_name:Egy vonal (Express)
+@line_1_description:Állomások: 10
+@@:Szint: könnyű
+@line_2_description:Állomások: 9
+@@:Szint: könnyű
+@line_3_description:Állomások: 7
+@@:Szint: közepes
+@line_4_description:Állomások: 10
+@@:Szint: kemény
+@line_5_description:Állomások: 11 (17)
+@@:Szint: kemény
+//////////////////
+@inf_next_signal:Következő jel
+@inf_pressure:Fék légnyomás
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Automatikus fék aktív
+@msg_unloading:Kirakodás...
+@msg_correct_stop:Helyes megálló az állomáson. Bónusz + 100
+@msg_nxt_station:Most már mehetsz a következő állomásra.
+@msg_start_1:Felkészülni a kezdésre... Kérem, várjon.
+@msg_start_2:A motor és a kompresszor előkészítése. Kérem, várjon.
+@msg_start_3:A vonat indulásra kész. Sok szerencsét!
+@controller_lock:Blokkolt
+@fines_total:Bírságok összesen:
+@passengers_transported:Szállított utasok:
+@score:Végső pontszám:
+@signal_red_txt:Piros
+@signal_green_txt:Zöld
+@signal_connection:Kapcsolat...
+@signal_warning:A vörös jel előttünk van.
+@signal_fine:Vörös jelzés figyelmen kívül hagyása, rendben -50
+@ads_disabled_txt:<b> A hirdetések tiltottak </b>
+@ads_disable_txt:<b> hirdetések letiltása + offline mód </b>
+@@:<i> < méret = 10 > Minden harmadik féltől származó hirdetés törlése és offline lejátszása < / méret > </i>
+@load_text_1:Ellenőrzési rendszerek...
+@load_text_2:Ellenőrzöm a kompresszort...
+@load_text_3:Jelek és motor ellenőrzése...
+@load_text_4:Majdnem kész...
+@spd_warning_50:Figyelem: a sebességhatár előttünk van (50 km / h)
+@spd_warning_35:Figyelem: a sebességhatár előttünk van (35 km / h)
+@spd_overspeed:Overspee. Kérem, tartsa a vonat sebességét ellenőrzés alatt.
+@spd_ok:A vonat sebessége rendben van...
+@spd_fine:Overspee. Lassíts! Fine 1 pont / s
+@compressor_busy:Állam: elfoglalt
+@compressor_standby:Állam: készenlét
+@graphics_qual_txt:Grafikus minőség
+@qual_low_txt:Alacsony
+@qual_medium_txt:Közepes
+@qual_norm_txt:Normál
+@qual_high_txt:Magas
+@qual_refl_checkbox:Reflections
+@qual_light_checkbox:Egyszerűsített világítási rendszer használata (újraindítás szükséges)
+@change_lang_btn:A játéknyelv megváltoztatása
+@close_btn:Bezárás
+@about_text:Programozás: Szviatoslav Bilov (bilov @ alinit.org)
+@@:3D modellek: Anton Romanchuk
+@@:- Igen.
+@@:Kiadó: Alpha Intl. IT Group
+@@:Projektkarbantartás: Alinit Project (alinit.org), support @ alinit.org
+@offline_notice:<b> Ez a játék Internet hozzáférést igényel </b>
+@@:
+@@:Internet-hozzáférés és 3rd- party hirdetések lehetővé teszik, hogy némi finanszírozást javítani ezt a játékot. Azonban megvásárolhatja a "Letiltható hirdetések" funkciót, hogy kikapcsolja az összes 3rd- party hirdetést és aktiválja az offline módot. Remélem megérti.
+@selected_train_txt:Kiválasztott vonat
+@next_signal_txt:Következő jel
+@air_compr_txt:Légkompresszor
+@air_pressure_txt:Nyomás:
+@system_battery_txt:Akkumulátor
+@system_atc_txt:ATC
+@controller_positions_txt:pozíciók
+@nxt_station_txt:Következő állomás:
+@nxt_ad_text:Következő hirdetés:
+@prep_ad_text:A reklám előkészítése...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Virágok utca
+@line_1_2:Musikanalnaya
+@line_1_3:Forest Park
+@line_1_4:Ipari utca
+@line_1_5:Morszkaja
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Ellenőrzési pont
+@line_2_0:Zavodszkaja
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry- tree Park
+@line_2_8:Erőmű
+@line_2_9:Ellenőrzési pont
+@line_3_0:Old City
+@line_3_1:Pine Park
+@line_3_2:Kvartál
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:Repülőtér
+@line_3_7:Ellenőrzési pont
+@line_4_0:38. utca
+@line_4_1:Business Center
+@line_4_2:City Square
+@line_4_3:Városháza
+@line_4_4:Equille Avenue
+@line_4_5:Belváros
+@line_4_6:91. utca
+@line_4_7:Kereskedelmi központ
+@line_4_8:Stadion
+@line_4_9:Central Park
+@line_4_10:Ellenőrzési pont
+@line_5_0:Suburban discrict
+@line_5_1:Forest street
+@line_5_2:Birch Park
+@line_5_3:Stadium (megállás nélkül)
+@line_5_4:91. utca
+@line_5_5:Nyugati autópálya (megállás nélkül)
+@line_5_6:87. utca
+@line_5_7:Energiaintézet
+@line_5_8:Történelmi Múzeum (megállás nélkül)
+@line_5_9:Központi könyvtár
+@line_5_10:Museum Street (megállás nélkül)
+@line_5_11:Park Street
+@line_5_12:Közlekedési hatóság
+@line_5_13:Lime Street (megállás nélkül)
+@line_5_14:51. utca
+@line_5_15:49. utca (megállás nélkül)
+@line_5_16:West Street
+@line_5_17:Ellenőrzési pont

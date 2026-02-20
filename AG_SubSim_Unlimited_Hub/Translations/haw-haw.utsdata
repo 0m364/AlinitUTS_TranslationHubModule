@@ -1,0 +1,186 @@
+$lang:[AUTO] Hawaiian
+$version:2
+//UI Strings
+@new_game_button:Pāʻani hou
+@settings_button:Nā hoʻonohonoho
+@about_button:E pili ana
+@quit_button:Haʻalele
+@choose_line_button:maikai | koho laina
+@max_speed_text:Max. ka māmā holo
+@cars_total_text:Nā kaʻa (nui)
+@controller_text:Mea hooponopono
+@cab_preview_button:ʻO Cab
+@interior_preview_button:Kalaiaina
+@score_text:Heluhelu
+@passengers_text:ʻO nā mea hele
+@speed_limit_text:palena māmā
+@current_speed_text:Ka māmā holo
+@cab_camera_button:Kāpena pahupaʻi
+@interior_camera_button:Kalaiaina
+@station_camera_button:Kūlana
+@controller_panel_header:Mea hooponopono
+@head_light_button:Poʻo
+@@:Māmā
+@cab_light_button:Mālamalama Kaʻa
+@doors_button:Puka
+@horn_button:Kiwi
+@stop_pos_header:Kāohi kūlana
+@express_train_notifiaction:ʻO ke kaʻaahi hōʻike kēia. Holo i kēia kahua.
+@view_pos_header:<- Nānā kūlana ->
+@announcement_button:Hoolaha
+@inf_msg_1:ʻŌlelo 1
+@@:(5 kekona)
+@inf_msg_2:Message 2
+@@:(10 kekona)
+@inf_ready:Mākaukau
+@inf_playback:Ke pāʻani nei ka memo...
+@inf_recording:Hoʻopaʻa ʻia...
+@inf_record_txt:Hoʻopaʻa
+@inf_done_txt:Pau
+@announcement_setup_button:Hoʻonoho
+@simple_lighting_notice:<b><color=red>E hoʻomaopopo: </color>Inā ʻaʻole kākoʻo kāu hāmeʻa i ka Dynamic Lighting System (ʻaʻole e hana ana ka hiʻohiʻona Headlight), hiki iā ʻoe ke hoʻā i ka "Simple Lighting System": </b>
+@quit_text:Haʻalele
+@back_to_menu_button:E hoʻi i ka papa kuhikuhi nui
+@cancel_button:Hoʻopau
+@simple_lighting_option:E hoʻohana i nā kukui māmā (pono e hoʻouka hou)
+@back_button:hope
+@line_select_text:Koho laina
+@start_line_button:E hele kāua!
+@system_text:Pūnaehana
+@master_switch_button:KUKA MASTER
+@line_1_name:Laina Komohana
+@line_2_name:N Laina
+@line_3_name:Laina S
+@line_4_name:Laina Waena
+@line_5_name:He Laina (Express)
+@line_1_description:Nā kahua: 10
+@@:Papa: maʻalahi
+@line_2_description:Nā kahua: 9
+@@:Papa: maʻalahi
+@line_3_description:Nā kahua: 7
+@@:Papa: waena
+@line_4_description:Nā kahua: 10
+@@:Papa: paakiki
+@line_5_description:Nā kahua: 11 (17)
+@@:Papa: paakiki
+//////////////////
+@inf_next_signal:Hōʻailona aʻe
+@inf_pressure:Paʻa Ea Paʻa
+@inf_pressure_ind:Ua haʻi aku ʻo Prsr.
+@msg_autobrake:Hoʻoikaika ʻia ke kaʻa ʻakomi
+@msg_unloading:Ke wehe nei i ka ukana...
+@msg_correct_stop:Kū pololei ma ke kahua. Pōmaikaʻi +100
+@msg_nxt_station:I kēia manawa hiki iā ʻoe ke hele i ke kikowaena aʻe
+@msg_start_1:Ke hoʻomākaukau nei no ka hoʻomaka... E ʻoluʻolu e kali
+@msg_start_2:Hoʻomākaukau i ka ʻenekini a me ka compressor. E ʻoluʻolu e kali
+@msg_start_3:Ua mākaukau ke kaʻaahi e hele. Pōmaikaʻi iā ʻoe
+@controller_lock:Kāohi ʻia
+@fines_total:Uku, huina:
+@passengers_transported:Ua lawe ʻia nā poʻe holo:
+@score:Helu hope:
+@signal_red_txt:ʻulaʻula
+@signal_green_txt:ʻōmaʻomaʻo
+@signal_connection:Hoʻohui...
+@signal_warning:Aia ka hōʻailona ʻulaʻula ma mua
+@signal_fine:Ke nānā ʻole nei i ka hōʻailona ʻulaʻula, maikaʻi -50
+@ads_disabled_txt:<b>Ua pio nā hoʻolaha</b>
+@ads_disable_txt:<b>Hoʻopau i nā hoʻolaha + ʻano hoʻopahemo</b>
+@@:<i><size=10>Hoʻopau i nā hoʻolaha pāʻoihana ʻekolu a hiki ke pāʻani ma waho</size></i>
+@load_text_1:Ke nānā nei i nā ʻōnaehana...
+@load_text_2:Ke nānā nei i ka compressor...
+@load_text_3:Ke nānā nei i nā hōʻailona a me ka ʻenekini...
+@load_text_4:Aneane pau...
+@spd_warning_50:'Ōlelo Aʻo: Aia ma mua ka palena wikiwiki (50 kph)
+@spd_warning_35:'Ōlelo Aʻo: Aia ma mua ka palena wikiwiki (35 kph)
+@spd_overspeed:ʻOi aku ka wikiwiki. E ʻoluʻolu e mālama i ka māmā holo kaʻaahi
+@spd_ok:I kēia manawa ua maikaʻi ka māmā holo kaʻaahi...
+@spd_fine:ʻOi aku ka wikiwiki. E lohi i lalo! Maikaʻi 1 helu/sec
+@compressor_busy:Mokuʻāina: hana
+@compressor_standby:Mokuʻāina: standby
+@graphics_qual_txt:ʻAno kiʻi
+@qual_low_txt:Haʻahaʻa
+@qual_medium_txt:Kauwaena
+@qual_norm_txt:Maʻamau
+@qual_high_txt:Kiʻekiʻe
+@qual_refl_checkbox:Nā noʻonoʻo
+@qual_light_checkbox:E hoʻohana i ka ʻōnaehana kukui maʻalahi (pono e hoʻouka hou)
+@change_lang_btn:Hoʻololi i ka ʻōlelo pāʻani
+@close_btn:Pani
+@about_text:Ka papahana na: Sviatoslav Bilov (bilov@alinit.org)
+@@:Nā mea hoʻohālike 3D na: Anton Romanchuk
+@@:None
+@@:Mea hoʻopuka: Alpha Intl. Pūʻulu IT
+@@:Mālama ʻia ka papahana: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Pono kēia pāʻani i ke komo pūnaewele</b>
+@@:
+@@:Loaʻa ka ʻike pūnaewele a me nā hoʻolaha ʻaoʻao 3 e loaʻa kālā e hoʻomaikaʻi i kēia pāʻani. Eia naʻe, hiki iā ʻoe ke kūʻai i ka hiʻohiʻona "Disable ads" no ka hoʻopau ʻana i nā hoʻolaha 3rd-party a pau a hoʻā i ke ʻano offline. Manaʻolana no kou hoʻomaopopo ʻana.
+@selected_train_txt:Kaʻaahi i koho ʻia
+@next_signal_txt:Hōʻailona aʻe
+@air_compr_txt:Komi Ea
+@air_pressure_txt:Paʻi:
+@system_battery_txt:Batri
+@system_atc_txt:ATC
+@controller_positions_txt:kūlana
+@nxt_station_txt:kahua aʻe:
+@nxt_ad_text:Hoʻolaha aʻe:
+@prep_ad_text:Ke hoʻomākaukau nei i ka hoʻolaha...
+//////////////////
+//Stations
+@line_1_0:Ala ʻĀkau
+@line_1_1:Alanui Pua
+@line_1_2:Musikalnaya
+@line_1_3:Paka nahele
+@line_1_4:Alanui Hana
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Alanui Sunshine
+@line_1_8:Apelsinovaya
+@line_1_9:Alanui Komohana
+@line_1_10:Lae hoʻomalu
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Alanui Pohaku
+@line_2_4:Alanui muliwai
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:Alanui Hikina
+@line_2_7:Pāka lāʻau Cherry
+@line_2_8:Mea Mana Mana
+@line_2_9:Lae hoʻomalu
+@line_3_0:Kulanakauhale kahiko
+@line_3_1:Pāka Pine
+@line_3_2:hapaha 7
+@line_3_3:Kihapai Strawberry
+@line_3_4:ʻOzernaya
+@line_3_5:Kaona
+@line_3_6:kahua mokulele
+@line_3_7:Lae hoʻomalu
+@line_4_0:Alanui 38
+@line_4_1:Keena Hana
+@line_4_2:Kulanakauhale
+@line_4_3:Hale Kulanakauhale
+@line_4_4:Alanui Faille
+@line_4_5:Kaona
+@line_4_6:Alanui 91
+@line_4_7:Keena Kalepa
+@line_4_8:kahua pāʻani
+@line_4_9:Pāka Waena
+@line_4_10:Lae hoʻomalu
+@line_5_0:ʻĀpana kuʻuna
+@line_5_1:Alanui nahele
+@line_5_2:Pāka Birch
+@line_5_3:Ke kahua pāʻani (me ka hoʻomaha ʻole)
+@line_5_4:Alanui 91
+@line_5_5:Alanui Komohana (me ke ku ole)
+@line_5_6:Alanui 87
+@line_5_7:Institute of Energy
+@line_5_8:Hale Hōʻikeʻike moʻolelo (me ka ʻole o ka hoʻomaha)
+@line_5_9:Hale Waihona Puke
+@line_5_10:Alanui Hale Hōʻikeʻike (me ke kū ʻole)
+@line_5_11:Alanui Paka
+@line_5_12:Mana lawe kaʻa
+@line_5_13:Alanui Lime (me ke kū ʻole)
+@line_5_14:Alanui 51
+@line_5_15:Alanui 49th (me ka hooki ole)
+@line_5_16:Alanui Komohana
+@line_5_17:Lae hoʻomalu

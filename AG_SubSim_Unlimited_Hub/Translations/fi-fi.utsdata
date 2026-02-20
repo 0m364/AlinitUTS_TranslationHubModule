@@ -1,0 +1,186 @@
+$lang:[AUTO] Finnish
+$version:2
+//UI Strings
+@new_game_button:Uusi peli
+@settings_button:Asetukset
+@about_button:Noin
+@quit_button:Lopettaa
+@choose_line_button:okei |valitse rivi
+@max_speed_text:Max.nopeus
+@cars_total_text:Autot (yhteensä)
+@controller_text:Ohjain
+@cab_preview_button:Ohjaamo
+@interior_preview_button:Sisustus
+@score_text:Pisteet
+@passengers_text:Matkustajat
+@speed_limit_text:Nopeusrajoitus
+@current_speed_text:Nopeus
+@cab_camera_button:Ohjaamon kamera
+@interior_camera_button:Sisustus
+@station_camera_button:asema
+@controller_panel_header:Ohjain
+@head_light_button:Pää
+@@:Kevyt
+@cab_light_button:Ohjaamon valo
+@doors_button:Ovet
+@horn_button:Sarvi
+@stop_pos_header:Pysäytysasennon ohjaus
+@express_train_notifiaction:Tämä on pikajuna.Ohita tämä asema.
+@view_pos_header:<- Näytä sijainti ->
+@announcement_button:Ilmoitus
+@inf_msg_1:Viesti 1
+@@:(5 s)
+@inf_msg_2:Viesti 2
+@@:(10 s)
+@inf_ready:Valmis
+@inf_playback:Viestiä toistetaan...
+@inf_recording:Tallennetaan...
+@inf_record_txt:Tallentaa
+@inf_done_txt:Tehty
+@announcement_setup_button:Asennus
+@simple_lighting_notice:<b><color=red>Huomaa: </color>Jos laitteesi ei tue dynaamista valaistusjärjestelmää (ajovaloominaisuus ei toimi), voit ottaa käyttöön "Yksinkertaisen valaistusjärjestelmän": </b>
+@quit_text:Lopettaa
+@back_to_menu_button:Takaisin päävalikkoon
+@cancel_button:Peruuttaa
+@simple_lighting_option:Käytä yksinkertaista valaistusta (vaatii uudelleenkäynnistyksen)
+@back_button:takaisin
+@line_select_text:Linjan valinta
+@start_line_button:Mennään!
+@system_text:Järjestelmä
+@master_switch_button:PÄÄKYTKIN
+@line_1_name:Länsi linja
+@line_2_name:N rivi
+@line_3_name:S Line
+@line_4_name:Keskilinja
+@line_5_name:Rivi (pika)
+@line_1_description:Asemat: 10
+@@:Taso: helppo
+@line_2_description:Asemat: 9
+@@:Taso: helppo
+@line_3_description:Asemat: 7
+@@:Taso: keskitaso
+@line_4_description:Asemat: 10
+@@:Taso: kova
+@line_5_description:Asemat: 11 (17)
+@@:Taso: kova
+//////////////////
+@inf_next_signal:Seuraava signaali
+@inf_pressure:Jarrut Ilmanpaine
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Automaattijarru on aktiivinen
+@msg_unloading:Puretaan...
+@msg_correct_stop:Oikea pysäkki asemalla.Bonus +100
+@msg_nxt_station:Nyt voit mennä seuraavalle asemalle
+@msg_start_1:Valmistellaan alkuun... Odota
+@msg_start_2:Moottorin ja kompressorin valmistelu.Odota
+@msg_start_3:Juna on valmis lähtöön.Onnea!
+@controller_lock:Estetty
+@fines_total:Sakot yhteensä:
+@passengers_transported:Kuljetetut matkustajat:
+@score:Lopputulos:
+@signal_red_txt:Punainen
+@signal_green_txt:Vihreä
+@signal_connection:Yhteys...
+@signal_warning:Punainen signaali on edessä
+@signal_fine:Ohitetaan punainen signaali, hieno -50
+@ads_disabled_txt:<b>Mainokset on poistettu käytöstä</b>
+@ads_disable_txt:<b>Poista mainokset + offline-tila käytöstä</b>
+@@:<i><size=10>Poistaa käytöstä kaikki kolmannen osapuolen mainokset ja mahdollistaa pelaamisen offline-tilassa</size></i>
+@load_text_1:Tarkistetaan järjestelmiä...
+@load_text_2:Tarkistetaan kompressoria...
+@load_text_3:Tarkistetaan signaaleja ja moottoria...
+@load_text_4:Melkein valmis...
+@spd_warning_50:Varoitus: nopeusrajoitus edessä (50 km/h)
+@spd_warning_35:Varoitus: nopeusrajoitus edessä (35 km/h)
+@spd_overspeed:Ylinopeus.Pidä junan nopeus hallinnassa
+@spd_ok:Nyt junan nopeus on kohdallaan...
+@spd_fine:Ylinopeus.Hidastaa!Hieno 1 piste/s
+@compressor_busy:Tila: kiireinen
+@compressor_standby:Tila: valmiustila
+@graphics_qual_txt:Grafiikka laatu
+@qual_low_txt:Matala
+@qual_medium_txt:Keskikokoinen
+@qual_norm_txt:Normaali
+@qual_high_txt:Korkea
+@qual_refl_checkbox:Heijastuksia
+@qual_light_checkbox:Käytä yksinkertaistettua valaistusjärjestelmää (vaatii uudelleenkäynnistyksen)
+@change_lang_btn:Vaihda pelin kieli
+@close_btn:Lähellä
+@about_text:Ohjelmointi: Svjatoslav Bilov (bilov@alinit.org)
+@@:3D-mallit: Anton Romanchuk
+@@:------
+@@:Kustantaja: Alpha Intl.IT-ryhmä
+@@:Projektin ylläpito: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Tämä peli vaatii Internet-yhteyden</b>
+@@:
+@@:Internet-yhteys ja kolmannen osapuolen mainokset antavat mahdollisuuden saada rahoitusta pelin parantamiseen.Voit kuitenkin ostaa "Poista mainokset käytöstä" -ominaisuuden poistaaksesi kaikki kolmannen osapuolen mainokset käytöstä ja ottaaksesi offline-tilan käyttöön.Toivon ymmärrystäsi.
+@selected_train_txt:Valittu juna
+@next_signal_txt:Seuraava signaali
+@air_compr_txt:Ilmakompressori
+@air_pressure_txt:Paine:
+@system_battery_txt:Akku
+@system_atc_txt:ATC
+@controller_positions_txt:asemat
+@nxt_station_txt:Seuraava asema:
+@nxt_ad_text:Seuraava mainos:
+@prep_ad_text:Valmistellaan mainosta...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Kukat Street
+@line_1_2:Musikalnaya
+@line_1_3:Metsäpuisto
+@line_1_4:Teollisuuskatu
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Control point
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry-tree Park
+@line_2_8:Power Plant
+@line_2_9:Control point
+@line_3_0:Old City
+@line_3_1:Pine Park
+@line_3_2:7th quartal
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:Airport
+@line_3_7:Control point
+@line_4_0:38th Street
+@line_4_1:Business Center
+@line_4_2:City Square
+@line_4_3:City Hall
+@line_4_4:Faille Avenue
+@line_4_5:Downtown
+@line_4_6:91st Street
+@line_4_7:Trade Center
+@line_4_8:Stadium
+@line_4_9:Central Park
+@line_4_10:Control point
+@line_5_0:Suburban discrict
+@line_5_1:Forest street
+@line_5_2:Birch Park
+@line_5_3:Stadium (without stopping)
+@line_5_4:91st Street
+@line_5_5:West Highway (without stopping)
+@line_5_6:87th Street
+@line_5_7:Institute of Energy
+@line_5_8:Museum of History (without stopping)
+@line_5_9:Central Library
+@line_5_10:Museum Street (without stopping)
+@line_5_11:Park Street
+@line_5_12:Transport Authority
+@line_5_13:Lime Street (without stopping)
+@line_5_14:51st Street
+@line_5_15:49th Street (without stopping)
+@line_5_16:West Street
+@line_5_17:Control point

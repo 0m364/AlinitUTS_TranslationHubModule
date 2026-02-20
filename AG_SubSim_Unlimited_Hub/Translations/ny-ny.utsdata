@@ -1,0 +1,186 @@
+$lang:[AUTO] Chichewa
+$version:2
+//UI Strings
+@new_game_button:Masewera atsopano
+@settings_button:Zokonda
+@about_button:Za
+@quit_button:Siyani
+@choose_line_button:chabwino | sankhani mzere
+@max_speed_text:Max. liwiro
+@cars_total_text:Magalimoto (onse)
+@controller_text:Wolamulira
+@cab_preview_button:Zashuga
+@interior_preview_button:Mkati
+@score_text:Chogoli
+@passengers_text:Apaulendo
+@speed_limit_text:Mulingo Wakathamangidwe
+@current_speed_text:Liwiro
+@cab_camera_button:Cab kamera
+@interior_camera_button:Mkati
+@station_camera_button:Sitimayi
+@controller_panel_header:Wolamulira
+@head_light_button:Mutu
+@@:Kuwala
+@cab_light_button:Kuwala kwa Cab
+@doors_button:Zitseko
+@horn_button:Nyanga
+@stop_pos_header:Kuyimitsa malo kulamulira
+@express_train_notifiaction:Iyi ndi sitima yapamtunda. Dumphani apa.
+@view_pos_header:<- Onani malo ->
+@announcement_button:Chilengezo
+@inf_msg_1:Uthenga 1
+@@:(5 mphindikati)
+@inf_msg_2:Uthenga 2
+@@:(10 mphindikati)
+@inf_ready:Okonzeka
+@inf_playback:Uthenga ukuseweranso...
+@inf_recording:Kujambula...
+@inf_record_txt:Lembani
+@inf_done_txt:Zatheka
+@announcement_setup_button:Khazikitsa
+@simple_lighting_notice:<b><color=red>Dziwani: </color>Ngati chipangizo chanu sichikugwiritsa ntchito Dynamic Lighting System (Nyali yakumutu sikugwira ntchito), mutha kuyatsa "Simple Lighting System": </b>
+@quit_text:Siyani
+@back_to_menu_button:Bwererani ku Main menyu
+@cancel_button:Letsani
+@simple_lighting_option:Gwiritsani ntchito kuyatsa kosavuta (kuyambitsanso ndikofunikira)
+@back_button:kumbuyo
+@line_select_text:Sankhani mzere
+@start_line_button:Tiyeni tizipita!
+@system_text:Dongosolo
+@master_switch_button:MASTER SITCH
+@line_1_name:Western Line
+@line_2_name:N Line
+@line_3_name:S Line
+@line_4_name:Central Line
+@line_5_name:Mzere (Express)
+@line_1_description:Malo: 10
+@@:mlingo: zosavuta
+@line_2_description:Malo: 9
+@@:mlingo: zosavuta
+@line_3_description:Malo: 7
+@@:mlingo: wapakati
+@line_4_description:Malo: 10
+@@:Level: zovuta
+@line_5_description:Malo: 11 (17)
+@@:Level: zovuta
+//////////////////
+@inf_next_signal:Next Signal
+@inf_pressure:Mabuleki Air Pressure
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Mabuleki odzidzimutsa akugwira ntchito
+@msg_unloading:Kutsitsa...
+@msg_correct_stop:Kuyimitsa koyenera pa siteshoni. Bonasi +100
+@msg_nxt_station:Tsopano mutha kupita kusiteshoni yotsatira
+@msg_start_1:Kukonzekera zoyambira... Chonde dikirani
+@msg_start_2:Kukonzekera injini ndi kompresa. chonde dikirani
+@msg_start_3:Sitimayi yakonzeka kupita. Zabwino zonse!
+@controller_lock:Oletsedwa
+@fines_total:Zindapusa, zonse:
+@passengers_transported:Apaulendo adanyamula:
+@score:Zotsatira Zomaliza:
+@signal_red_txt:Chofiira
+@signal_green_txt:Green
+@signal_connection:Kulumikizana...
+@signal_warning:Chizindikiro chofiyira chili patsogolo
+@signal_fine:Kunyalanyaza chizindikiro chofiira, chabwino -50
+@ads_disabled_txt:<b>Zotsatsa ndizozimitsa</b>
+@ads_disable_txt:<b>Zimitsani zotsatsa + zosapezeka pa intaneti</b>
+@@:<i><size=10>Imayimitsa zotsatsa zonse za gulu lachitatu ndikupangitsa kuti zitheke kusewera pa intaneti</size></i>
+@load_text_1:Kuyang'ana machitidwe...
+@load_text_2:Kuwona kompresa...
+@load_text_3:Kuyang'ana zizindikiro ndi injini...
+@load_text_4:Zatsala pang'ono kutha...
+@spd_warning_50:Chenjezo: Liwiro liri patsogolo (50 kph)
+@spd_warning_35:Chenjezo: Liwiro lili patsogolo (35 kph)
+@spd_overspeed:Kuthamanga kwambiri. Chonde sungani liwiro la sitima
+@spd_ok:Tsopano kuthamanga kwa sitimayo kuli bwino...
+@spd_fine:Kuthamanga kwambiri. Chedweraniko pang'ono! Zabwino 1 point/sec
+@compressor_busy:State: otanganidwa
+@compressor_standby:State: standby
+@graphics_qual_txt:Zithunzi Quality
+@qual_low_txt:Zochepa
+@qual_medium_txt:Wapakati
+@qual_norm_txt:Wamba
+@qual_high_txt:Wapamwamba
+@qual_refl_checkbox:Kulingalira
+@qual_light_checkbox:Gwiritsani ntchito makina owunikira osavuta (kukhazikitsanso ndikofunikira)
+@change_lang_btn:Sinthani chinenero chamasewera
+@close_btn:Tsekani
+@about_text:Pulogalamu: Sviatoslav Bilov (bilov@alinit.org)
+@@:Zithunzi za 3D ndi: Anton Romanchuk
+@@:None
+@@:Wofalitsa: Alpha Intl. Gulu la IT
+@@:Kukonza ntchito: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Masewerawa amafuna intaneti</b>
+@@:
+@@:Kugwiritsa ntchito intaneti komanso zotsatsa za gulu lachitatu zimalola kupeza ndalama zowongolera masewerawa. Komabe, mutha kugula gawo la "Disable ads" kuti muyimitse zotsatsa za gulu lachitatu ndikuyambitsa mawonekedwe osalumikizidwa. Ndikuyembekeza kumvetsetsa kwanu.
+@selected_train_txt:Sitimayi yosankhidwa
+@next_signal_txt:Next Signal
+@air_compr_txt:Air Compressor
+@air_pressure_txt:Kupanikizika:
+@system_battery_txt:Batiri
+@system_atc_txt:ATC
+@controller_positions_txt:maudindo
+@nxt_station_txt:Pokwerera lotsatira:
+@nxt_ad_text:Malonda Ena:
+@prep_ad_text:Kukonzekera zotsatsa...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Flowers Street
+@line_1_2:Musikalnaya
+@line_1_3:Forest Park
+@line_1_4:Msewu wa Industrial
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Msewu wa Sunlight
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Control point
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:Msewu wa River
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry Tree Park
+@line_2_8:Chomera Chamagetsi
+@line_2_9:Control point
+@line_3_0:Old City
+@line_3_1:Pine Park
+@line_3_2:7 kotala
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Kumidzi
+@line_3_6:Airport
+@line_3_7:Control point
+@line_4_0:38th Street
+@line_4_1:Business Center
+@line_4_2:City Square
+@line_4_3:chipinda chamzinda
+@line_4_4:Faille Avenue
+@line_4_5:Pakatikati pa mzinda
+@line_4_6:91st Street
+@line_4_7:Trade Center
+@line_4_8:Stadium
+@line_4_9:Central Park
+@line_4_10:Control point
+@line_5_0:Chigawo chakumidzi
+@line_5_1:Forest Street
+@line_5_2:Birch Park
+@line_5_3:Stadium (popanda kuyima)
+@line_5_4:91st Street
+@line_5_5:West Highway (popanda kuyimitsa)
+@line_5_6:87th Street
+@line_5_7:Institute of Energy
+@line_5_8:Museum of History (popanda kuyimitsa)
+@line_5_9:Central Library
+@line_5_10:Museum Street (popanda kuyimitsa)
+@line_5_11:Park Street
+@line_5_12:Transport Authority
+@line_5_13:Lime Street (popanda kuyimitsa)
+@line_5_14:Msewu wa 51st
+@line_5_15:49th Street (popanda kuyimitsa)
+@line_5_16:West Street
+@line_5_17:Control point

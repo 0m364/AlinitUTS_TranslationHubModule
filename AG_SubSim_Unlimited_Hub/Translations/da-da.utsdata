@@ -1,0 +1,186 @@
+$lang:[AUTO] Danish
+$version:2
+//UI Strings
+@new_game_button:Nyt spil
+@settings_button:Indstillinger
+@about_button:Om
+@quit_button:Forlade
+@choose_line_button:ok |vælg linje
+@max_speed_text:Maks.hastighed
+@cars_total_text:Biler (i alt)
+@controller_text:Controller
+@cab_preview_button:Cab
+@interior_preview_button:Indre
+@score_text:Score
+@passengers_text:Passagerer
+@speed_limit_text:Hastighedsgrænse
+@current_speed_text:Hastighed
+@cab_camera_button:Cab kamera
+@interior_camera_button:Indre
+@station_camera_button:Station
+@controller_panel_header:Controller
+@head_light_button:Hoved
+@@:Lys
+@cab_light_button:Kabinelys
+@doors_button:Døre
+@horn_button:Horn
+@stop_pos_header:Stoppositionskontrol
+@express_train_notifiaction:Dette er eksprestog.Spring over denne station.
+@view_pos_header:<- Se position ->
+@announcement_button:Bekendtgørelse
+@inf_msg_1:Besked 1
+@@:(5 sek.)
+@inf_msg_2:Besked 2
+@@:(10 sek.)
+@inf_ready:Parat
+@inf_playback:Beskeden afspilles...
+@inf_recording:Indspilning...
+@inf_record_txt:Optage
+@inf_done_txt:Færdig
+@announcement_setup_button:Opsætning
+@simple_lighting_notice:<b><color=red>Bemærk: </color>Hvis din enhed ikke understøtter Dynamic Lighting System (Forlygtefunktionen virker ikke), kan du slå "Simple Lighting System" til: </b>
+@quit_text:Forlade
+@back_to_menu_button:Tilbage til hovedmenuen
+@cancel_button:Ophæve
+@simple_lighting_option:Brug simpel belysning (genstart påkrævet)
+@back_button:tilbage
+@line_select_text:Linjevalg
+@start_line_button:Lad os gå!
+@system_text:System
+@master_switch_button:MASTER SWITCH
+@line_1_name:vestlige linje
+@line_2_name:N linje
+@line_3_name:S linje
+@line_4_name:Central linje
+@line_5_name:En linje (Express)
+@line_1_description:Stationer: 10
+@@:Niveau: let
+@line_2_description:Stationer: 9
+@@:Niveau: let
+@line_3_description:Stationer: 7
+@@:Niveau: medium
+@line_4_description:Stationer: 10
+@@:Niveau: hårdt
+@line_5_description:Stationer: 11 (17)
+@@:Niveau: hårdt
+//////////////////
+@inf_next_signal:Næste signal
+@inf_pressure:Bremser lufttryk
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Automatisk bremse er aktiv
+@msg_unloading:Losser...
+@msg_correct_stop:Korrekt stop på stationen.Bonus +100
+@msg_nxt_station:Nu kan du gå til næste station
+@msg_start_1:Forbereder til starten... Vent venligst
+@msg_start_2:Klargøring af motor og kompressor.Vent venligst
+@msg_start_3:Toget er klar til at gå.Held og lykke!
+@controller_lock:Blokeret
+@fines_total:Bøder i alt:
+@passengers_transported:Transporterede passagerer:
+@score:Slutresultat:
+@signal_red_txt:Rød
+@signal_green_txt:Grøn
+@signal_connection:Forbindelse...
+@signal_warning:Rødt signal er forude
+@signal_fine:Ignorerer rødt signal, fint -50
+@ads_disabled_txt:<b>Annoncer er deaktiveret</b>
+@ads_disable_txt:<b>Deaktiver annoncer + offlinetilstand</b>
+@@:<i><size=10>Deaktiverer alle tredjepartsannoncer og gør det muligt at spille offline</size></i>
+@load_text_1:Tjekker systemer...
+@load_text_2:Tjekker kompressor...
+@load_text_3:Kontrollerer signaler og motor...
+@load_text_4:Næsten færdig...
+@spd_warning_50:Advarsel: Hastighedsgrænsen er forude (50 km/t)
+@spd_warning_35:Advarsel: Hastighedsgrænsen er forude (35 km/t)
+@spd_overspeed:Overfart.Hold venligst togets hastighed under kontrol
+@spd_ok:Nu er toghastigheden OK...
+@spd_fine:Overfart.Sæt farten ned!Fin 1 point/sek
+@compressor_busy:Tilstand: travlt
+@compressor_standby:Tilstand: standby
+@graphics_qual_txt:Grafikkvalitet
+@qual_low_txt:Lav
+@qual_medium_txt:Medium
+@qual_norm_txt:Normal
+@qual_high_txt:Høj
+@qual_refl_checkbox:Refleksioner
+@qual_light_checkbox:Brug forenklet belysningssystem (relancering påkrævet)
+@change_lang_btn:Skift spilsprog
+@close_btn:Tæt
+@about_text:Programmering af: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D-modeller af: Anton Romanchuk
+@@:------
+@@:Udgiver: Alpha Intl.IT-gruppen
+@@:Projektvedligeholdelse: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Dette spil kræver internetadgang</b>
+@@:
+@@:Internetadgang og 3.-parts annoncer giver mulighed for at få nogle midler til at forbedre dette spil.Du kan dog købe funktionen "Deaktiver annoncer" for at deaktivere alle tredjepartsannoncer og aktivere offlinetilstand.Hope for your understanding.
+@selected_train_txt:Udvalgt tog
+@next_signal_txt:Næste signal
+@air_compr_txt:Luftkompressor
+@air_pressure_txt:Tryk:
+@system_battery_txt:Batteri
+@system_atc_txt:ATC
+@controller_positions_txt:stillinger
+@nxt_station_txt:Næste station:
+@nxt_ad_text:Næste annonce:
+@prep_ad_text:Forbereder annonce...
+//////////////////
+//Stations
+@line_1_0:Nordvej
+@line_1_1:Blomstergade
+@line_1_2:Musikalnaya
+@line_1_3:Skovparken
+@line_1_4:Industrigade
+@line_1_5:Morskaja
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:Vestgaden
+@line_1_10:Kontrolpunkt
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stengade
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry-tree Park
+@line_2_8:Power Plant
+@line_2_9:Control point
+@line_3_0:Old City
+@line_3_1:Pine Park
+@line_3_2:7th quartal
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:Airport
+@line_3_7:Control point
+@line_4_0:38th Street
+@line_4_1:Business Center
+@line_4_2:City Square
+@line_4_3:City Hall
+@line_4_4:Faille Avenue
+@line_4_5:Downtown
+@line_4_6:91st Street
+@line_4_7:Trade Center
+@line_4_8:Stadium
+@line_4_9:Central Park
+@line_4_10:Control point
+@line_5_0:Suburban discrict
+@line_5_1:Forest street
+@line_5_2:Birch Park
+@line_5_3:Stadium (without stopping)
+@line_5_4:91st Street
+@line_5_5:West Highway (without stopping)
+@line_5_6:87th Street
+@line_5_7:Institute of Energy
+@line_5_8:Museum of History (without stopping)
+@line_5_9:Central Library
+@line_5_10:Museum Street (without stopping)
+@line_5_11:Park Street
+@line_5_12:Transport Authority
+@line_5_13:Lime Street (without stopping)
+@line_5_14:51st Street
+@line_5_15:49th Street (without stopping)
+@line_5_16:West Street
+@line_5_17:Control point

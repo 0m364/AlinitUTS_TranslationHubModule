@@ -1,0 +1,186 @@
+$lang:[AUTO] Ewe
+$version:2
+//UI Strings
+@new_game_button:Fefe yeye
+@settings_button:Ðoɖowo
+@about_button:Ku ɖe
+@quit_button:Do le eme
+@choose_line_button:ok | tia fli
+@max_speed_text:Max. dusisi
+@cars_total_text:Ʋuwo (wo katã) .
+@controller_text:Dzɔla
+@cab_preview_button:Cab
+@interior_preview_button:Ememe
+@score_text:Do age
+@passengers_text:Mɔzɔlawo
+@speed_limit_text:Duƒuƒu ƒe Seɖoƒe
+@current_speed_text:Dusisi
+@cab_camera_button:Cab fotoɖemɔ̃
+@interior_camera_button:Ememe
+@station_camera_button:Ʋuɖoƒe
+@controller_panel_header:Dzɔla
+@head_light_button:Ta
+@@:Kekeli
+@cab_light_button:Cab ƒe Kekeli
+@doors_button:Ʋɔtruwo
+@horn_button:Lãdzo
+@stop_pos_header:Dzudzɔ nɔnɔme dzi kpɔkpɔ
+@express_train_notifiaction:Esia nye keteke si zɔna kabakaba. Ti kpo tso teƒe sia.
+@view_pos_header:<- Kpɔ nɔnɔme ->
+@announcement_button:Gbeƒãɖeɖe
+@inf_msg_1:Gbedasi 1 lia
+@@:(5 sec) .
+@inf_msg_2:Gbedasi 2 lia
+@@:(sekɛnd 10) .
+@inf_ready:Le ŋudzᴐ
+@inf_playback:Gbedasi le ƒoƒom ɖe megbe...
+@inf_recording:Nuléle ɖe mɔ̃ dzi...
+@inf_record_txt:Nyaleɖi
+@inf_done_txt:Wɔe vɔ
+@announcement_setup_button:Ɖo anyi
+@simple_lighting_notice:<b><color=red>De dzesii: </color>Ne wò mɔ̃a mele asi kpem ɖe Dynamic Lighting System ŋu o (Headlight ƒe nɔnɔme mele dɔ wɔm o), àteŋu aʋu "Simple Lighting System": </b>
+@quit_text:Do le eme
+@back_to_menu_button:Trɔ yi Main menu dzi
+@cancel_button:Te fli ɖe eme
+@simple_lighting_option:Zã akaɖi bɔbɔe (ehiã be nàgadze egɔme ake) .
+@back_button:megbe
+@line_select_text:Fli tia
+@start_line_button:Mina míayi!
+@system_text:Mɔnu
+@master_switch_button:MASTER SWITCH ƑE NUÐEÐEŊUTI
+@line_1_name:Ɣetoɖoƒe Fli
+@line_2_name:N Fli
+@line_3_name:S Fli
+@line_4_name:Titina Fli
+@line_5_name:Fli aɖe (Express) .
+@line_1_description:Dɔwɔƒewo: 10
+@@:Level: bɔbɔe
+@line_2_description:Dɔwɔƒewo: 9
+@@:Level: bɔbɔe
+@line_3_description:Dɔwɔƒewo: 7
+@@:Dzidzenu: titina
+@line_4_description:Dɔwɔƒewo: 10
+@@:Level: sesẽ
+@line_5_description:Dɔwɔƒewo: 11 (17) .
+@@:Level: sesẽ
+//////////////////
+@inf_next_signal:Dzesi si kplɔe ɖo
+@inf_pressure:Brek Ya ƒe Nyaƒoɖeamenu
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Brek si le eɖokui si le dɔ wɔm
+@msg_unloading:Wole agbawo ɖem le...
+@msg_correct_stop:Tɔtɔ le ʋudzeƒea nyuie. Bonus +100 ye
+@msg_nxt_station:Fifia àte ŋu ayi ʋudzeƒe si kplɔe ɖo
+@msg_start_1:Dzadzraɖo ɖe gɔmedzedzea ŋu... Taflatse milala
+@msg_start_2:Mɔ̃ kple compressor dzadzraɖo. Taflatse lala
+@msg_start_3:Ketekea le klalo be yeazɔ. Dzᴐgbe nyuie!
+@controller_lock:Woxe mɔ ɖe enu
+@fines_total:Tohehewo, wo katã:
+@passengers_transported:Mɔzɔla siwo wotsɔ yi:
+@score:Dzesi Mamlɛtɔ:
+@signal_red_txt:Dzẽ
+@signal_green_txt:Gbemu
+@signal_connection:Kadodo...
+@signal_warning:Dzesi dzĩ le ŋgɔ
+@signal_fine:Aɖabaŋeŋe ƒu dzesi dzĩ dzi, enyo -50
+@ads_disabled_txt:<b>Wowɔ boblododowo nuwɔametɔe</b>
+@ads_disable_txt:<b>Tsi boblododowo + nɔnɔme si mele Internet dzi o</b>
+@@:<i><size=10>Ewɔa dɔ le ame 3 lia ƒe boblododowo katã ŋu eye wònana be woateŋu aƒoe le internet dzi</size></i>
+@load_text_1:Dɔwɔɖoɖowo me toto...
+@load_text_2:Wole ŋku lém ɖe compressor ŋu...
+@load_text_3:Dzesiwo kple mɔ̃a me toto...
+@load_text_4:Wowu enu kloe...
+@spd_warning_50:Nuxlɔ̃ame: Duƒuƒu ƒe seɖoƒe le ŋgɔ (50 kph) .
+@spd_warning_35:Nuxlɔ̃ame: Duƒuƒu ƒe seɖoƒe le ŋgɔ (35 ​​kph) .
+@spd_overspeed:Duƒuƒu si gbɔ eme. Taflatse mikpɔ ŋusẽ ɖe ketekea ƒe duƒuƒu dzi
+@spd_ok:Fifia ketekea ƒe duƒuƒu le OK...
+@spd_fine:Duƒuƒu si gbɔ eme. Ðe blewu! Fine 1 dzesi/sekɛnd
+@compressor_busy:Dukɔ: vovo mele ame ŋu o
+@compressor_standby:Dukɔ: le klalo
+@graphics_qual_txt:Nɔnɔmetatawo ƒe Nyonyome
+@qual_low_txt:Bᴐbᴐ
+@qual_medium_txt:Le vedome
+@qual_norm_txt:Gbe sia gbe ƒe nu
+@qual_high_txt:Kɔ
+@qual_refl_checkbox:Ŋugblededewo
+@qual_light_checkbox:Zã akaɖi ƒe ɖoɖo si le bɔbɔe (ehiã be nàgadze egɔme ake) .
+@change_lang_btn:Trɔ fefegbe
+@close_btn:Tu
+@about_text:Ðoɖowɔɖia nye: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D Kpɔɖeŋuwo si: Anton Romanchuk
+@@:------- .
+@@:Gbeƒãɖela: Alpha Intl. IT Ƒuƒoƒo
+@@:Dɔa dzi kpɔkpɔ: Alinit Dɔwɔɖoɖo (alinit.org), support@alinit.org
+@offline_notice:<b>Fefe sia hiã Internet zazã</b>
+@@:
+@@:Internet zazã kple ame 3 lia ƒe boblododowo ɖea mɔ be woakpɔ ga aɖe atsɔ ana fefe sia nanyo ɖe edzi. Ke hã, àte ŋu aƒle "Tɔ boblododowo nu" ƒe nɔnɔmea be wòawɔ 3rd-party ads katã nuwɔametɔe eye nàwɔ offline mode ŋudɔ. Mɔkpɔkpɔ na wò gɔmesese.
+@selected_train_txt:Keteke si wotia
+@next_signal_txt:Dzesi si kplɔe ɖo
+@air_compr_txt:Yaƒoƒomɔ̃
+@air_pressure_txt:Nuteɖeamedzi:
+@system_battery_txt:Batri
+@system_atc_txt:ATC ƒe agbalẽ
+@controller_positions_txt:ɖoƒewo
+@nxt_station_txt:Dɔwɔƒe si kplɔe ɖo:
+@nxt_ad_text:Boblododo si kplɔe ɖo:
+@prep_ad_text:Boblododo dzadzraɖo...
+//////////////////
+//Stations
+@line_1_0:Dziehemɔ dzi
+@line_1_1:Seƒoƒowo ƒe Mɔdodo
+@line_1_2:Musikalnaya ƒe nyawo
+@line_1_3:Avewo ƒe Tsaɖibɔ
+@line_1_4:Dɔwɔƒewo ƒe Mɔdodo
+@line_1_5:Morskaya ƒe nya
+@line_1_6:Abrikosovaya ƒe ŋkɔ
+@line_1_7:Ɣe ƒe keklẽ ƒe Mɔdodo
+@line_1_8:Apelsinovaya ƒe nya
+@line_1_9:Ɣetoɖoƒe Mɔdodo dzi
+@line_1_10:Dziɖuɖu ƒe teƒe
+@line_2_0:Zavodskaya ƒe ŋkɔ
+@line_2_1:Liteynaya ƒe ŋkɔ
+@line_2_2:Avtozavod ƒe nuɖuɖu
+@line_2_3:Kpe Mɔdodo dzi
+@line_2_4:Tɔsisi ƒe Mɔdodo dzi
+@line_2_5:Sudoremontniy Zavod ƒe ŋkɔ
+@line_2_6:Ɣedzeƒe Mɔdodo dzi
+@line_2_7:Cherry-ti ƒe Tsaɖibɔ
+@line_2_8:Elektrikŋusẽdɔwɔƒe
+@line_2_9:Dziɖuɖu ƒe teƒe
+@line_3_0:Du Xoxoa
+@line_3_1:Pine Park ƒe tsaɖibɔ
+@line_3_2:7 lia ƒe akpa enelia
+@line_3_3:Strawberry-bɔ
+@line_3_4:Ozernaya ƒe ŋkɔ
+@line_3_5:Suburb
+@line_3_6:Yameʋudzeƒe
+@line_3_7:Dziɖuɖu ƒe teƒe
+@line_4_0:Mɔdodo 38 lia dzi
+@line_4_1:Asitsaƒewo ƒe Dɔwɔƒe
+@line_4_2:Dua ƒe Ablɔdzi
+@line_4_3:Dua ƒe Xɔdɔme
+@line_4_4:Faille Mɔdodo dzi
+@line_4_5:Dua ƒe titina
+@line_4_6:91st Street ƒe Mɔdodo dzi
+@line_4_7:Asitsaƒegã
+@line_4_8:Bɔlƒoƒe
+@line_4_9:Central Park
+@line_4_10:Dziɖuɖu ƒe teƒe
+@line_5_0:Dugã godo ƒe vovototodedeameme
+@line_5_1:Avenyigba ƒe ablɔdzi
+@line_5_2:Birch Tsaɖibɔ
+@line_5_3:Bɔlƒoƒe (si metɔ o) .
+@line_5_4:91st Street ƒe Mɔdodo dzi
+@line_5_5:Ɣetoɖoƒe Mɔdodo Gã (si metɔ o) .
+@line_5_6:87th Street ƒe Mɔdodo dzi
+@line_5_7:Ŋusẽ Ŋuti Nusrɔ̃ƒe
+@line_5_8:Ŋutinya Blemanudzraɖoƒe (madzudzɔmadzudzɔe) .
+@line_5_9:Titina Agbalẽdzraɖoƒe
+@line_5_10:Museum Street (si metɔ o) .
+@line_5_11:Park Mɔdodo dzi
+@line_5_12:Ʋuɖonyawo Gbɔkpɔha
+@line_5_13:Lime Street (si metɔ o) .
+@line_5_14:Mɔdodo 51 lia dzi
+@line_5_15:49th Street (si metɔ o) .
+@line_5_16:Ɣetoɖoƒe Mɔdodo dzi
+@line_5_17:Dziɖuɖu ƒe teƒe

@@ -1,0 +1,186 @@
+$lang:[AUTO] Cebuano
+$version:2
+//UI Strings
+@new_game_button:Bag-ong dula
+@settings_button:Mga setting
+@about_button:Mahitungod sa
+@quit_button:Hunong
+@choose_line_button:ok | pilia ang linya
+@max_speed_text:Max. paspas
+@cars_total_text:Mga sakyanan (total)
+@controller_text:Controller
+@cab_preview_button:Ang Cab
+@interior_preview_button:Sulod
+@score_text:Puntos
+@passengers_text:Mga pasahero
+@speed_limit_text:Limitasyon sa Speed
+@current_speed_text:Bilis
+@cab_camera_button:Camera sa kab
+@interior_camera_button:Sulod
+@station_camera_button:estasyon
+@controller_panel_header:Controller
+@head_light_button:Ulo
+@@:Kahayag
+@cab_light_button:Kahayag sa Cab
+@doors_button:Mga pultahan
+@horn_button:sungay
+@stop_pos_header:Hunong ang pagkontrol sa posisyon
+@express_train_notifiaction:Kini usa ka express nga tren. Laktawan kini nga estasyon.
+@view_pos_header:<- Tan-awa ang posisyon ->
+@announcement_button:Pahibalo
+@inf_msg_1:Mensahe 1
+@@:(5 ka segundo)
+@inf_msg_2:Mensahe 2
+@@:(10 ka segundo)
+@inf_ready:Andam
+@inf_playback:Nagbalikbalik ang mensahe...
+@inf_recording:Pagrekord...
+@inf_record_txt:Pagrekord
+@inf_done_txt:Nahuman na
+@announcement_setup_button:Setup
+@simple_lighting_notice:<b><color=red>Pahinumdom: </color>Kon ang imong device wala nagsuporta sa Dynamic Lighting System (ang feature sa headlight dili molihok), mahimo nimong i-on ang "Simple Lighting System": </b>
+@quit_text:Hunong
+@back_to_menu_button:Balik sa Main menu
+@cancel_button:Pagkanselar
+@simple_lighting_option:Paggamit og yano nga suga (kinahanglan nga ilunsad pag-usab)
+@back_button:balik
+@line_select_text:Pagpili sa linya
+@start_line_button:Adto na ta!
+@system_text:Sistema
+@master_switch_button:MASTER SWITCH
+@line_1_name:Kasadpang Linya
+@line_2_name:N Linya
+@line_3_name:S Linya
+@line_4_name:Sentral nga Linya
+@line_5_name:Usa ka Linya (Express)
+@line_1_description:Mga estasyon: 10
+@@:Level: sayon
+@line_2_description:Mga estasyon: 9
+@@:Level: sayon
+@line_3_description:Mga estasyon: 7
+@@:Level: medium
+@line_4_description:Mga estasyon: 10
+@@:Level: lisud
+@line_5_description:Mga estasyon: 11 (17)
+@@:Level: lisud
+//////////////////
+@inf_next_signal:Sunod nga Signal
+@inf_pressure:Presyon sa hangin sa preno
+@inf_pressure_ind:Si Prsr.
+@msg_autobrake:Ang awtomatik nga preno aktibo
+@msg_unloading:Nagdiskarga...
+@msg_correct_stop:Husto nga paghunong sa estasyon. Bonus +100
+@msg_nxt_station:Karon makaadto ka sa sunod nga estasyon
+@msg_start_1:Nangandam para sa pagsugod... Palihog paghulat
+@msg_start_2:Pag-andam sa makina ug compressor. Palihug paghulat
+@msg_start_3:Andam na ang tren. Good luck!
+@controller_lock:Gibabagan
+@fines_total:Mga multa, kinatibuk-an:
+@passengers_transported:Mga pasahero nga gidala:
+@score:Katapusan nga Iskor:
+@signal_red_txt:Pula
+@signal_green_txt:Berde
+@signal_connection:Koneksyon...
+@signal_warning:Ang pula nga signal anaa sa unahan
+@signal_fine:Wala magtagad sa pula nga signal, maayo -50
+@ads_disabled_txt:<b>Gi-disable ang mga ad</b>
+@ads_disable_txt:<b>I-disable ang mga ad + offline mode</b>
+@@:<i><size=10>Gi-disable ang tanang 3rd party nga ad ug gihimong posible nga makadula offline</size></i>
+@load_text_1:Pagsusi sa mga sistema...
+@load_text_2:Pagsusi sa compressor...
+@load_text_3:Pagsusi sa signal ug makina...
+@load_text_4:Hapit na mahuman...
+@spd_warning_50:Pahimangno: Ang limitasyon sa gikusgon sa unahan (50 kph)
+@spd_warning_35:Pahimangno: Ang limitasyon sa gikusgon sa unahan (35 kph)
+@spd_overspeed:Sobra nga tulin. Palihug pabilin nga kontrolado ang katulin sa tren
+@spd_ok:Karon ang tulin sa tren OK ra ...
+@spd_fine:Sobra nga tulin. Hinayhinay! Maayo nga 1 puntos/seg
+@compressor_busy:Estado: busy
+@compressor_standby:Estado: standby
+@graphics_qual_txt:Kalidad sa Graphics
+@qual_low_txt:Ubos
+@qual_medium_txt:Medium
+@qual_norm_txt:Normal
+@qual_high_txt:Taas
+@qual_refl_checkbox:Mga pamalandong
+@qual_light_checkbox:Gamita ang gipasimple nga sistema sa suga (kinahanglan nga i-relaunch)
+@change_lang_btn:Usba ang lengguwahe sa dula
+@close_btn:Duol
+@about_text:Pagprograma ni: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D nga mga Modelo ni: Anton Romanchuk
+@@:None
+@@:Publisher: Alpha Intl. Grupo sa IT
+@@:Pagmentinar sa proyekto: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Kini nga dula nanginahanglan access sa Internet</b>
+@@:
+@@:Ang pag-access sa Internet ug ang mga ad sa 3rd-party nagtugot nga makakuha pipila ka pondo aron mapaayo kini nga dula. Bisan pa, mahimo nimong paliton ang bahin nga "Disable ads" aron ma-disable ang tanan nga mga ad sa 3rd-party ug ma-aktibo ang offline mode. Paglaum sa imong pagsabot.
+@selected_train_txt:Pinili nga tren
+@next_signal_txt:Sunod nga Signal
+@air_compr_txt:Air Compressor
+@air_pressure_txt:Presyon:
+@system_battery_txt:Baterya
+@system_atc_txt:ATC
+@controller_positions_txt:mga posisyon
+@nxt_station_txt:Sunod nga estasyon:
+@nxt_ad_text:Sunod nga Ad:
+@prep_ad_text:Pag-andam sa advertisement...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Bulak Street
+@line_1_2:Musikalnaya
+@line_1_3:Forest Park
+@line_1_4:Industrial Street
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:Kasadpang dalan
+@line_1_10:Pagkontrol nga punto
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Dalan nga Bato
+@line_2_4:Dalan sa Suba
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry-tree Park
+@line_2_8:Power Plant
+@line_2_9:Pagkontrol nga punto
+@line_3_0:Daang Lungsod
+@line_3_1:Pine Park
+@line_3_2:ika-7 nga kwarter
+@line_3_3:Tanaman sa Strawberry
+@line_3_4:Ozernaya
+@line_3_5:Suburban
+@line_3_6:Tugpahanan
+@line_3_7:Pagkontrol nga punto
+@line_4_0:38th nga dalan
+@line_4_1:Sentro sa Negosyo
+@line_4_2:City Square
+@line_4_3:City Hall
+@line_4_4:Faille Avenue
+@line_4_5:Downtown
+@line_4_6:91st nga dalan
+@line_4_7:Trade Center
+@line_4_8:estadyum
+@line_4_9:Central Park
+@line_4_10:Pagkontrol nga punto
+@line_5_0:Suburban discric
+@line_5_1:dalan sa lasang
+@line_5_2:Birch Park
+@line_5_3:Stadium (walay hunong)
+@line_5_4:91st nga dalan
+@line_5_5:West Highway (walay hunong)
+@line_5_6:87th nga dalan
+@line_5_7:Institute sa Enerhiya
+@line_5_8:Museo sa Kasaysayan (nga walay paghunong)
+@line_5_9:Sentral nga Librarya
+@line_5_10:Museum Street (nga walay hunong)
+@line_5_11:Park Street
+@line_5_12:Awtoridad sa Transportasyon
+@line_5_13:Lime Street (walay hunong)
+@line_5_14:51st Street
+@line_5_15:49th Street (walay hunong)
+@line_5_16:Kasadpang dalan
+@line_5_17:Pagkontrol nga punto

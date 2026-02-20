@@ -1,0 +1,186 @@
+$lang:[AUTO] Corsican
+$version:2
+//UI Strings
+@new_game_button:ghjocu novu
+@settings_button:Settings
+@about_button:À propositu
+@quit_button:Lascia
+@choose_line_button:ok | sceglie a linea
+@max_speed_text:Max. vitezza
+@cars_total_text:Cars (totale)
+@controller_text:Controller
+@cab_preview_button:Cab
+@interior_preview_button:Internu
+@score_text:Score
+@passengers_text:I passageri
+@speed_limit_text:Limitu di velocità
+@current_speed_text:Velocità
+@cab_camera_button:Camera di cabina
+@interior_camera_button:Internu
+@station_camera_button:Stazione
+@controller_panel_header:Controller
+@head_light_button:Capu
+@@:Luce
+@cab_light_button:Cab Light
+@doors_button:Porte
+@horn_button:Cornu
+@stop_pos_header:Pare u cuntrollu di a pusizione
+@express_train_notifiaction:Questu hè un trenu express. Saltate sta stazione.
+@view_pos_header:<- Vede a pusizione ->
+@announcement_button:L'annunziu
+@inf_msg_1:Missaghju 1
+@@:(5 sec)
+@inf_msg_2:Missaghju 2
+@@:(10 sec)
+@inf_ready:Pronti
+@inf_playback:U messagiu hè in riproduzione...
+@inf_recording:Registrazione...
+@inf_record_txt:Record
+@inf_done_txt:Fattu
+@announcement_setup_button:Istituisci
+@simple_lighting_notice:<b><color=red>Nota: </color>Se u vostru dispositivu ùn supporta micca u sistema di illuminazione dinamica (a funzione di faro ùn funziona micca), pudete attivà "Sistema di illuminazione simplice": </b>
+@quit_text:Lascia
+@back_to_menu_button:Torna à u menu principale
+@cancel_button:Cancella
+@simple_lighting_option:Aduprate l'illuminazione simplice (rilanciu necessariu)
+@back_button:daretu
+@line_select_text:Selezzione di linea
+@start_line_button:Andemu!
+@system_text:Sistema
+@master_switch_button:INTERRUTTORE MAESTRO
+@line_1_name:Linea Occidentale
+@line_2_name:Linea N
+@line_3_name:Linea S
+@line_4_name:Linea Centrale
+@line_5_name:Una linea (espressa)
+@line_1_description:Stazioni: 10
+@@:Livellu: faciule
+@line_2_description:Stazioni: 9
+@@:Livellu: faciule
+@line_3_description:Stazioni: 7
+@@:Livellu: mediu
+@line_4_description:Stazioni: 10
+@@:Livellu: duru
+@line_5_description:Stazioni: 11 (17)
+@@:Livellu: duru
+//////////////////
+@inf_next_signal:Next Signal
+@inf_pressure:Pressione d'aria di frenu
+@inf_pressure_ind:Prsr.
+@msg_autobrake:U frenu automaticu hè attivu
+@msg_unloading:Scaricamentu...
+@msg_correct_stop:Stop currettu nantu à a stazione. Bonus +100
+@msg_nxt_station:Avà pudete andà à a prossima stazione
+@msg_start_1:Preparazione per u principiu... Per piacè aspettate
+@msg_start_2:Preparazione di u mutore è u compressore. Per piacè aspettate
+@msg_start_3:U trenu hè prontu à andà. Bona Furtuna !
+@controller_lock:Bloccatu
+@fines_total:Ammende, totale:
+@passengers_transported:Passaggeri trasportati:
+@score:Score finale:
+@signal_red_txt:Rossu
+@signal_green_txt:Verde
+@signal_connection:Cunnessione...
+@signal_warning:Segnale rossu hè avanti
+@signal_fine:Ignoru signale rossu, fine -50
+@ads_disabled_txt:<b>L'annunzii sò disattivati</b>
+@ads_disable_txt:<b>Disattivà l'annunzii + u modu offline</b>
+@@:<i><size=10>Disabilita tutti l'annunzii di terze parti è permette di ghjucà offline</size></i>
+@load_text_1:Cuntrolla i sistemi...
+@load_text_2:Verificà u compressore...
+@load_text_3:Verificà i signali è u mutore...
+@load_text_4:Quasi finitu...
+@spd_warning_50:Attenzione: u limite di velocità hè avanti (50 km/h)
+@spd_warning_35:Attenzione: u limite di velocità hè avanti (35 km/h)
+@spd_overspeed:Overspeed. Per piacè mantene a velocità di u trenu sottu cuntrollu
+@spd_ok:Avà a velocità di u trenu hè bè ...
+@spd_fine:Overspeed. Rallenta! Fine 1 puntu/sec
+@compressor_busy:Statu : occupatu
+@compressor_standby:Statu: standby
+@graphics_qual_txt:Qualità Grafica
+@qual_low_txt:Bassu
+@qual_medium_txt:Medium
+@qual_norm_txt:Normale
+@qual_high_txt:Altu
+@qual_refl_checkbox:Riflessioni
+@qual_light_checkbox:Utilizà u sistema di illuminazione simplificatu (rilanciu necessariu)
+@change_lang_btn:Cambia a lingua di u ghjocu
+@close_btn:Chiudi
+@about_text:Programmazione da: Sviatoslav Bilov (bilov@alinit.org)
+@@:Modelli 3D da: Anton Romanchuk
+@@:None
+@@:Editore: Alpha Intl. Gruppu IT
+@@:Mantenimentu di u prughjettu: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Stu ghjocu hà bisognu di accessu à Internet</b>
+@@:
+@@:L'accessu à Internet è l'annunzii di 3rd-party permettenu di ottene qualchì finanziamentu per migliurà stu ghjocu. Tuttavia, pudete cumprà a funzione "Disable ads" per disattivà tutti l'annunzii di 3rd-party è attivà u modu offline. Spergu per a vostra capiscitura.
+@selected_train_txt:Trenu sceltu
+@next_signal_txt:Next Signal
+@air_compr_txt:Cumpressore d'aria
+@air_pressure_txt:Pressione:
+@system_battery_txt:Batteria
+@system_atc_txt:ATC
+@controller_positions_txt:pusizioni
+@nxt_station_txt:Prossima stazione:
+@nxt_ad_text:Prossima annunziu:
+@prep_ad_text:Preparazione di publicità...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Strada di i Fiori
+@line_1_2:Musicalnaya
+@line_1_3:Parcu Forestale
+@line_1_4:Strada industriale
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Strada di u sole
+@line_1_8:Apelsinovaya
+@line_1_9:Strada Ovest
+@line_1_10:Puntu di cuntrollu
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Strada di Petra
+@line_2_4:Strada di u fiume
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:Strada Est
+@line_2_7:Parcu di ciliegia
+@line_2_8:Centrale di energia
+@line_2_9:Puntu di cuntrollu
+@line_3_0:Vechja cità
+@line_3_1:Parcu di Pinu
+@line_3_2:7u quartu
+@line_3_3:Giardinu di fragole
+@line_3_4:Ozernaya
+@line_3_5:Suburbiu
+@line_3_6:Aeroportu
+@line_3_7:Puntu di cuntrollu
+@line_4_0:38th Street
+@line_4_1:Centru d'affari
+@line_4_2:Piazza di a cità
+@line_4_3:Municipiu
+@line_4_4:Viale di Faille
+@line_4_5:Centru
+@line_4_6:91st Street
+@line_4_7:Centru di cummerciu
+@line_4_8:Stadiu
+@line_4_9:Central Park
+@line_4_10:Puntu di cuntrollu
+@line_5_0:Distrettu suburbanu
+@line_5_1:Strada di a furesta
+@line_5_2:Birch Park
+@line_5_3:Stadiu (senza piantà)
+@line_5_4:91st Street
+@line_5_5:West Highway (senza piantà)
+@line_5_6:87th Street
+@line_5_7:Istitutu di l'Energia
+@line_5_8:Museu di Storia (senza piantà)
+@line_5_9:Biblioteca Centrale
+@line_5_10:Museum Street (senza piantà)
+@line_5_11:Park Street
+@line_5_12:Autorità di trasportu
+@line_5_13:Lime Street (senza piantà)
+@line_5_14:51st Street
+@line_5_15:49th Street (senza piantà)
+@line_5_16:Strada Ovest
+@line_5_17:Puntu di cuntrollu

@@ -1,0 +1,186 @@
+$lang:[AUTO] Gujarati
+$version:2
+//UI Strings
+@new_game_button:નવી રમત
+@settings_button:સેટિંગ્સ
+@about_button:વિશે
+@quit_button:છોડો
+@choose_line_button:બરાબર | રેખા પસંદ કરો
+@max_speed_text:મહત્તમ ઝડપ
+@cars_total_text:કાર (કુલ)
+@controller_text:નિયંત્રક
+@cab_preview_button:કેબ
+@interior_preview_button:આંતરિક
+@score_text:સ્કોર
+@passengers_text:મુસાફરો
+@speed_limit_text:ઝડપ મર્યાદા
+@current_speed_text:ઝડપ
+@cab_camera_button:કેબ કેમેરા
+@interior_camera_button:આંતરિક
+@station_camera_button:સ્ટેશન
+@controller_panel_header:નિયંત્રક
+@head_light_button:વડા
+@@:પ્રકાશ
+@cab_light_button:કેબ લાઇટ
+@doors_button:દરવાજા
+@horn_button:હોર્ન
+@stop_pos_header:સ્થિતિ નિયંત્રણ રોકો
+@express_train_notifiaction:આ એક્સપ્રેસ ટ્રેન છે. આ સ્ટેશન છોડો.
+@view_pos_header:<- સ્થિતિ જુઓ ->
+@announcement_button:જાહેરાત
+@inf_msg_1:સંદેશ 1
+@@:(5 સેકન્ડ)
+@inf_msg_2:સંદેશ 2
+@@:(10 સેકન્ડ)
+@inf_ready:તૈયાર છે
+@inf_playback:સંદેશ પાછો ચાલી રહ્યો છે...
+@inf_recording:રેકોર્ડિંગ...
+@inf_record_txt:રેકોર્ડ
+@inf_done_txt:થઈ ગયું
+@announcement_setup_button:સેટઅપ
+@simple_lighting_notice:<b><color=red>નોંધ: </color>જો તમારું ઉપકરણ ડાયનેમિક લાઇટિંગ સિસ્ટમને સપોર્ટ કરતું નથી (હેડલાઇટ સુવિધા કામ કરી રહી નથી), તો તમે "સિમ્પલ લાઇટિંગ સિસ્ટમ" ચાલુ કરી શકો છો: </b>
+@quit_text:છોડો
+@back_to_menu_button:મુખ્ય મેનુ પર પાછા
+@cancel_button:રદ કરો
+@simple_lighting_option:સરળ લાઇટિંગનો ઉપયોગ કરો (ફરીથી લોંચ જરૂરી)
+@back_button:પાછા
+@line_select_text:લાઇન પસંદ કરો
+@start_line_button:ચાલો જઈએ!
+@system_text:સિસ્ટમ
+@master_switch_button:માસ્ટર સ્વિચ
+@line_1_name:પશ્ચિમ રેખા
+@line_2_name:એન લાઇન
+@line_3_name:એસ લાઈન
+@line_4_name:સેન્ટ્રલ લાઇન
+@line_5_name:એક લાઇન (એક્સપ્રેસ)
+@line_1_description:સ્ટેશનો: 10
+@@:સ્તર: સરળ
+@line_2_description:સ્ટેશનો: 9
+@@:સ્તર: સરળ
+@line_3_description:સ્ટેશનો: 7
+@@:સ્તર: મધ્યમ
+@line_4_description:સ્ટેશનો: 10
+@@:સ્તર: સખત
+@line_5_description:સ્ટેશનો: 11 (17)
+@@:સ્તર: સખત
+//////////////////
+@inf_next_signal:આગામી સિગ્નલ
+@inf_pressure:બ્રેક્સ એર પ્રેશર
+@inf_pressure_ind:Prsr.
+@msg_autobrake:સ્વચાલિત બ્રેક સક્રિય છે
+@msg_unloading:અનલોડ કરી રહ્યું છે...
+@msg_correct_stop:સ્ટેશન પર યોગ્ય સ્ટોપ. બોનસ +100
+@msg_nxt_station:હવે તમે આગલા સ્ટેશન પર જઈ શકો છો
+@msg_start_1:શરૂઆત માટે તૈયારી કરી રહ્યાં છીએ... કૃપા કરીને રાહ જુઓ
+@msg_start_2:એન્જિન અને કોમ્પ્રેસરની તૈયારી. કૃપા કરીને રાહ જુઓ
+@msg_start_3:ટ્રેન જવા માટે તૈયાર છે. સારા નસીબ!
+@controller_lock:અવરોધિત
+@fines_total:દંડ, કુલ:
+@passengers_transported:મુસાફરોનું પરિવહન:
+@score:અંતિમ સ્કોર:
+@signal_red_txt:લાલ
+@signal_green_txt:લીલા
+@signal_connection:કનેક્શન...
+@signal_warning:રેડ સિગ્નલ આગળ છે
+@signal_fine:લાલ સિગ્નલને અવગણવું, દંડ -50
+@ads_disabled_txt:<b>જાહેરાતો અક્ષમ છે</b>
+@ads_disable_txt:<b>જાહેરાતો + ઑફલાઇન મોડને અક્ષમ કરો</b>
+@@:<i><size=10>તમામ તૃતીય પક્ષની જાહેરાતોને અક્ષમ કરે છે અને ઑફલાઇન ચલાવવાનું શક્ય બનાવે છે</size></i>
+@load_text_1:સિસ્ટમ તપાસી રહ્યું છે...
+@load_text_2:કોમ્પ્રેસર તપાસી રહ્યું છે...
+@load_text_3:સિગ્નલ અને એન્જિન તપાસી રહ્યું છે...
+@load_text_4:લગભગ પૂર્ણ...
+@spd_warning_50:ચેતવણી: ઝડપ મર્યાદા આગળ છે (50 કિમી પ્રતિ કલાક)
+@spd_warning_35:ચેતવણી: ઝડપ મર્યાદા આગળ છે (35 કિમી પ્રતિ કલાક)
+@spd_overspeed:ઓવરસ્પીડ. મહેરબાની કરીને ટ્રેનની ગતિ નિયંત્રણમાં રાખો
+@spd_ok:હવે ટ્રેનની સ્પીડ બરાબર છે...
+@spd_fine:ઓવરસ્પીડ. ધીમું! દંડ 1 પૉઇન્ટ/સેકન્ડ
+@compressor_busy:રાજ્ય: વ્યસ્ત
+@compressor_standby:રાજ્ય: સ્ટેન્ડબાય
+@graphics_qual_txt:ગ્રાફિક્સ ગુણવત્તા
+@qual_low_txt:નીચું
+@qual_medium_txt:મધ્યમ
+@qual_norm_txt:સામાન્ય
+@qual_high_txt:ઉચ્ચ
+@qual_refl_checkbox:પ્રતિબિંબ
+@qual_light_checkbox:સરળ લાઇટિંગ સિસ્ટમનો ઉપયોગ કરો (ફરીથી લોંચ જરૂરી)
+@change_lang_btn:રમતની ભાષા બદલો
+@close_btn:બંધ કરો
+@about_text:પ્રોગ્રામિંગ દ્વારા: સ્વિયાટોસ્લાવ બિલોવ (bilov@alinit.org)
+@@:એન્ટોન રોમનચુક દ્વારા 3D મોડલ્સ
+@@:None
+@@:પ્રકાશક: Alpha Intl. આઇટી ગ્રુપ
+@@:પ્રોજેક્ટની જાળવણી: એલિનિટ પ્રોજેક્ટ (alinit.org), support@alinit.org
+@offline_notice:<b>આ રમતને ઇન્ટરનેટ ઍક્સેસની જરૂર છે</b>
+@@:
+@@:ઈન્ટરનેટ એક્સેસ અને તૃતીય-પક્ષ જાહેરાતો આ રમતને સુધારવા માટે થોડું ભંડોળ મેળવવાની મંજૂરી આપે છે. જો કે, તમે બધી તૃતીય-પક્ષ જાહેરાતોને અક્ષમ કરવા અને ઑફલાઇન મોડને સક્રિય કરવા માટે "જાહેરાતો અક્ષમ કરો" સુવિધા ખરીદી શકો છો. તમારી સમજણની આશા છે.
+@selected_train_txt:પસંદ કરેલ ટ્રેન
+@next_signal_txt:આગામી સિગ્નલ
+@air_compr_txt:એર કોમ્પ્રેસર
+@air_pressure_txt:દબાણ:
+@system_battery_txt:બેટરી
+@system_atc_txt:એટીસી
+@controller_positions_txt:હોદ્દાઓ
+@nxt_station_txt:આગલું સ્ટેશન:
+@nxt_ad_text:આગલી જાહેરાત:
+@prep_ad_text:જાહેરાત તૈયાર કરી રહ્યાં છીએ...
+//////////////////
+//Stations
+@line_1_0:નોર્થવે
+@line_1_1:ફ્લાવર્સ સ્ટ્રીટ
+@line_1_2:મ્યુઝિકલનાયા
+@line_1_3:ફોરેસ્ટ પાર્ક
+@line_1_4:ઈન્ડસ્ટ્રીયલ સ્ટ્રીટ
+@line_1_5:મોર્સ્કાયા
+@line_1_6:એબ્રિકોસોવાયા
+@line_1_7:સનશાઇન સ્ટ્રીટ
+@line_1_8:એપેલસિનોવાયા
+@line_1_9:વેસ્ટ સ્ટ્રીટ
+@line_1_10:નિયંત્રણ બિંદુ
+@line_2_0:ઝવોડસ્કાયા
+@line_2_1:લિટેયનાયા
+@line_2_2:Avtozavod
+@line_2_3:સ્ટોન સ્ટ્રીટ
+@line_2_4:નદી સ્ટ્રીટ
+@line_2_5:સુડોરેમોન્ટની ઝવોડ
+@line_2_6:પૂર્વ સ્ટ્રીટ
+@line_2_7:ચેરી-ટ્રી પાર્ક
+@line_2_8:પાવર પ્લાન્ટ
+@line_2_9:નિયંત્રણ બિંદુ
+@line_3_0:ઓલ્ડ સિટી
+@line_3_1:પાઈન પાર્ક
+@line_3_2:7મી ક્વાર્ટર
+@line_3_3:સ્ટ્રોબેરી ગાર્ડન
+@line_3_4:ઓઝરનાયા
+@line_3_5:ઉપનગર
+@line_3_6:એરપોર્ટ
+@line_3_7:નિયંત્રણ બિંદુ
+@line_4_0:38મી સ્ટ્રીટ
+@line_4_1:બિઝનેસ સેન્ટર
+@line_4_2:સિટી સ્ક્વેર
+@line_4_3:સિટી હોલ
+@line_4_4:Faille એવન્યુ
+@line_4_5:ડાઉનટાઉન
+@line_4_6:91મી સ્ટ્રીટ
+@line_4_7:વેપાર કેન્દ્ર
+@line_4_8:સ્ટેડિયમ
+@line_4_9:સેન્ટ્રલ પાર્ક
+@line_4_10:નિયંત્રણ બિંદુ
+@line_5_0:ઉપનગરીય જિલ્લા
+@line_5_1:વન શેરી
+@line_5_2:બિર્ચ પાર્ક
+@line_5_3:સ્ટેડિયમ (રોક્યા વિના)
+@line_5_4:91મી સ્ટ્રીટ
+@line_5_5:વેસ્ટ હાઈવે (રોકાવ્યા વિના)
+@line_5_6:87મી સ્ટ્રીટ
+@line_5_7:ઉર્જા સંસ્થા
+@line_5_8:ઇતિહાસનું સંગ્રહાલય (રોક્યા વિના)
+@line_5_9:કેન્દ્રીય પુસ્તકાલય
+@line_5_10:મ્યુઝિયમ સ્ટ્રીટ (રોક્યા વિના)
+@line_5_11:પાર્ક સ્ટ્રીટ
+@line_5_12:ટ્રાન્સપોર્ટ ઓથોરિટી
+@line_5_13:લાઈમ સ્ટ્રીટ (રોક્યા વગર)
+@line_5_14:51મી સ્ટ્રીટ
+@line_5_15:49મી સ્ટ્રીટ (રોકાવ્યા વિના)
+@line_5_16:વેસ્ટ સ્ટ્રીટ
+@line_5_17:નિયંત્રણ બિંદુ
