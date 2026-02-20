@@ -1,0 +1,186 @@
+$lang:[AUTO] Estonian
+$version:2
+//UI Strings
+@new_game_button:Uus mäng
+@settings_button:Seadistused
+@about_button:Umbes
+@quit_button:Lõpeta
+@choose_line_button:OK | vali rida
+@max_speed_text:Maksimaalne kiirus
+@cars_total_text:Autod (kokku)
+@controller_text:Kontroller
+@cab_preview_button:Takso
+@interior_preview_button:Interjöör
+@score_text:Skoor
+@passengers_text:Reisijad
+@speed_limit_text:Kiirusepiirang
+@current_speed_text:Kiirus
+@cab_camera_button:Taksokaamera
+@interior_camera_button:Interjöör
+@station_camera_button:Jaam
+@controller_panel_header:Kontroller
+@head_light_button:Pealik
+@@:Valgus
+@cab_light_button:Taksovalgus
+@doors_button:Uksed
+@horn_button:Horn
+@stop_pos_header:Seiskamiskoha kontroll
+@express_train_notifiaction:See on kiirrong. Jäta jaam vahele.
+@view_pos_header:<- Vaade asend ->
+@announcement_button:Teadaanne
+@inf_msg_1:Teade 1
+@@:(5 sek)
+@inf_msg_2:Teade 2
+@@:(10 sekundit)
+@inf_ready:Valmis!
+@inf_playback:Sõnum mängib vastu...
+@inf_recording:Salvestamine...
+@inf_record_txt:Salvestus
+@inf_done_txt:Tehtud
+@announcement_setup_button:Seadistamine
+@simple_lighting_notice:<b><color=red> Märkus: </color> Kui teie seade ei toeta dünaamilist valgustussüsteemi (Headlight funktsioon ei tööta), saate sisse lülitada "Lihtne valgustussüsteem": </b>
+@quit_text:Lõpeta
+@back_to_menu_button:Tagasi põhimenüüsse
+@cancel_button:Tühistage
+@simple_lighting_option:Kasutage lihtsat valgustust (vajalik taaskäivitada)
+@back_button:tagasi
+@line_select_text:Rida
+@start_line_button:Lähme!
+@system_text:Süsteemi
+@master_switch_button:MASTER SWITCH
+@line_1_name:Western Line
+@line_2_name:N rida
+@line_3_name:S-liin
+@line_4_name:Keskliin
+@line_5_name:A Rida (ekspressimine)
+@line_1_description:Jaamad: 10
+@@:Tase: lihtne
+@line_2_description:Jaamad: 9
+@@:Tase: lihtne
+@line_3_description:Jaamad: 7
+@@:Tase: keskmine
+@line_4_description:Jaamad: 10
+@@:Tase: kõva
+@line_5_description:Jaamad: 11 (17)
+@@:Tase: kõva
+//////////////////
+@inf_next_signal:Järgmine signaal
+@inf_pressure:Pidurite õhurõhk
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Automaatpidur on aktiivne
+@msg_unloading:Mahalaadimine...
+@msg_correct_stop:Õige peatus jaamas. Boonus +100
+@msg_nxt_station:Nüüd võid minna järgmisse jaama.
+@msg_start_1:Ettevalmistus stardiks... Palun oota.
+@msg_start_2:Mootori ja kompressori ettevalmistamine. Palun oota.
+@msg_start_3:Rong on valmis minema. Õnn kaasa!
+@controller_lock:Blokeeritud
+@fines_total:Trahvid kokku:
+@passengers_transported:Veetavad reisijad:
+@score:Lõppskoor:
+@signal_red_txt:Punane
+@signal_green_txt:Roheline
+@signal_connection:Ühendus...
+@signal_warning:Punane signaal on ees.
+@signal_fine:Punase signaali eiramine, hea -50
+@ads_disabled_txt:<b> Reklaamid on keelatud</b>
+@ads_disable_txt:<b>Desable Ads + offline mode</b>
+@@:<i><size=10> Keelab kõik 3. osapoole reklaamid ja võimaldab esitada võrguühenduseta</size></i>
+@load_text_1:Kontrolli süsteeme...
+@load_text_2:Kompressori kontrollimine...
+@load_text_3:Signaalide ja mootori kontrollimine...
+@load_text_4:Peaaegu valmis.
+@spd_warning_50:Hoiatus: kiirusepiirang on ees (50 km/h)
+@spd_warning_35:Hoiatus: kiirusepiirang on ees (35 km/h)
+@spd_overspeed:Ülekiirusel. Palun hoidke rongi kiirus kontrolli all.
+@spd_ok:Nüüd on rongi kiirus korras...
+@spd_fine:Ülekiirusel. Võta hoogu maha! Trahv 1 punkt/sek
+@compressor_busy:Osariik: hõivatud
+@compressor_standby:Osariik: valmisolek
+@graphics_qual_txt:Graafika kvaliteet
+@qual_low_txt:Madalamad
+@qual_medium_txt:Keskmine
+@qual_norm_txt:Normaalne
+@qual_high_txt:Kõrge
+@qual_refl_checkbox:Mõtisklusi
+@qual_light_checkbox:Kasuta lihtsustatud valgustussüsteemi (vajalik taaskäivitada)
+@change_lang_btn:Mängukeele muutmine
+@close_btn:Sulge
+@about_text:Programmeerimine: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D mudelid: Anton Romanchuk
+@@:------
+@@:Väljaandja: Alpha Intl. IT Group
+@@:Projekti hooldus: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>See mäng nõuab internetiühendust</b>
+@@:
+@@:Interneti-ühendus ja 3. osapoole reklaamid võimaldavad selle mängu parandamiseks raha saada. Kuid saate osta funktsiooni „Disable Ads, et keelata kõik 3. osapoole reklaamid ja aktiveerida võrguühenduseta režiim. Loodan, et mõistate.
+@selected_train_txt:Valitud rong
+@next_signal_txt:Järgmine signaal
+@air_compr_txt:Õhukompressor
+@air_pressure_txt:Rõhk:
+@system_battery_txt:Aku
+@system_atc_txt:ATC
+@controller_positions_txt:positsioonid
+@nxt_station_txt:Järgmine jaam:
+@nxt_ad_text:Järgmine reklaam:
+@prep_ad_text:Reklaami ettevalmistamine...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Lillede tänav
+@line_1_2:Musikalnaya
+@line_1_3:Metsapark
+@line_1_4:Tööstustänav
+@line_1_5:Morskaja
+@line_1_6:Abrikosovaya
+@line_1_7:Päikesepaiste tänav
+@line_1_8:Apelsinovaya
+@line_1_9:West Streetil
+@line_1_10:Kontrollpunkt
+@line_2_0:Zavodskaja
+@line_2_1:Liteynya
+@line_2_2:Avtozavod
+@line_2_3:Kivitänav
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Kirsipuupark
+@line_2_8:Elektrijaam
+@line_2_9:Kontrollpunkt
+@line_3_0:Vanalinn
+@line_3_1:Männipark
+@line_3_2:7. kvartal
+@line_3_3:Maasikaaed
+@line_3_4:Ozernaya
+@line_3_5:äärelinna
+@line_3_6:Lennujaam
+@line_3_7:Kontrollpunkt
+@line_4_0:38. tänav
+@line_4_1:Ärikeskus
+@line_4_2:Linnaväljaku
+@line_4_3:raekoda
+@line_4_4:Faili avenüü
+@line_4_5:Kesklinnas
+@line_4_6:91. tänav
+@line_4_7:Kaubanduskeskus
+@line_4_8:Staadion
+@line_4_9:Central Park
+@line_4_10:Kontrollpunkt
+@line_5_0:Linnalähedane distriik
+@line_5_1:Metsatänav
+@line_5_2:Birchi park
+@line_5_3:Staadion (peatamata)
+@line_5_4:91. tänav
+@line_5_5:West Highway (peatamata)
+@line_5_6:87. tänav
+@line_5_7:Energeetikainstituut
+@line_5_8:Ajaloomuuseum (peatamata)
+@line_5_9:Keskraamatukogu
+@line_5_10:Muuseumi tänav (peatamata)
+@line_5_11:Park Street
+@line_5_12:Transpordiamet
+@line_5_13:Lubja tänav (peatamata)
+@line_5_14:51. tänav
+@line_5_15:49. tänav (peatamata)
+@line_5_16:West Streetil
+@line_5_17:Kontrollpunkt

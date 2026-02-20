@@ -1,0 +1,186 @@
+$lang:[AUTO] Albanian
+$version:2
+//UI Strings
+@new_game_button:Lojë e re
+@settings_button:Cilësimet
+@about_button:Rreth
+@quit_button:Hiq dorë
+@choose_line_button:ok |zgjidhni linjë
+@max_speed_text:Maks.shpejtësia
+@cars_total_text:Makina (gjithsej)
+@controller_text:Kontrolluesi
+@cab_preview_button:Taksi
+@interior_preview_button:Brendshme
+@score_text:Rezultati
+@passengers_text:Pasagjerët
+@speed_limit_text:Kufiri i shpejtësisë
+@current_speed_text:Shpejtësia
+@cab_camera_button:Kamera e kabinës
+@interior_camera_button:Brendshme
+@station_camera_button:Stacioni
+@controller_panel_header:Kontrolluesi
+@head_light_button:kokë
+@@:Drita
+@cab_light_button:Drita e kabinës
+@doors_button:Dyer
+@horn_button:Briri
+@stop_pos_header:Kontrolli i pozicionit të ndalimit
+@express_train_notifiaction:Ky është tren ekspres.Kalo këtë stacion.
+@view_pos_header:<- Shiko pozicionin ->
+@announcement_button:Njoftim
+@inf_msg_1:Mesazhi 1
+@@:(5 sek)
+@inf_msg_2:Mesazhi 2
+@@:(10 sek)
+@inf_ready:Gati
+@inf_playback:Mesazhi po luhet...
+@inf_recording:Po regjistron...
+@inf_record_txt:Regjistro
+@inf_done_txt:U krye
+@announcement_setup_button:Konfigurimi
+@simple_lighting_notice:<b><color=red>Shënim: </color>Nëse pajisja juaj nuk mbështet Sistemin Dinamik të Ndriçimit (funksioni i Fenerëve nuk funksionon), mund të aktivizoni "Sistemi i thjeshtë i ndriçimit": </b>
+@quit_text:Hiq dorë
+@back_to_menu_button:Kthehu te menyja kryesore
+@cancel_button:Anulo
+@simple_lighting_option:Përdorni ndriçim të thjeshtë (kërkohet rinisja)
+@back_button:mbrapa
+@line_select_text:Zgjedhja e rreshtit
+@start_line_button:Le të shkojmë!
+@system_text:Sistemi
+@master_switch_button:NDËRFAQËSI MISTER
+@line_1_name:Linja perëndimore
+@line_2_name:Linja N
+@line_3_name:Linja S
+@line_4_name:Linja Qendrore
+@line_5_name:Një linjë (Express)
+@line_1_description:Stacione: 10
+@@:Niveli: e lehtë
+@line_2_description:Stacione: 9
+@@:Niveli: e lehtë
+@line_3_description:Stacione: 7
+@@:Niveli: i mesëm
+@line_4_description:Stacione: 10
+@@:Niveli: i vështirë
+@line_5_description:Stacione: 11 (17)
+@@:Niveli: i vështirë
+//////////////////
+@inf_next_signal:Sinjali tjetër
+@inf_pressure:Frenat Presioni i ajrit
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Frena automatike është aktive
+@msg_unloading:Po shkarkon...
+@msg_correct_stop:Ndalesa e duhur në stacion.Bonus +100
+@msg_nxt_station:Tani mund të shkoni në stacionin tjetër
+@msg_start_1:Përgatitja për fillimin... Ju lutemi prisni
+@msg_start_2:Përgatitja e motorit dhe kompresorit.Ju lutemi prisni
+@msg_start_3:Treni është gati për të shkuar.fat të mirë!
+@controller_lock:E bllokuar
+@fines_total:Gjobat, gjithsej:
+@passengers_transported:Pasagjerët e transportuar:
+@score:Rezultati përfundimtar:
+@signal_red_txt:E kuqe
+@signal_green_txt:E gjelbër
+@signal_connection:Lidhja...
+@signal_warning:Sinjali i kuq është përpara
+@signal_fine:Injorimi i sinjalit të kuq, gjobë -50
+@ads_disabled_txt:<b>Reklamat janë çaktivizuar</b>
+@ads_disable_txt:<b>Çaktivizo reklamat + modalitetin jashtë linje</b>
+@@:<i><size=10>Çaktivizon të gjitha reklamat e palëve të treta dhe bën të mundur luajtjen jashtë linje</size></i>
+@load_text_1:Po kontrollon sistemet...
+@load_text_2:Po kontrollon kompresorin...
+@load_text_3:Po kontrollon sinjalet dhe motorin...
+@load_text_4:Pothuajse e kryer...
+@spd_warning_50:Paralajmërim: Kufiri i shpejtësisë është përpara (50 km/orë)
+@spd_warning_35:Paralajmërim: Kufiri i shpejtësisë është përpara (35 km/orë)
+@spd_overspeed:Shpejtësia e tepërt.Ju lutemi mbani nën kontroll shpejtësinë e trenit
+@spd_ok:Tani shpejtësia e trenit është në rregull...
+@spd_fine:Shpejtësia e tepërt.Ngadalë!Gjobë 1 pikë/sek
+@compressor_busy:Shteti: i zënë
+@compressor_standby:Gjendja: gatishmëri
+@graphics_qual_txt:Cilësia e Grafikës
+@qual_low_txt:E ulët
+@qual_medium_txt:E mesme
+@qual_norm_txt:Normale
+@qual_high_txt:Lartë
+@qual_refl_checkbox:Reflektime
+@qual_light_checkbox:Përdorni sistemin e thjeshtuar të ndriçimit (kërkohet rinisja)
+@change_lang_btn:Ndryshoni gjuhën e lojës
+@close_btn:Mbylle
+@about_text:Programimi nga: Sviatoslav Bilov (bilov@alinit.org)
+@@:Modele 3D nga: Anton Romanchuk
+@@:------
+@@:Botuesi: Alpha Intl.Grupi i IT
+@@:Mirëmbajtja e projektit: Projekti Alinit (alinit.org), support@alinit.org
+@offline_notice:<b>Kjo lojë kërkon qasje në internet</b>
+@@:
+@@:Qasja në internet dhe reklamat e palëve të treta ju lejojnë të merrni disa fonde për të përmirësuar këtë lojë.Megjithatë, mund të blini veçorinë "Çaktivizo reklamat" për të çaktivizuar të gjitha reklamat e palëve të treta dhe për të aktivizuar modalitetin jashtë linje.Shpresoj për mirëkuptimin tuaj.
+@selected_train_txt:Treni i zgjedhur
+@next_signal_txt:Sinjali tjetër
+@air_compr_txt:Kompresor ajri
+@air_pressure_txt:Presioni:
+@system_battery_txt:Bateria
+@system_atc_txt:ATC
+@controller_positions_txt:pozicionet
+@nxt_station_txt:Stacioni tjetër:
+@nxt_ad_text:Reklama tjetër:
+@prep_ad_text:Përgatitja e reklamës...
+//////////////////
+//Stations
+@line_1_0:Rruga veriore
+@line_1_1:Rruga e Luleve
+@line_1_2:Muzikalnaya
+@line_1_3:Parku Pyjor
+@line_1_4:Rruga industriale
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Rruga e Diellit
+@line_1_8:Apelsinovaya
+@line_1_9:Rruga Perëndimore
+@line_1_10:Pika e kontrollit
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Rruga e Gurit
+@line_2_4:Rruga e lumit
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:Rruga Lindore
+@line_2_7:Parku i qershisë
+@line_2_8:Termocentrali
+@line_2_9:Pika e kontrollit
+@line_3_0:Qyteti i Vjetër
+@line_3_1:Parku i Pishave
+@line_3_2:Kuartali i 7-të
+@line_3_3:Kopshti me luleshtrydhe
+@line_3_4:Ozernaya
+@line_3_5:Periferi
+@line_3_6:Aeroporti
+@line_3_7:Pika e kontrollit
+@line_4_0:Rruga 38
+@line_4_1:Qendra e Biznesit
+@line_4_2:Sheshi i qytetit
+@line_4_3:Bashkia
+@line_4_4:Faille Avenue
+@line_4_5:Në qendër të qytetit
+@line_4_6:Rruga 91
+@line_4_7:Qendra Tregtare
+@line_4_8:Stadiumi
+@line_4_9:Parku Qendror
+@line_4_10:Pika e kontrollit
+@line_5_0:Rrethi periferik
+@line_5_1:Rruga e pyllit
+@line_5_2:Parku i Mështeknës
+@line_5_3:Stadium (pa ndalim)
+@line_5_4:Rruga 91
+@line_5_5:Autostrada Perëndimore (pa ndalim)
+@line_5_6:Rruga 87
+@line_5_7:Instituti i Energjisë
+@line_5_8:Muzeu Historik (pa ndalim)
+@line_5_9:Biblioteka Qendrore
+@line_5_10:Rruga e Muzeut (pa ndalim)
+@line_5_11:Rruga e Parkut
+@line_5_12:Autoriteti i Transportit
+@line_5_13:Rruga Lime (pa ndalim)
+@line_5_14:Rruga 51
+@line_5_15:Rruga 49 (pa ndalim)
+@line_5_16:Rruga Perëndimore
+@line_5_17:Pika e kontrollit

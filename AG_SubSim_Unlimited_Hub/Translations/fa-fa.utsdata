@@ -1,0 +1,186 @@
+$lang:[AUTO] Persian
+$version:2
+//UI Strings
+@new_game_button:بازی جدید
+@settings_button:تنظیمات
+@about_button:درباره
+@quit_button:استعفا
+@choose_line_button:انتخاب خط
+@max_speed_text:مکس سرعت
+@cars_total_text:اتومبیل (مجموع)
+@controller_text:کنترل کننده
+@cab_preview_button:کابوی
+@interior_preview_button:داخلی داخلی
+@score_text:امتیاز
+@passengers_text:مسافران
+@speed_limit_text:سرعت محدودیت
+@current_speed_text:سرعت سرعت سرعت
+@cab_camera_button:دوربین های کابوی
+@interior_camera_button:داخلی داخلی
+@station_camera_button:ایستگاه ایستگاه
+@controller_panel_header:کنترل کننده
+@head_light_button:Head Head
+@@:نور نور
+@cab_light_button:چراغ
+@doors_button:درها
+@horn_button:هورن
+@stop_pos_header:کنترل موقعیت را متوقف کنید
+@express_train_notifiaction:این قطار است. این ایستگاه را بردارید.
+@view_pos_header:<- View Position ->
+@announcement_button:اعلام
+@inf_msg_1:پیام 1
+@@:(۵)
+@inf_msg_2:پیام ۲
+@@:(10ج)
+@inf_ready:آمادگی آماده
+@inf_playback:پیام به عقب برمی گردد...
+@inf_recording:ضبط ...
+@inf_record_txt:رکورد
+@inf_done_txt:انجام کارها
+@announcement_setup_button:راه اندازی
+@simple_lighting_notice:<b><color=red> توجه: </color> اگر دستگاه شما از سیستم نورپردازی پویا پشتیبانی نمی کند (ویژگی Headlight کار نمی کند)، می توانید به سمت “سیستم نورپردازی سریع” بروید: </b>
+@quit_text:استعفا
+@back_to_menu_button:بازگشت به منوی اصلی
+@cancel_button:لغو لغو
+@simple_lighting_option:استفاده از نورپردازی ساده (در صورت لزوم)
+@back_button:بازگشت به عقب
+@line_select_text:انتخاب خط
+@start_line_button:برویم!
+@system_text:سیستم سیستم
+@master_switch_button:M SWITCH
+@line_1_name:خط غربی
+@line_2_name:N Line
+@line_3_name:S Line
+@line_4_name:خط مرکزی
+@line_5_name:خط (Express)
+@line_1_description:ایستگاه ها: 10
+@@:سطح: آسان
+@line_2_description:ایستگاه ها: 9
+@@:سطح: آسان
+@line_3_description:ایستگاه ها: 7
+@@:سطح: متوسط
+@line_4_description:ایستگاه ها: 10
+@@:سطح: سخت
+@line_5_description:ایستگاه ها: 11:17
+@@:سطح: سخت
+//////////////////
+@inf_next_signal:سیگنال بعدی
+@inf_pressure:ترمز فشار هوا
+@inf_pressure_ind:Prsr
+@msg_autobrake:ترمز خودکار فعال است
+@msg_unloading:Unload ...
+@msg_correct_stop:توقف صحیح در ایستگاه پاداش +100
+@msg_nxt_station:حالا می توانید به ایستگاه بعدی بروید.
+@msg_start_1:آماده سازی برای شروع ... لطفا صبر کنید
+@msg_start_2:آماده سازی موتور و کمپرسور لطفا صبر کنید
+@msg_start_3:قطار آماده رفتن است. خوش شانسی!
+@controller_lock:بلوک
+@fines_total:در مجموع:
+@passengers_transported:مسافران حمل می شوند:
+@score:امتیاز نهایی:
+@signal_red_txt:قرمز سرخ
+@signal_green_txt:سبز سبز سبز
+@signal_connection:اتصال ...
+@signal_warning:سیگنال قرمز پیش رو است
+@signal_fine:تشخیص سیگنال قرمز، خوب - 50
+@ads_disabled_txt:<b>Adها غیرفعال هستند</b>
+@ads_disable_txt:<b>Disable ads + حالت آفلاین</b>
+@@:<i><size=10> همه تبلیغات شخص ثالث را متمایز می کند و امکان پخش آفلاین </size></i> را فراهم می کند.
+@load_text_1:سیستم های چک ...
+@load_text_2:بررسی کمپرسور ...
+@load_text_3:بررسی سیگنال ها و موتور ...
+@load_text_4:تقریباً...
+@spd_warning_50:هشدار: محدودیت سرعت (۵۰ kph)
+@spd_warning_35:هشدار: محدودیت سرعت (۳۵ kph)
+@spd_overspeed:پر سرعت لطفا سرعت قطار را تحت کنترل داشته باشید
+@spd_ok:سرعت قطار خوب است ...
+@spd_fine:پر سرعت آهسته! بهترین نقطه/sec
+@compressor_busy:کشور: شلوغ
+@compressor_standby:کشور: آماده باش
+@graphics_qual_txt:کیفیت گرافیکی
+@qual_low_txt:پایین
+@qual_medium_txt:متوسط متوسط
+@qual_norm_txt:عادی
+@qual_high_txt:ارتفاع بالا
+@qual_refl_checkbox:بازتاب
+@qual_light_checkbox:استفاده از سیستم نورپردازی ساده (در صورت لزوم)
+@change_lang_btn:تغییر زبان بازی
+@close_btn:نزدیک
+@about_text:برنامه ریزی توسط: Sviatoslav Bilov (bilov@alinit.org)
+@@:مدل های 3D: آنتونی رومchuk
+@@:-
+@@:ناشر: Alpha Intl. IT Group
+@@:پروژه تعمیر و نگهداری پروژه: Alinit Project (alinit.org)، پشتیبانی از @alinit.org
+@offline_notice:<b> این بازی نیازمند دسترسی به اینترنت </b> است.
+@@:
+@@:دسترسی به اینترنت و تبلیغات شخص ثالث اجازه می دهد تا برخی از بودجه ها را برای بهبود این بازی به دست آورند. با این حال، شما می توانید ویژگی “تبلیغات قابل تشخیص” را برای غیرفعال کردن تمام تبلیغات شخص ثالث و فعال کردن حالت آفلاین خریداری کنید. امید به درک شما
+@selected_train_txt:قطار منتخب
+@next_signal_txt:سیگنال بعدی
+@air_compr_txt:Air کمپرسور
+@air_pressure_txt:فشار:
+@system_battery_txt:باتری Battery
+@system_atc_txt:ATC
+@controller_positions_txt:موقعیت ها
+@nxt_station_txt:ایستگاه بعدی:
+@nxt_ad_text:بعدی Ad:
+@prep_ad_text:آماده سازی تبلیغات ...
+//////////////////
+//Stations
+@line_1_0:شمال
+@line_1_1:گل های خیابانی
+@line_1_2:موزیکا مکایا
+@line_1_3:پارک جنگل
+@line_1_4:خیابان صنعتی
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:خیابان آفتابی
+@line_1_8:Apelsinovaya
+@line_1_9:خیابان غرب
+@line_1_10:نقطه کنترل
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:خیابان سنگ
+@line_2_4:خیابان رودخانه
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:خیابان شرق
+@line_2_7:پارک گیلاس-درخت
+@line_2_8:نیروگاه برق
+@line_2_9:نقطه کنترل
+@line_3_0:شهر قدیمی
+@line_3_1:پارک Pine Park
+@line_3_2:7th کوارتز
+@line_3_3:باغ توت فرنگی
+@line_3_4:Osernaya
+@line_3_5:Suburb
+@line_3_6:فرودگاه فرودگاه
+@line_3_7:نقطه کنترل
+@line_4_0:خیابان 38
+@line_4_1:مرکز کسب و کار
+@line_4_2:میدان شهر
+@line_4_3:شهر هال
+@line_4_4:خیابان شکست
+@line_4_5:مرکز شهر
+@line_4_6:91 خیابان
+@line_4_7:مرکز تجارت
+@line_4_8:استادیوم استادیوم استادیوم
+@line_4_9:پارک مرکزی
+@line_4_10:نقطه کنترل
+@line_5_0:بازی Subban discrict
+@line_5_1:خیابان جنگل
+@line_5_2:پارک Birch Park
+@line_5_3:ورزشگاه (بدون توقف)
+@line_5_4:91 خیابان
+@line_5_5:بزرگراه غربی (بدون توقف)
+@line_5_6:خیابان 87
+@line_5_7:موسسه انرژی
+@line_5_8:موزه تاریخ (بدون توقف)
+@line_5_9:کتابخانه مرکزی
+@line_5_10:خیابان موزه (بدون توقف)
+@line_5_11:پارک خیابان
+@line_5_12:اداره حمل و نقل
+@line_5_13:خیابان لیمو (بدون توقف)
+@line_5_14:51 خیابان
+@line_5_15:خیابان ۴۹ (بدون توقف)
+@line_5_16:خیابان غرب
+@line_5_17:نقطه کنترل

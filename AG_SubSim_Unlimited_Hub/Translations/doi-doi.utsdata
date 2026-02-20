@@ -1,0 +1,186 @@
+$lang:[AUTO] Dogri
+$version:2
+//UI Strings
+@new_game_button:नई खेल
+@settings_button:सेटिंग्स
+@about_button:तकरीबन
+@quit_button:छोड़ना
+@choose_line_button:ठीक ऐ | लाइन चुनें
+@max_speed_text:मैक्स। रफ्तार
+@cars_total_text:कारें (कुल)
+@controller_text:नियंत्रक ने दी
+@cab_preview_button:कैब
+@interior_preview_button:इंटीरियर
+@score_text:स्कोर
+@passengers_text:यात्रियों ने दी
+@speed_limit_text:गति सीमा
+@current_speed_text:रफ्तार
+@cab_camera_button:कैब कैमरा
+@interior_camera_button:इंटीरियर
+@station_camera_button:स्टेशन
+@controller_panel_header:नियंत्रक ने दी
+@head_light_button:सिर
+@@:लो
+@cab_light_button:कैब लाइट
+@doors_button:दरवाजे
+@horn_button:सिंङ
+@stop_pos_header:पोजीशन कंट्रोल बंद करो
+@express_train_notifiaction:एह् एक्सप्रेस ट्रेन ऐ। इस स्टेशन को छोड़ दे।
+@view_pos_header:<- स्थिति देखें ->
+@announcement_button:घोशना
+@inf_msg_1:संदेश 1
+@@:(5 सेकंड) ऐ।
+@inf_msg_2:संदेश 2
+@@:(10 सेकंड) ऐ।
+@inf_ready:तेयार
+@inf_playback:मैसेज प्ले बैक हो रहा है...
+@inf_recording:रिकार्डिंग करदे होई...
+@inf_record_txt:रिकार्ड
+@inf_done_txt:होई गेआ
+@announcement_setup_button:सेट अप
+@simple_lighting_notice:<b><color=red>नोट: </color>जेकर तुंदा डिवाइस डायनामिक लाइटिंग सिस्टम दा समर्थन नेईं करदा ऐ (हेडलाइट फीचर कम्म नेईं करा करदा ऐ), तां तुस "साधारण लाइटिंग सिस्टम" चालू करी सकदे ओ: </b>
+@quit_text:छोड़ना
+@back_to_menu_button:वापस मुख्य मेनू पर
+@cancel_button:रद्द
+@simple_lighting_option:साधारण रोशनी दा इस्तेमाल करो (रिलॉन्च दी लोड़ ऐ)
+@back_button:पिच्छै
+@line_select_text:लाइन चुनें
+@start_line_button:चलो चलो !
+@system_text:करीना
+@master_switch_button:मास्टर स्विच
+@line_1_name:पश्चिमी लाइन
+@line_2_name:एन लाइन
+@line_3_name:एस लाइन
+@line_4_name:सेंट्रल लाइन
+@line_5_name:ए लाइन (एक्सप्रेस)
+@line_1_description:स्टेशन: 10 ऐ
+@@:स्तर: आसान ऐ
+@line_2_description:स्टेशन: 9
+@@:स्तर: आसान ऐ
+@line_3_description:स्टेशन: 7 ऐ
+@@:स्तर: मध्यम ऐ
+@line_4_description:स्टेशन: 10 ऐ
+@@:स्तर: कठिन
+@line_5_description:स्टेशन: 11 (17) ऐ।
+@@:स्तर: कठिन
+//////////////////
+@inf_next_signal:अगला सिग्नल
+@inf_pressure:ब्रेक एयर प्रेशर
+@inf_pressure_ind:प्रस्र ने दी।
+@msg_autobrake:स्वचालित ब्रेक सक्रिय ऐ
+@msg_unloading:उतारने दा...
+@msg_correct_stop:स्टेशन पर सही स्टॉप। बोनस +100 दा
+@msg_nxt_station:हुण तुस अगले स्टेशन ते जा सकदे ओ
+@msg_start_1:शुरूआत दी तैयारी... इंतजार करो
+@msg_start_2:इंजन ते कंप्रेसर तैयार करना। कृपया इंतजार करो
+@msg_start_3:ट्रेन जाने गी तैयार ऐ। कामयाबी!
+@controller_lock:अवरुद्ध हो गया
+@fines_total:जुर्माना, कुल: 1।
+@passengers_transported:परिवहन कीते गेदे यात्रियें गी:
+@score:अंतिम स्कोर: 1।
+@signal_red_txt:लाल
+@signal_green_txt:सैल्ला
+@signal_connection:कनेक्शन...
+@signal_warning:लाल सिग्नल अग्गें ऐ
+@signal_fine:लाल संकेत गी अनदेखा करदे होई, ठीक -50
+@ads_disabled_txt:<b>विज्ञापन अक्षम कीते गेदे न</b>
+@ads_disable_txt:<b>विज्ञापन + ऑफलाइन मोड अक्षम करो</b>
+@@:<i><size=10>सभनें 3rd पार्टी विज्ञापनें गी अक्षम करदा ऐ ते ऑफलाइन खेड्ढना संभव बनांदा ऐ</size></i>
+@load_text_1:सिस्टम दी जांच करदे होई...
+@load_text_2:कंप्रेसर दी जांच करदे होई...
+@load_text_3:सिग्नल ते इंजन दी जांच करदे होई...
+@load_text_4:लगभग हो गया...
+@spd_warning_50:चेतावनी: गति सीमा अग्गें ऐ (50 किमी प्रति घंटे)
+@spd_warning_35:चेतावनी: गति सीमा अग्गें ऐ (35 किमी प्रति घंटे)
+@spd_overspeed:ओवरस्पीड। कृपया ट्रेन दी गति नियंत्रण च रखो
+@spd_ok:हुण ट्रेन दी स्पीड ठीक ऐ...
+@spd_fine:ओवरस्पीड। धीमा कर दे ! जुर्माना 1 बिंदु/सेकंड
+@compressor_busy:राज्य: व्यस्त
+@compressor_standby:राज्य: स्टैंडबाई
+@graphics_qual_txt:ग्राफिक्स क्वालिटी
+@qual_low_txt:घट्ट
+@qual_medium_txt:दरम्याना
+@qual_norm_txt:आम
+@qual_high_txt:उच्चा
+@qual_refl_checkbox:चिंतन करदे
+@qual_light_checkbox:सरलीकृत प्रकाश प्रणाली दा उपयोग करो (पुनः लॉन्च करने दी लोड़ ऐ)
+@change_lang_btn:गेम लैंग्वेज बदलो
+@close_btn:बंद
+@about_text:प्रोग्रामिंग द्वारा: स्वियातोस्लाव बिलोव (bilov@alinit.org)
+@@:3 डी मॉडल द्वारा: एंटोन रोमनचुक
+@@:--------
+@@:प्रकाशक: अल्फा इंटरनेशनल। आईटी ग्रुप
+@@:परियोजना रखरखाव: अलिनिट परियोजना (alinit.org), support@alinit.org
+@offline_notice:<b>इस गेम च इंटरनेट दी बरतून दी लोड़ ऐ</b>
+@@:
+@@:इंटरनेट एक्सेस ते 3rd-पार्टी विज्ञापन इस गेम गी बेहतर बनाने लेई किश फंडिंग हासल करने दी अनुमति दिंदे न। हालांकि, तुस सारे 3rd-पार्टी विज्ञापनें गी अक्षम करने ते ऑफलाइन मोड सक्रिय करने लेई "विज्ञापन अक्षम" सुविधा खरीदी सकदे ओ। तुंदी समझदारी दी उम्मीद ऐ।
+@selected_train_txt:चयनित ट्रेन
+@next_signal_txt:अगला सिग्नल
+@air_compr_txt:एयर कंप्रेसर
+@air_pressure_txt:जोर:
+@system_battery_txt:बैटरी
+@system_atc_txt:ए टी सी
+@controller_positions_txt:पदों पर
+@nxt_station_txt:अगला स्टेशन:
+@nxt_ad_text:अगला विज्ञापन:
+@prep_ad_text:विज्ञापन तैयार करदे होई...
+//////////////////
+//Stations
+@line_1_0:नॉर्थवे ने दी
+@line_1_1:फूल गली
+@line_1_2:मुसिकलनाया
+@line_1_3:वन पार्क
+@line_1_4:औद्योगिक गली
+@line_1_5:मोर्स्काया ने दी
+@line_1_6:अब्रिकोसोवाया
+@line_1_7:धूप गली
+@line_1_8:अपेलसिनोवाया
+@line_1_9:वेस्ट स्ट्रीट
+@line_1_10:नियंत्रण बिंदु
+@line_2_0:ज़वोदस्काया
+@line_2_1:लितेयनाया
+@line_2_2:अवतोज़ावोद
+@line_2_3:पत्थर दी गली
+@line_2_4:नदी गली
+@line_2_5:सुदोरेमोंटनी ज़वोद
+@line_2_6:ईस्ट स्ट्रीट
+@line_2_7:चेरी-पेड़ पार्क
+@line_2_8:बिजली संयंत्र
+@line_2_9:नियंत्रण बिंदु
+@line_3_0:पुराना शहर
+@line_3_1:पाइन पार्क
+@line_3_2:7वीं क्वार्टल दा
+@line_3_3:स्ट्रॉबेरी गार्डन
+@line_3_4:ओज़ेरनाया
+@line_3_5:उपनगर
+@line_3_6:एयरपोर्ट
+@line_3_7:नियंत्रण बिंदु
+@line_4_0:38 वीं गली
+@line_4_1:बिजनेस सेंटर
+@line_4_2:सिटी स्क्वायर
+@line_4_3:सिटी हॉल
+@line_4_4:फैले एवेन्यू
+@line_4_5:डाउनटाउन दा
+@line_4_6:91वीं गली च
+@line_4_7:व्यापार केंद्र
+@line_4_8:स्टेडियम दा
+@line_4_9:सेंट्रल पार्क
+@line_4_10:नियंत्रण बिंदु
+@line_5_0:उपनगरीय विवेक
+@line_5_1:जंगली गली
+@line_5_2:बर्च पार्क
+@line_5_3:स्टेडियम (बिना रुके)
+@line_5_4:91वीं गली च
+@line_5_5:वेस्ट हाईवे (बिना रुके)
+@line_5_6:87वीं गली च
+@line_5_7:ऊर्जा संस्थान
+@line_5_8:इतिहास संग्रहालय (बिना रुके)
+@line_5_9:केंद्रीय पुस्तकालय
+@line_5_10:म्यूजियम स्ट्रीट (बिना रुके)
+@line_5_11:पार्क स्ट्रीट
+@line_5_12:परिवहन प्राधिकरण ने दी
+@line_5_13:लाइम स्ट्रीट (बिना रुके)
+@line_5_14:51वीं गली
+@line_5_15:49 वीं गली (बिना रुके)
+@line_5_16:वेस्ट स्ट्रीट
+@line_5_17:नियंत्रण बिंदु

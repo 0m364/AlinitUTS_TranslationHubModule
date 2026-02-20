@@ -1,0 +1,186 @@
+$lang:[AUTO] Norwegian
+$version:2
+//UI Strings
+@new_game_button:Nytt spill
+@settings_button:Innstillinger
+@about_button:Om
+@quit_button:Avslutt
+@choose_line_button:OK | Velg linje
+@max_speed_text:Maks hastighet
+@cars_total_text:Biler (totalt)
+@controller_text:Kontrollør
+@cab_preview_button:Cab
+@interior_preview_button:Interiør
+@score_text:Poeng
+@passengers_text:Passasjerer
+@speed_limit_text:Speed Limit
+@current_speed_text:Hastighet
+@cab_camera_button:Cab kamera
+@interior_camera_button:Interiør
+@station_camera_button:stasjon
+@controller_panel_header:Kontrollør
+@head_light_button:Hoved
+@@:Lys
+@cab_light_button:Cab Light
+@doors_button:dører
+@horn_button:Horn
+@stop_pos_header:Stopp posisjonskontroll
+@express_train_notifiaction:Dette er ekspresstog. Hopp over denne stasjonen.
+@view_pos_header:<- Vis posisjon ->
+@announcement_button:Kunngjøring
+@inf_msg_1:Melding 1
+@@:(5 sekunder)
+@inf_msg_2:Melding 2
+@@:(10 sek)
+@inf_ready:Klar
+@inf_playback:Budskapet spiller tilbake...
+@inf_recording:Opptak...
+@inf_record_txt:Record
+@inf_done_txt:Ferdig
+@announcement_setup_button:Oppsett
+@simple_lighting_notice:<b><color=red> Merk: </color> Hvis enheten ikke støtter Dynamic Lighting System (Headlight-funksjonen ikke fungerer), kan du slå på "Simple Lighting System": </b>
+@quit_text:Avslutt
+@back_to_menu_button:Tilbake til Hovedmenyen
+@cancel_button:Avbryt
+@simple_lighting_option:Bruk enkel belysning (relaunch nødvendig)
+@back_button:tilbake
+@line_select_text:Linjevalg
+@start_line_button:Kom igjen!
+@system_text:System
+@master_switch_button:MASTER SWITCH
+@line_1_name:Western Line
+@line_2_name:N Line
+@line_3_name:S Line
+@line_4_name:Sentrallinje
+@line_5_name:En linje (Express)
+@line_1_description:stasjoner: 10
+@@:Nivå: lett
+@line_2_description:stasjoner: 9
+@@:Nivå: lett
+@line_3_description:stasjoner: 7
+@@:Nivå: medium
+@line_4_description:stasjoner: 10
+@@:Nivå: hardt
+@line_5_description:stasjoner: 11 (17)
+@@:Nivå: hardt
+//////////////////
+@inf_next_signal:Neste signal
+@inf_pressure:Bremser lufttrykk
+@inf_pressure_ind:Pr.
+@msg_autobrake:Automatisk bremse er aktiv
+@msg_unloading:Avlaster...
+@msg_correct_stop:Rett stopp på stasjonen. Bonus +100
+@msg_nxt_station:Nå kan du gå til neste stasjon
+@msg_start_1:Forbered deg på starten... Vennligst vent
+@msg_start_2:Forbered motor og kompressor. Vennligst vent
+@msg_start_3:Toget er klar til å gå. Lykke til!
+@controller_lock:Blokkert
+@fines_total:Boliger i alt:
+@passengers_transported:Passasjerer transportert:
+@score:Sluttscore:
+@signal_red_txt:Rød
+@signal_green_txt:Grønn
+@signal_connection:Tilkobling...
+@signal_warning:Rødt signal er foran
+@signal_fine:Overser rødt signal, fint -50
+@ads_disabled_txt:<b>Ads er deaktivert</b>
+@ads_disable_txt:<b> Slå av annonser + frakoblet modus</b>
+@@:<i><size=10> Deaktiverer alle tredjepartsannonser og gjør det mulig å spille offline</size></i>
+@load_text_1:Sjekke systemer...
+@load_text_2:Sjekker kompressor...
+@load_text_3:Sjekker signaler og motor...
+@load_text_4:Nesten ferdig...
+@spd_warning_50:Advarsel: Hastighetsgrensen er foran (50 kph)
+@spd_warning_35:Advarsel: Hastighetsgrensen er foran (35 kph)
+@spd_overspeed:Overfart. Vennligst hold toghastigheten under kontroll
+@spd_ok:Nå er toghastigheten ok...
+@spd_fine:Overfart. Sakte! Fine 1 poeng/sek
+@compressor_busy:Tilstand: travel
+@compressor_standby:Stat: standby
+@graphics_qual_txt:Grafisk kvalitet
+@qual_low_txt:Lav
+@qual_medium_txt:Middels
+@qual_norm_txt:Normal
+@qual_high_txt:Høy
+@qual_refl_checkbox:Refleksjoner
+@qual_light_checkbox:Bruk forenklet belysningssystem (relaunch nødvendig)
+@change_lang_btn:Endre spillspråk
+@close_btn:Lukk
+@about_text:Programmering av: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D Modeller etter: Anton Romanchuk
+@@:-------
+@@:Utgiver: Alpha Intl. IT Group
+@@:Prosjektvedlikehold: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b> Dette spillet krever tilgang til Internett</b>
+@@:
+@@:Internett-tilgang og tredjepartsannonser tillater å få litt finansiering for å forbedre dette spillet. Du kan imidlertid kjøpe funksjonen " Deaktiver annonser" for å deaktivere alle tredjepartsannonser og aktivere frakoblet modus. Håper på din forståelse.
+@selected_train_txt:Valgt tog
+@next_signal_txt:Neste signal
+@air_compr_txt:Luftkompressor
+@air_pressure_txt:Trykk:
+@system_battery_txt:Batteri
+@system_atc_txt:ATC
+@controller_positions_txt:stillinger
+@nxt_station_txt:Neste stasjon:
+@nxt_ad_text:Neste annonse:
+@prep_ad_text:Forbereder reklame...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Flowers Street
+@line_1_2:Musikalnaya
+@line_1_3:Forest Park
+@line_1_4:Industrial Street
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Kontrollpunkt
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry-tree Park
+@line_2_8:kraftverk
+@line_2_9:Kontrollpunkt
+@line_3_0:Gamlebyen
+@line_3_1:Pine Park
+@line_3_2:7. kvartal
+@line_3_3:Strawberry Garden
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:Flyplass
+@line_3_7:Kontrollpunkt
+@line_4_0:38th Street
+@line_4_1:Forretningssenter
+@line_4_2:City Square
+@line_4_3:Rådhus
+@line_4_4:Faille Avenue
+@line_4_5:Sentrum
+@line_4_6:91. gate
+@line_4_7:Handelssenter
+@line_4_8:Stadium
+@line_4_9:Central Park
+@line_4_10:Kontrollpunkt
+@line_5_0:Suburban diskristikk
+@line_5_1:Skog gate
+@line_5_2:Birch Park
+@line_5_3:Stadium (uten stopp)
+@line_5_4:91. gate
+@line_5_5:West Highway (uten stopp)
+@line_5_6:87th Street
+@line_5_7:Energiinstitutt
+@line_5_8:Museum of History (uten å stoppe)
+@line_5_9:Sentralbiblioteket
+@line_5_10:Museum Street (uten stopp)
+@line_5_11:Park Street
+@line_5_12:Transporttilsynet
+@line_5_13:Lime Street (uten å stoppe)
+@line_5_14:51st Street
+@line_5_15:49th Street (uten stopp)
+@line_5_16:West Street
+@line_5_17:Kontrollpunkt

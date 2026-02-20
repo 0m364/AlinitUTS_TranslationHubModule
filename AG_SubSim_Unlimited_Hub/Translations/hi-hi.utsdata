@@ -1,0 +1,186 @@
+$lang:[AUTO] Hindi
+$version:2
+//UI Strings
+@new_game_button:नया गेम
+@settings_button:सेटिंग्स
+@about_button:के बारे में
+@quit_button:उद्धरण
+@choose_line_button:ok (ok)
+@max_speed_text:मैक्स। गति
+@cars_total_text:कारें (कुल)
+@controller_text:नियंत्रक
+@cab_preview_button:टैक्सी
+@interior_preview_button:आंतरिक
+@score_text:स्कोर
+@passengers_text:यात्री
+@speed_limit_text:गति सीमा
+@current_speed_text:गति
+@cab_camera_button:कैब कैमरा
+@interior_camera_button:आंतरिक
+@station_camera_button:स्टेशन
+@controller_panel_header:नियंत्रक
+@head_light_button:हेड
+@@:प्रकाश
+@cab_light_button:कैब लाइट
+@doors_button:दरवाजे
+@horn_button:हॉर्न
+@stop_pos_header:बंद स्थिति नियंत्रण
+@express_train_notifiaction:यह एक्सप्रेस ट्रेन है। इस स्टेशन पर जाएं।
+@view_pos_header:<- स्थिति देखें ->
+@announcement_button:घोषणा
+@inf_msg_1:संदेश 1
+@@:(5 सेकंड)
+@inf_msg_2:संदेश 2
+@@:(10 सेकंड)
+@inf_ready:रेडी
+@inf_playback:संदेश वापस खेल रहा है...
+@inf_recording:रिकॉर्डिंग...
+@inf_record_txt:रिकॉर्ड
+@inf_done_txt:दान
+@announcement_setup_button:सेटअप
+@simple_lighting_notice:<b> <color=red> नोट: </color> यदि आपका डिवाइस डायनेमिक लाइटिंग सिस्टम (हेडलाइट फीचर काम नहीं कर रहा है) का समर्थन नहीं कर रहा है, तो आप "सरल लाइटिंग सिस्टम" पर बदल सकते हैं: </b>
+@quit_text:उद्धरण
+@back_to_menu_button:मुख्य मेनू पर वापस जाएं
+@cancel_button:रद्द करना
+@simple_lighting_option:सरल प्रकाश का उपयोग करें (अनुमोदन की आवश्यकता)
+@back_button:वापस
+@line_select_text:रेखा चयन
+@start_line_button:चलो जाओ!
+@system_text:प्रणाली
+@master_switch_button:मास्टर स्विच
+@line_1_name:पश्चिमी लाइन
+@line_2_name:एन लाइन
+@line_3_name:एस लाइन
+@line_4_name:सेंट्रल लाइन
+@line_5_name:A line (Express)
+@line_1_description:स्टेशन: 10
+@@:स्तर: आसान
+@line_2_description:स्टेशन: 9
+@@:स्तर: आसान
+@line_3_description:स्टेशन: 7
+@@:स्तर: मध्यम
+@line_4_description:स्टेशन: 10
+@@:स्तर: कठिन
+@line_5_description:स्टेशन: 11 (17)
+@@:स्तर: कठिन
+//////////////////
+@inf_next_signal:अगला सिग्नल
+@inf_pressure:ब्रेक्स एयर प्रेशर
+@inf_pressure_ind:Prsr.
+@msg_autobrake:स्वचालित ब्रेक सक्रिय है
+@msg_unloading:Unloading...
+@msg_correct_stop:स्टेशन पर सही स्टॉप। बोनस +100
+@msg_nxt_station:अब आप अगले स्टेशन पर जा सकते हैं
+@msg_start_1:शुरू करने के लिए तैयारी... कृपया प्रतीक्षा करें
+@msg_start_2:इंजन और कंप्रेसर तैयार करना। कृपया प्रतीक्षा करें
+@msg_start_3:ट्रेन जाने के लिए तैयार है। गुड लक!
+@controller_lock:अवरुद्ध
+@fines_total:जुर्माना, कुल:
+@passengers_transported:यात्री परिवहन:
+@score:अंतिम स्कोर:
+@signal_red_txt:लाल
+@signal_green_txt:ग्रीन
+@signal_connection:कनेक्शन...
+@signal_warning:रेड सिग्नल आगे है
+@signal_fine:लाल संकेत की पहचान, ठीक -50
+@ads_disabled_txt:<b>Ads अक्षम हैं</b>
+@ads_disable_txt:<b>Disable विज्ञापन + ऑफ़लाइन मोड</b>
+@@:<i><size=10>सभी तीसरे पक्ष के विज्ञापनों को अक्षम करें और ऑफ़लाइन खेलना संभव बनाता है</size></i>
+@load_text_1:जांच प्रणाली...
+@load_text_2:जांच कंप्रेसर...
+@load_text_3:जांच संकेत और इंजन...
+@load_text_4:लगभग किया ...
+@spd_warning_50:चेतावनी: स्पीड लिमिट आगे है (50 kph)
+@spd_warning_35:चेतावनी: गति सीमा आगे है (35 kph)
+@spd_overspeed:ओवरस्पीड। कृपया ट्रेन की गति को नियंत्रण में रखें
+@spd_ok:अब ट्रेन की गति ठीक है ...
+@spd_fine:ओवरस्पीड। नीचे गिरना! ठीक 1 बिंदु / सेकंड
+@compressor_busy:राज्य: व्यस्त
+@compressor_standby:राज्य: स्टैंडबाय
+@graphics_qual_txt:ग्राफिक्स गुणवत्ता
+@qual_low_txt:कम
+@qual_medium_txt:मध्यम
+@qual_norm_txt:सामान्य
+@qual_high_txt:उच्च
+@qual_refl_checkbox:प्रतिबिंब
+@qual_light_checkbox:सरलीकृत प्रकाश व्यवस्था (अनुमोदन की आवश्यकता) का प्रयोग करें
+@change_lang_btn:खेल भाषा बदलें
+@close_btn:बंद
+@about_text:द्वारा प्रोग्रामिंग: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D मॉडल द्वारा: एंटोन रोमनचुक
+@@:-----
+@@:प्रकाशक: अल्फा Intl आईटी समूह
+@@:परियोजना रखरखाव: Alinit परियोजना (alinit.org), support@alinit.org
+@offline_notice:<b>इस गेम को इंटरनेट एक्सेस</b> की आवश्यकता होती है
+@@:
+@@:इंटरनेट एक्सेस और तीसरे पक्ष के विज्ञापन इस गेम को बेहतर बनाने के लिए कुछ फंडिंग प्राप्त करने की अनुमति देते हैं। हालांकि, आप सभी तीसरे पक्ष के विज्ञापनों को निष्क्रिय करने और ऑफ़लाइन मोड को सक्रिय करने के लिए "Disable ads" सुविधा खरीद सकते हैं। आपकी समझ के लिए आशा है।
+@selected_train_txt:चयनित ट्रेन
+@next_signal_txt:अगला सिग्नल
+@air_compr_txt:एयर कंप्रेसर
+@air_pressure_txt:दबाव:
+@system_battery_txt:बैटरी
+@system_atc_txt:एटीसी
+@controller_positions_txt:स्थिति
+@nxt_station_txt:अगला स्टेशन:
+@nxt_ad_text:आगामी विज्ञापन:
+@prep_ad_text:विज्ञापन तैयार करना
+//////////////////
+//Stations
+@line_1_0:नॉर्थवे
+@line_1_1:फूल स्ट्रीट
+@line_1_2:Musikalnaya
+@line_1_3:वन पार्क
+@line_1_4:औद्योगिक स्ट्रीट
+@line_1_5:मोर्स्काया
+@line_1_6:Abrikosovaya
+@line_1_7:सनशाइन स्ट्रीट
+@line_1_8:Apelsinovaya
+@line_1_9:वेस्ट स्ट्रीट
+@line_1_10:नियंत्रण बिंदु
+@line_2_0:Zavodskaya
+@line_2_1:लाइटिनाया
+@line_2_2:अतोज़ावोद
+@line_2_3:स्टोन स्ट्रीट
+@line_2_4:नदी स्ट्रीट
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:ईस्ट स्ट्रीट
+@line_2_7:चेरी-ट्री पार्क
+@line_2_8:पावर प्लांट
+@line_2_9:नियंत्रण बिंदु
+@line_3_0:ओल्ड सिटी
+@line_3_1:पाइन पार्क
+@line_3_2:7th क्वार्टल
+@line_3_3:स्ट्रॉबेरी गार्डन
+@line_3_4:Ozernaya
+@line_3_5:सबर्ब
+@line_3_6:हवाई अड्डे
+@line_3_7:नियंत्रण बिंदु
+@line_4_0:38th स्ट्रीट
+@line_4_1:व्यापार केंद्र
+@line_4_2:सिटी स्क्वायर
+@line_4_3:सिटी हॉल
+@line_4_4:Faille एवेन्यू
+@line_4_5:डाउनटाउन
+@line_4_6:91st स्ट्रीट
+@line_4_7:व्यापार केन्द्र
+@line_4_8:स्टेडियम
+@line_4_9:सेंट्रल पार्क
+@line_4_10:नियंत्रण बिंदु
+@line_5_0:उपनगरीय अनुशासन
+@line_5_1:वन सड़क
+@line_5_2:बिर्च पार्क
+@line_5_3:स्टेडियम (बिना रोक)
+@line_5_4:91st स्ट्रीट
+@line_5_5:वेस्ट हाइवे (बिना रोक)
+@line_5_6:87 वें स्ट्रीट
+@line_5_7:ऊर्जा संस्थान
+@line_5_8:इतिहास संग्रहालय (बिना रोक)
+@line_5_9:केंद्रीय पुस्तकालय
+@line_5_10:संग्रहालय स्ट्रीट (बिना रोक)
+@line_5_11:पार्क स्ट्रीट
+@line_5_12:परिवहन प्राधिकरण
+@line_5_13:लाइम स्ट्रीट (बिना रोक)
+@line_5_14:51st स्ट्रीट
+@line_5_15:49वां स्ट्रीट (बिना रोक)
+@line_5_16:वेस्ट स्ट्रीट
+@line_5_17:नियंत्रण बिंदु

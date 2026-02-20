@@ -1,0 +1,186 @@
+$lang:[AUTO] Armenian
+$version:2
+//UI Strings
+@new_game_button:Նոր խաղ
+@settings_button:Կարգավորումներ
+@about_button:Մոտ
+@quit_button:Դուրս գալ
+@choose_line_button:լավ | ընտրել գիծ
+@max_speed_text:Մաքս. արագություն
+@cars_total_text:Ավտոմեքենաներ (ընդհանուր)
+@controller_text:Վերահսկիչ
+@cab_preview_button:Քաբ
+@interior_preview_button:Ինտերիեր
+@score_text:Միավոր
+@passengers_text:Ուղևորներ
+@speed_limit_text:Արագության սահմանափակում
+@current_speed_text:Արագություն
+@cab_camera_button:Տաքսի տեսախցիկ
+@interior_camera_button:Ինտերիեր
+@station_camera_button:Կայան
+@controller_panel_header:Վերահսկիչ
+@head_light_button:Ղեկավար
+@@:Լույս
+@cab_light_button:Քաբի լույս
+@doors_button:Դռներ
+@horn_button:Հորն
+@stop_pos_header:Դադարեցրեք դիրքի հսկողությունը
+@express_train_notifiaction:Սա էքսպրես գնացք է: Բաց թողնել այս կայանը:
+@view_pos_header:<- Դիտել դիրքը ->
+@announcement_button:Հայտարարություն
+@inf_msg_1:Հաղորդագրություն 1
+@@:(5 վրկ)
+@inf_msg_2:Հաղորդագրություն 2
+@@:(10 վրկ)
+@inf_ready:Պատրաստ
+@inf_playback:Հաղորդագրությունը նվագարկվում է...
+@inf_recording:Ձայնագրվում է...
+@inf_record_txt:Ձայնագրեք
+@inf_done_txt:Կատարված է
+@announcement_setup_button:Կարգավորում
+@simple_lighting_notice:<b><color=red>Նշում․ </color>Եթե ձեր սարքը չի աջակցում դինամիկ լուսավորության համակարգին (Լուսարձակի գործառույթը չի աշխատում), կարող եք միացնել «Պարզ լուսավորման համակարգը»՝ </b>
+@quit_text:Դուրս գալ
+@back_to_menu_button:Վերադարձ դեպի Հիմնական մենյու
+@cancel_button:Չեղարկել
+@simple_lighting_option:Օգտագործեք պարզ լուսավորություն (պահանջվում է վերագործարկում)
+@back_button:ետ
+@line_select_text:Գծի ընտրություն
+@start_line_button:Եկեք գնանք։
+@system_text:Համակարգ
+@master_switch_button:MASTER SWITCH
+@line_1_name:Արևմտյան գիծ
+@line_2_name:N գիծ
+@line_3_name:S Line
+@line_4_name:Կենտրոնական գիծ
+@line_5_name:A Line (Էքսպրես)
+@line_1_description:Կայաններ՝ 10
+@@:Մակարդակ՝ հեշտ
+@line_2_description:Կայաններ՝ 9
+@@:Մակարդակ՝ հեշտ
+@line_3_description:Կայաններ՝ 7
+@@:Մակարդակ՝ միջին
+@line_4_description:Կայաններ՝ 10
+@@:Մակարդակ՝ կոշտ
+@line_5_description:Կայարաններ՝ 11 (17)
+@@:Մակարդակ՝ կոշտ
+//////////////////
+@inf_next_signal:Հաջորդ ազդանշանը
+@inf_pressure:Արգելակներ Օդի ճնշում
+@inf_pressure_ind:Պրսրր.
+@msg_autobrake:Ավտոմատ արգելակն ակտիվ է
+@msg_unloading:Բեռնաթափվում է...
+@msg_correct_stop:Ճիշտ կանգառ կայարանում: Բոնուս +100
+@msg_nxt_station:Այժմ դուք կարող եք գնալ հաջորդ կայարան
+@msg_start_1:Պատրաստվում ենք մեկնարկին... Խնդրում ենք սպասել
+@msg_start_2:Շարժիչի և կոմպրեսորի պատրաստում: Խնդրում ենք սպասել
+@msg_start_3:Գնացքը պատրաստ է գնալու։ Հաջողություն:
+@controller_lock:Արգելափակված
+@fines_total:Տուգանքներ, ընդհանուր.
+@passengers_transported:Փոխադրվող ուղևորներ.
+@score:Վերջնական միավոր.
+@signal_red_txt:Կարմիր
+@signal_green_txt:Կանաչ
+@signal_connection:Միացում...
+@signal_warning:Առջևում կարմիր ազդանշան է
+@signal_fine:Կարմիր ազդանշանի անտեսում, տուգանք -50
+@ads_disabled_txt:<b>Գովազդն անջատված է</b>
+@ads_disable_txt:<b>Անջատել գովազդը + անցանց ռեժիմը</b>
+@@:<i><size=10>Անջատում է երրորդ կողմի բոլոր գովազդները և հնարավորություն է տալիս խաղալ անցանց</size></i>
+@load_text_1:Համակարգերի ստուգում...
+@load_text_2:Կոմպրեսորի ստուգում...
+@load_text_3:Ազդանշանների և շարժիչի ստուգում...
+@load_text_4:Գրեթե արված...
+@spd_warning_50:Զգուշացում. արագության սահմանաչափը առաջ է (50 կմ/ժ)
+@spd_warning_35:Զգուշացում. արագության սահմանաչափը առաջ է (35 կմ/ժ)
+@spd_overspeed:Գերարագություն. Խնդրում ենք վերահսկել գնացքի արագությունը
+@spd_ok:Այժմ գնացքի արագությունը նորմալ է...
+@spd_fine:Գերարագություն. Դանդաղեցրե՛ք։ Տուգանք 1 միավոր/վրկ
+@compressor_busy:Պետություն՝ զբաղված
+@compressor_standby:Վիճակը՝ սպասման վիճակում
+@graphics_qual_txt:Գրաֆիկայի որակ
+@qual_low_txt:Ցածր
+@qual_medium_txt:Միջին
+@qual_norm_txt:Նորմալ
+@qual_high_txt:Բարձր
+@qual_refl_checkbox:Մտորումներ
+@qual_light_checkbox:Օգտագործեք պարզեցված լուսավորության համակարգ (պահանջվում է վերագործարկում)
+@change_lang_btn:Փոխել խաղի լեզուն
+@close_btn:Փակել
+@about_text:Ծրագրավորում՝ Սվյատոսլավ Բիլով (bilov@alinit.org)
+@@:3D մոդելներ՝ Անտոն Ռոմանչուկի կողմից
+@@:None
+@@:Հրատարակիչ՝ Alpha Intl. ՏՏ խումբ
+@@:Ծրագրի սպասարկում՝ Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Այս խաղը պահանջում է ինտերնետ հասանելիություն</b>
+@@:
+@@:Ինտերնետ հասանելիությունը և երրորդ կողմի գովազդները թույլ են տալիս որոշակի ֆինանսավորում ստանալ այս խաղը բարելավելու համար: Այնուամենայնիվ, դուք կարող եք գնել «Անջատել գովազդը» ֆունկցիան՝ անջատելու երրորդ կողմի բոլոր գովազդները և ակտիվացնելու անցանց ռեժիմը: Հուսանք ձեր ըմբռնման համար:
+@selected_train_txt:Ընտրված գնացք
+@next_signal_txt:Հաջորդ ազդանշանը
+@air_compr_txt:Օդային կոմպրեսոր
+@air_pressure_txt:Ճնշում:
+@system_battery_txt:Մարտկոց
+@system_atc_txt:ATC
+@controller_positions_txt:պաշտոններ
+@nxt_station_txt:Հաջորդ կայարանը.
+@nxt_ad_text:Հաջորդ գովազդը՝
+@prep_ad_text:Գովազդի պատրաստում...
+//////////////////
+//Stations
+@line_1_0:Հյուսիսային ճանապարհ
+@line_1_1:Ծաղիկների փողոց
+@line_1_2:Մուսիկալնայա
+@line_1_3:Անտառային պարկ
+@line_1_4:Արդյունաբերական փողոց
+@line_1_5:Մորսկայա
+@line_1_6:Աբրիկոսովայա
+@line_1_7:Արևի փողոց
+@line_1_8:Ապելսինովայա
+@line_1_9:Արևմտյան փողոց
+@line_1_10:Վերահսկիչ կետ
+@line_2_0:Զավոդսկայա
+@line_2_1:Լիտեյնայա
+@line_2_2:Ավտոզավոդ
+@line_2_3:Քարե փողոց
+@line_2_4:Գետի փողոց
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:Արևելյան փողոց
+@line_2_7:Cherry-tree Park
+@line_2_8:Էլեկտրակայան
+@line_2_9:Վերահսկիչ կետ
+@line_3_0:Հին քաղաք
+@line_3_1:Pine Park
+@line_3_2:7-րդ քառորդ
+@line_3_3:Ելակի այգի
+@line_3_4:Օզերնայա
+@line_3_5:Արվարձան
+@line_3_6:Օդանավակայան
+@line_3_7:Վերահսկիչ կետ
+@line_4_0:38-րդ փողոց
+@line_4_1:Բիզնես կենտրոն
+@line_4_2:Քաղաքի հրապարակ
+@line_4_3:Քաղաքապետարան
+@line_4_4:Ֆայլի պողոտա
+@line_4_5:Կենտրոն
+@line_4_6:91-րդ փողոց
+@line_4_7:Առևտրի կենտրոն
+@line_4_8:Մարզադաշտ
+@line_4_9:Կենտրոնական այգի
+@line_4_10:Վերահսկիչ կետ
+@line_5_0:Ծայրամասային թաղամաս
+@line_5_1:Անտառային փողոց
+@line_5_2:Birch Park
+@line_5_3:Մարզադաշտ (առանց կանգառի)
+@line_5_4:91-րդ փողոց
+@line_5_5:Արևմտյան մայրուղի (առանց կանգառի)
+@line_5_6:87-րդ փողոց
+@line_5_7:Էներգետիկայի ինստիտուտ
+@line_5_8:Պատմության թանգարան (առանց կանգառի)
+@line_5_9:Կենտրոնական գրադարան
+@line_5_10:Թանգարանի փողոց (առանց կանգառի)
+@line_5_11:Park Street
+@line_5_12:Տրանսպորտային մարմին
+@line_5_13:Լայմ փողոց (առանց կանգառի)
+@line_5_14:51-րդ փողոց
+@line_5_15:49-րդ փողոց (առանց կանգառի)
+@line_5_16:Արևմտյան փողոց
+@line_5_17:Վերահսկիչ կետ

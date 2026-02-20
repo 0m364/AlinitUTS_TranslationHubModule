@@ -1,0 +1,186 @@
+$lang:[AUTO] Amharic
+$version:2
+//UI Strings
+@new_game_button:አዲስ ጨዋታ
+@settings_button:ቅንብሮች
+@about_button:ስለ
+@quit_button:አቁም
+@choose_line_button:እሺ |መስመር ይምረጡ
+@max_speed_text:ከፍተኛ.ፍጥነት
+@cars_total_text:መኪናዎች (ጠቅላላ)
+@controller_text:ተቆጣጣሪ
+@cab_preview_button:ካብ’ዚ ንላዕሊ’ዩ ዝበጽሖ
+@interior_preview_button:የውስጥ
+@score_text:ነጥብ
+@passengers_text:ተሳፋሪዎች
+@speed_limit_text:የፍጥነት ገደብ
+@current_speed_text:ፍጥነት
+@cab_camera_button:ካብ ካሜራ
+@interior_camera_button:የውስጥ
+@station_camera_button:መሣፈሪያ
+@controller_panel_header:ተቆጣጣሪ
+@head_light_button:ጭንቅላት
+@@:ብርሃን
+@cab_light_button:ካብ ብርሃን
+@doors_button:በሮች
+@horn_button:ቀንድ
+@stop_pos_header:የቦታ መቆጣጠሪያን አቁም
+@express_train_notifiaction:ይህ ፈጣን ባቡር ነው።ይህን ጣቢያ ዝለል።
+@view_pos_header:<- ቦታን ይመልከቱ ->
+@announcement_button:ማስታወቂያ
+@inf_msg_1:መልእክት 1
+@@:(5 ሰከንድ)
+@inf_msg_2:መልእክት 2
+@@:(10 ሰከንድ)
+@inf_ready:ዝግጁ
+@inf_playback:መልእክት ተመልሶ እየተጫወተ ነው...
+@inf_recording:በመቅዳት ላይ...
+@inf_record_txt:መዝገብ
+@inf_done_txt:ተከናውኗል
+@announcement_setup_button:ማዋቀር
+@simple_lighting_notice:<b><color=red>ማስታወሻ፡ </color> መሳሪያዎ ተለዋዋጭ የመብራት ስርዓትን የማይደግፍ ከሆነ (የፊት መብራት ባህሪ የማይሰራ ከሆነ) "ቀላል የመብራት ስርዓት" ን ማብራት ይችላሉ፡</b>
+@quit_text:አቁም
+@back_to_menu_button:ወደ ዋናው ምናሌ ተመለስ
+@cancel_button:ሰርዝ
+@simple_lighting_option:ቀላል ብርሃንን ተጠቀም (እንደገና ማስጀመር ያስፈልጋል)
+@back_button:ተመለስ
+@line_select_text:መስመር ይምረጡ
+@start_line_button:እንሂድ!
+@system_text:ስርዓት
+@master_switch_button:ማስተር ቀይር
+@line_1_name:ምዕራባዊ መስመር
+@line_2_name:ኤን መስመር
+@line_3_name:ኤስ መስመር
+@line_4_name:ማዕከላዊ መስመር
+@line_5_name:መስመር (ኤክስፕረስ)
+@line_1_description:ጣቢያዎች: 10
+@@:ደረጃ: ቀላል
+@line_2_description:ጣቢያዎች: 9
+@@:ደረጃ: ቀላል
+@line_3_description:ጣቢያዎች: 7
+@@:ደረጃ: መካከለኛ
+@line_4_description:ጣቢያዎች: 10
+@@:ደረጃ: ከባድ
+@line_5_description:ጣቢያዎች፡ 11 (17)
+@@:ደረጃ: ከባድ
+//////////////////
+@inf_next_signal:ቀጣይ ሲግናል
+@inf_pressure:ብሬክስ የአየር ግፊት
+@inf_pressure_ind:Prsr.
+@msg_autobrake:አውቶማቲክ ብሬክ ገባሪ ነው።
+@msg_unloading:በማራገፍ ላይ...
+@msg_correct_stop:በጣቢያው ላይ ትክክለኛ ማቆሚያ.ጉርሻ +100
+@msg_nxt_station:አሁን ወደ ቀጣዩ ጣቢያ መሄድ ይችላሉ
+@msg_start_1:ለመጀመር በመዘጋጀት ላይ... እባክዎ ይጠብቁ
+@msg_start_2:ሞተር እና መጭመቂያ ማዘጋጀት.እባክህ ጠብቅ
+@msg_start_3:ባቡሩ ለመሄድ ዝግጁ ነው።መልካም ምኞት!
+@controller_lock:ታግዷል
+@fines_total:ቅጣቶች, ጠቅላላ:
+@passengers_transported:ተሳፋሪዎች የተጓጓዙ:
+@score:የመጨረሻ ነጥብ፡-
+@signal_red_txt:ቀይ
+@signal_green_txt:አረንጓዴ
+@signal_connection:ግንኙነት...
+@signal_warning:ቀይ ምልክት ወደፊት ነው።
+@signal_fine:ቀይ ምልክትን ችላ ማለት, ጥሩ -50
+@ads_disabled_txt:<b>ማስታወቂያዎች ተሰናክለዋል</b>
+@ads_disable_txt:<b>ማስታወቂያዎችን + ከመስመር ውጭ ሁነታን አሰናክል</b>
+@@:<i><size=10>ሁሉንም የሶስተኛ ወገን ማስታወቂያዎችን ያሰናክላል እና ከመስመር ውጭ ለመጫወት ያስችላል</size></i>
+@load_text_1:ስርዓቶችን በመፈተሽ ላይ...
+@load_text_2:መጭመቂያ በመፈተሽ ላይ...
+@load_text_3:ምልክቶችን እና ሞተርን በመፈተሽ ላይ...
+@load_text_4:ሊጨርስ ነው...
+@spd_warning_50:ማስጠንቀቂያ፡ የፍጥነት ገደብ ቀድሞ ነው (50 ኪ.ሜ. በሰዓት)
+@spd_warning_35:ማስጠንቀቂያ፡ የፍጥነት ገደብ ቀድሞ ነው (35 ኪሜ በሰዓት)
+@spd_overspeed:ከመጠን በላይ ፍጥነት።እባክዎን የባቡሩን ፍጥነት ይቆጣጠሩ
+@spd_ok:አሁን የባቡሩ ፍጥነት ደህና ነው...
+@spd_fine:ከመጠን በላይ ፍጥነት።ቀስ በል!ጥሩ 1 ነጥብ/ሰከንድ
+@compressor_busy:ግዛት፡ ስራ የበዛበት
+@compressor_standby:ግዛት: ተጠባባቂ
+@graphics_qual_txt:የግራፊክስ ጥራት
+@qual_low_txt:ዝቅተኛ
+@qual_medium_txt:መካከለኛ
+@qual_norm_txt:መደበኛ
+@qual_high_txt:ከፍተኛ
+@qual_refl_checkbox:ነጸብራቅ
+@qual_light_checkbox:ቀለል ያለ የብርሃን ስርዓት ተጠቀም (እንደገና ማስጀመር ያስፈልጋል)
+@change_lang_btn:የጨዋታ ቋንቋ ቀይር
+@close_btn:ገጠመ
+@about_text:ፕሮግራም በ Sviatoslav Bilov (bilov@alinit.org)
+@@:3D ሞዴሎች በ: አንቶን ሮማንቹክ
+@@:---
+@@:አታሚ፡- Alpha Intl.የአይቲ ቡድን
+@@:የፕሮጀክት ጥገና፡ Alinit Project (alinit.org)፣ support@alinit.org
+@offline_notice:<b>ይህ ጨዋታ የበይነመረብ መዳረሻ ያስፈልገዋል</b>
+@@:
+@@:የበይነመረብ መዳረሻ እና የሶስተኛ ወገን ማስታወቂያዎች ይህን ጨዋታ ለማሻሻል የተወሰነ የገንዘብ ድጋፍ እንዲያገኙ ያስችላቸዋል።ሆኖም ሁሉንም የሶስተኛ ወገን ማስታወቂያዎችን ለማሰናከል እና ከመስመር ውጭ ሁነታን ለማግበር የ"ማስታወቂያን አሰናክል" ባህሪን መግዛት ይችላሉ።ለግንዛቤዎ ተስፋ ያድርጉ.
+@selected_train_txt:የተመረጠ ባቡር
+@next_signal_txt:ቀጣይ ሲግናል
+@air_compr_txt:የአየር መጭመቂያ
+@air_pressure_txt:ጫና፡-
+@system_battery_txt:ባትሪ
+@system_atc_txt:ኤቲሲ
+@controller_positions_txt:አቀማመጦች
+@nxt_station_txt:ቀጣይ ጣቢያ፡
+@nxt_ad_text:ቀጣይ ማስታወቂያ፡-
+@prep_ad_text:ማስታወቂያ በማዘጋጀት ላይ...
+//////////////////
+//Stations
+@line_1_0:ሰሜናዊ መንገድ
+@line_1_1:የአበባ ጎዳና
+@line_1_2:ሙሲካልናያ
+@line_1_3:የደን ​​ፓርክ
+@line_1_4:የኢንዱስትሪ ጎዳና
+@line_1_5:ሞርካያ
+@line_1_6:አብሪኮሶቫያ
+@line_1_7:ሰንሻይን ጎዳና
+@line_1_8:አፕልሲኖቫያ
+@line_1_9:ምዕራብ ጎዳና
+@line_1_10:የመቆጣጠሪያ ነጥብ
+@line_2_0:ዛቮድስካያ
+@line_2_1:ሊተናያ
+@line_2_2:Avtozavod
+@line_2_3:የድንጋይ ጎዳና
+@line_2_4:ወንዝ ስትሪት
+@line_2_5:ሱዶርሞንትኒ ዛቮድ
+@line_2_6:ምስራቅ ጎዳና
+@line_2_7:የቼሪ-ዛፍ ፓርክ
+@line_2_8:የኃይል ማመንጫ
+@line_2_9:የመቆጣጠሪያ ነጥብ
+@line_3_0:የድሮ ከተማ
+@line_3_1:የፓይን ፓርክ
+@line_3_2:7 ኛ ሩብ
+@line_3_3:እንጆሪ የአትክልት
+@line_3_4:ኦዘርናያ
+@line_3_5:የከተማ ዳርቻ
+@line_3_6:አየር ማረፊያ
+@line_3_7:የመቆጣጠሪያ ነጥብ
+@line_4_0:38ኛ ጎዳና
+@line_4_1:የንግድ ማዕከል
+@line_4_2:የከተማ አደባባይ
+@line_4_3:የከተማ አዳራሽ
+@line_4_4:Faille ጎዳና
+@line_4_5:መሃል ከተማ
+@line_4_6:91ኛ ጎዳና
+@line_4_7:የንግድ ማዕከል
+@line_4_8:ስታዲየም
+@line_4_9:ማዕከላዊ ፓርክ
+@line_4_10:የመቆጣጠሪያ ነጥብ
+@line_5_0:የከተማ ዳርቻ ወረዳ
+@line_5_1:የደን ​​ጎዳና
+@line_5_2:የበርች ፓርክ
+@line_5_3:ስታዲየም (ሳይቆም)
+@line_5_4:91ኛ ጎዳና
+@line_5_5:ምዕራብ ሀይዌይ (ሳይቆም)
+@line_5_6:87ኛ ጎዳና
+@line_5_7:የኢነርጂ ተቋም
+@line_5_8:የታሪክ ሙዚየም (ሳይቆም)
+@line_5_9:ማዕከላዊ ቤተ መጻሕፍት
+@line_5_10:ሙዚየም ጎዳና (ሳይቆም)
+@line_5_11:ፓርክ ጎዳና
+@line_5_12:የትራንስፖርት ባለስልጣን
+@line_5_13:የኖራ ጎዳና (ሳይቆም)
+@line_5_14:51ኛ ጎዳና
+@line_5_15:49ኛ መንገድ (ሳይቆም)
+@line_5_16:ምዕራብ ጎዳና
+@line_5_17:የመቆጣጠሪያ ነጥብ

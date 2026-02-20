@@ -1,0 +1,186 @@
+$lang:[AUTO] Azerbaijani
+$version:2
+//UI Strings
+@new_game_button:Yeni oyun
+@settings_button:Parametrlər
+@about_button:Haqqında
+@quit_button:Çıxın
+@choose_line_button:ok | xətti seçin
+@max_speed_text:Maks. sürət
+@cars_total_text:Avtomobillər (cəmi)
+@controller_text:Nəzarətçi
+@cab_preview_button:kabin
+@interior_preview_button:Daxili
+@score_text:Hesab
+@passengers_text:Sərnişinlər
+@speed_limit_text:Sürət həddi
+@current_speed_text:Sürət
+@cab_camera_button:Kabin kamerası
+@interior_camera_button:Daxili
+@station_camera_button:stansiya
+@controller_panel_header:Nəzarətçi
+@head_light_button:Baş
+@@:İşıq
+@cab_light_button:Kabin işığı
+@doors_button:Qapılar
+@horn_button:Buynuz
+@stop_pos_header:Vəzifə nəzarətini dayandırın
+@express_train_notifiaction:Bu ekspress qatardır. Bu stansiyanı keçin.
+@view_pos_header:<- Mövqeyə bax ->
+@announcement_button:Elan
+@inf_msg_1:Mesaj 1
+@@:(5 san)
+@inf_msg_2:Mesaj 2
+@@:(10 san)
+@inf_ready:Hazır
+@inf_playback:Mesaj oxudulur...
+@inf_recording:Qeydə alınır...
+@inf_record_txt:Qeyd
+@inf_done_txt:Bitdi
+@announcement_setup_button:Quraşdırma
+@simple_lighting_notice:<b><color=red>Qeyd: </color>Cihazınız Dinamik İşıqlandırma Sistemini dəstəkləmirsə (Fara funksiyası işləmir), siz "Sadə İşıqlandırma Sistemi"ni yandıra bilərsiniz: </b>
+@quit_text:Çıxın
+@back_to_menu_button:Əsas menyuya qayıt
+@cancel_button:Ləğv et
+@simple_lighting_option:Sadə işıqlandırmadan istifadə edin (yenidən işə salmaq lazımdır)
+@back_button:geri
+@line_select_text:Xətt seçin
+@start_line_button:gedək!
+@system_text:Sistem
+@master_switch_button:MASTER KÖÇÜR
+@line_1_name:Qərb xətti
+@line_2_name:N xətti
+@line_3_name:S xətti
+@line_4_name:Mərkəzi xətt
+@line_5_name:Xətt (Express)
+@line_1_description:Stansiyalar: 10
+@@:Səviyyə: asan
+@line_2_description:Stansiyalar: 9
+@@:Səviyyə: asan
+@line_3_description:Stansiyalar: 7
+@@:Səviyyə: orta
+@line_4_description:Stansiyalar: 10
+@@:Səviyyə: çətin
+@line_5_description:Stansiyalar: 11 (17)
+@@:Səviyyə: çətin
+//////////////////
+@inf_next_signal:Növbəti siqnal
+@inf_pressure:Əyləclər Hava Təzyiqi
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Avtomatik əyləc aktivdir
+@msg_unloading:Boşaldır...
+@msg_correct_stop:Stansiyada düzgün dayanma. Bonus +100
+@msg_nxt_station:İndi növbəti stansiyaya gedə bilərsiniz
+@msg_start_1:Başlamaya hazırlanır... Lütfən, gözləyin
+@msg_start_2:Mühərrikin və kompressorun hazırlanması. Zəhmət olmasa gözləyin
+@msg_start_3:Qatar getməyə hazırdır. Uğurlar!
+@controller_lock:Blok edilib
+@fines_total:Cərimələr, cəmi:
+@passengers_transported:Daşınan sərnişinlər:
+@score:Yekun xal:
+@signal_red_txt:Qırmızı
+@signal_green_txt:Yaşıl
+@signal_connection:Bağlantı...
+@signal_warning:Qırmızı siqnal irəlidədir
+@signal_fine:Qırmızı siqnala məhəl qoymamaq, gözəl -50
+@ads_disabled_txt:<b>Reklamlar deaktiv edilib</b>
+@ads_disable_txt:<b>Reklamları + oflayn rejimi deaktiv edin</b>
+@@:<i><size=10>Bütün 3-cü tərəf reklamlarını deaktiv edir və oflayn oynamağa imkan verir</size></i>
+@load_text_1:Sistemlər yoxlanılır...
+@load_text_2:Kompressor yoxlanılır...
+@load_text_3:Siqnallar və mühərrik yoxlanılır...
+@load_text_4:Demək olar ki, hazırdır...
+@spd_warning_50:Xəbərdarlıq: Sürət həddi irəlidədir (50 km/saat)
+@spd_warning_35:Xəbərdarlıq: Sürət həddi irəlidədir (35 km/saat)
+@spd_overspeed:Həddindən artıq sürət. Zəhmət olmasa qatarın sürətini nəzarət altında saxlayın
+@spd_ok:İndi qatarın sürəti normaldır...
+@spd_fine:Həddindən artıq sürət. Yavaşla! Gözəl 1 bal/san
+@compressor_busy:Vəziyyət: məşğuldur
+@compressor_standby:Vəziyyət: gözləmə rejimi
+@graphics_qual_txt:Qrafik keyfiyyət
+@qual_low_txt:Aşağı
+@qual_medium_txt:Orta
+@qual_norm_txt:Normal
+@qual_high_txt:Yüksək
+@qual_refl_checkbox:Reflekslər
+@qual_light_checkbox:Sadələşdirilmiş işıqlandırma sistemindən istifadə edin (yenidən işə salmaq lazımdır)
+@change_lang_btn:Oyun dilini dəyişdirin
+@close_btn:Bağlayın
+@about_text:Proqramçı: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D Modellər: Anton Romanchuk
+@@:None
+@@:Nəşriyyat: Alpha Intl. İT Qrupu
+@@:Layihənin saxlanması: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Bu oyun İnternetə çıxış tələb edir</b>
+@@:
+@@:İnternetə çıxış və üçüncü tərəf reklamları bu oyunu təkmilləşdirmək üçün müəyyən maliyyə vəsaiti əldə etməyə imkan verir. Bununla belə, siz bütün 3-cü tərəf reklamlarını söndürmək və oflayn rejimi aktivləşdirmək üçün "Reklamları söndürün" funksiyasını ala bilərsiniz. Anlayışınıza ümid edirəm.
+@selected_train_txt:Seçilmiş qatar
+@next_signal_txt:Növbəti siqnal
+@air_compr_txt:Hava kompressoru
+@air_pressure_txt:Təzyiq:
+@system_battery_txt:Batareya
+@system_atc_txt:ATC
+@controller_positions_txt:vəzifələr
+@nxt_station_txt:Növbəti stansiya:
+@nxt_ad_text:Növbəti elan:
+@prep_ad_text:Reklam hazırlanır...
+//////////////////
+//Stations
+@line_1_0:Şimal yolu
+@line_1_1:Çiçəklər küçəsi
+@line_1_2:Musiqili
+@line_1_3:Meşə parkı
+@line_1_4:Sənaye küçəsi
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Günəş küçəsi
+@line_1_8:Apelsinovaya
+@line_1_9:Qərb küçəsi
+@line_1_10:Nəzarət nöqtəsi
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Daş küçəsi
+@line_2_4:Çay küçəsi
+@line_2_5:Sudoremontnıy Zavod
+@line_2_6:Şərq küçəsi
+@line_2_7:Albalı Parkı
+@line_2_8:Elektrik Stansiyası
+@line_2_9:Nəzarət nöqtəsi
+@line_3_0:Köhnə şəhər
+@line_3_1:Şam parkı
+@line_3_2:7-ci kvartal
+@line_3_3:Çiyələk bağı
+@line_3_4:Ozernaya
+@line_3_5:Şəhərətrafı
+@line_3_6:Hava limanı
+@line_3_7:Nəzarət nöqtəsi
+@line_4_0:38-ci küçə
+@line_4_1:Biznes mərkəzi
+@line_4_2:Şəhər Meydanı
+@line_4_3:Bələdiyyə
+@line_4_4:Faille prospekti
+@line_4_5:Şəhərin mərkəzi
+@line_4_6:91-ci küçə
+@line_4_7:Ticarət Mərkəzi
+@line_4_8:Stadion
+@line_4_9:Mərkəzi Park
+@line_4_10:Nəzarət nöqtəsi
+@line_5_0:Şəhərətrafı rayon
+@line_5_1:Meşə küçəsi
+@line_5_2:Ağcaqayın parkı
+@line_5_3:Stadion (dayanmadan)
+@line_5_4:91-ci küçə
+@line_5_5:Qərb magistralı (dayanmadan)
+@line_5_6:87-ci küçə
+@line_5_7:Enerji İnstitutu
+@line_5_8:Tarix Muzeyi (dayanmadan)
+@line_5_9:Mərkəzi Kitabxana
+@line_5_10:Muzey küçəsi (dayanmadan)
+@line_5_11:Park küçəsi
+@line_5_12:Nəqliyyat İdarəsi
+@line_5_13:Lime Street (dayanmadan)
+@line_5_14:51-ci küçə
+@line_5_15:49-cu küçə (dayanmadan)
+@line_5_16:Qərb küçəsi
+@line_5_17:Nəzarət nöqtəsi

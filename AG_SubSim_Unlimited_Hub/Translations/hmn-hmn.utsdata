@@ -1,0 +1,186 @@
+$lang:[AUTO] Hmong
+$version:2
+//UI Strings
+@new_game_button:Kev ua si tshiab
+@settings_button:Chaw
+@about_button:Txog
+@quit_button:Tawm
+@choose_line_button:ok | xaiv kab
+@max_speed_text:Max. ceev
+@cars_total_text:Tsheb (tag nrho)
+@controller_text:Tus tswj
+@cab_preview_button:Cab
+@interior_preview_button:Sab hauv
+@score_text:Cov qhab nias
+@passengers_text:Cov neeg caij tsheb
+@speed_limit_text:Ceev txwv
+@current_speed_text:Ceev
+@cab_camera_button:Cab koob yees duab
+@interior_camera_button:Sab hauv
+@station_camera_button:Chaw nres tsheb
+@controller_panel_header:Tus tswj
+@head_light_button:Lub taub hau
+@@:Teeb
+@cab_light_button:Cab Teeb
+@doors_button:Qhov rooj
+@horn_button:Horn
+@stop_pos_header:Nres txoj hauj lwm tswj
+@express_train_notifiaction:Nov yog lub tsheb ciav hlau ceev. Hla lub chaw nres tsheb no.
+@view_pos_header:<- Saib txoj hauj lwm -->
+@announcement_button:Tshaj tawm
+@inf_msg_1:Xov xwm 1
+@@:(5 sec)
+@inf_msg_2:Xov xwm 2
+@@:(10 sec)
+@inf_ready:Npaj txhij
+@inf_playback:Message rov qab...
+@inf_recording:Kev kaw cia...
+@inf_record_txt:Cov ntaub ntawv
+@inf_done_txt:Ua tiav
+@announcement_setup_button:Teeb tsa
+@simple_lighting_notice:<b><color=red>Note: </color>Yog tias koj lub cuab yeej tsis txhawb Dynamic Lighting System (Lub taub hau lub teeb tsis ua haujlwm), koj tuaj yeem qhib "Cov Teeb Pom Kev Yooj Yim": </b>
+@quit_text:Tawm
+@back_to_menu_button:Rov qab mus rau Main menu
+@cancel_button:Tso tseg
+@simple_lighting_option:Siv cov teeb pom kev yooj yim (yuav tsum rov pib dua)
+@back_button:rov qab
+@line_select_text:Kab xaiv
+@start_line_button:Wb mus!
+@system_text:Qhov system
+@master_switch_button:MASTER SWITCH
+@line_1_name:Western Kab
+@line_2_name:N Kab
+@line_3_name:S Kab
+@line_4_name:Central Kab
+@line_5_name:Ib Kab (Express)
+@line_1_description:Chaw nres tsheb: 10
+@@:Qib: yooj yim
+@line_2_description:Chaw nres tsheb: 9
+@@:Qib: yooj yim
+@line_3_description:Chaw nres tsheb: 7
+@@:Qib: nruab nrab
+@line_4_description:Chaw nres tsheb: 10
+@@:Qib: nyuaj
+@line_5_description:Chaw nres tsheb: 11 (17)
+@@:Qib: nyuaj
+//////////////////
+@inf_next_signal:Next Signal
+@inf_pressure:Brakes Cua Siab
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Tsis siv neeg nres yog ua haujlwm
+@msg_unloading:Unloading...
+@msg_correct_stop:Kho qhov chaw nres tsheb. Bonus +100
+@msg_nxt_station:Tam sim no koj tuaj yeem mus rau qhov chaw nres tsheb tom ntej
+@msg_start_1:Npaj pib...Thov tos
+@msg_start_2:Npaj lub cav thiab compressor. Thov tos
+@msg_start_3:Lub tsheb ciav hlau npaj mus. Hmoov zoo!
+@controller_lock:Thaiv
+@fines_total:Kev nplua, tag nrho:
+@passengers_transported:Cov neeg caij tsheb thauj:
+@score:Cov qhab nias kawg:
+@signal_red_txt:Liab
+@signal_green_txt:Ntsuab
+@signal_connection:Kev sib txuas...
+@signal_warning:Liab teeb liab yog ua ntej
+@signal_fine:Tsis quav ntsej liab teeb liab, nplua -50
+@ads_disabled_txt:<b>Ads raug kaw lawm</b>
+@ads_disable_txt:<b>Disable tshaj tawm + hom offline</b>
+@@:<i><size=10> Disables tag nrho 3rd party tshaj tawm thiab ua tau mus ua si offline</size></i>
+@load_text_1:Checking systems...
+@load_text_2:Tshawb xyuas compressor ...
+@load_text_3:Tshawb xyuas cov teeb liab thiab lub cav...
+@load_text_4:Yuav luag tag...
+@spd_warning_50:Ceeb toom: Kev txwv ceev yog ua ntej (50 kph)
+@spd_warning_35:Ceeb toom: Kev txwv ceev yog ua ntej (35 kph)
+@spd_overspeed:Tshaj nrawm. Thov kom lub tsheb ciav hlau ceev tswj tau
+@spd_ok:Tam sim no lub tsheb ciav hlau ceev yog OK ...
+@spd_fine:Tshaj nrawm. Maj mam! Fine 1 point/sec
+@compressor_busy:Xeev: tibneeg hu tauj coob
+@compressor_standby:Lub xeev: standby
+@graphics_qual_txt:Graphics Zoo
+@qual_low_txt:Tsawg
+@qual_medium_txt:Nruab nrab
+@qual_norm_txt:Ib txwm
+@qual_high_txt:Siab
+@qual_refl_checkbox:Kev xav
+@qual_light_checkbox:Siv cov teeb pom kev yooj yim yooj yim (relaunch yuav tsum tau)
+@change_lang_btn:Hloov cov lus ua si
+@close_btn:Kaw
+@about_text:Programming los ntawm: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D Qauv los ntawm: Anton Romanchuk
+@@:None
+@@:Tus tsim tawm: Alpha Intl. IT Group
+@@:Kev saib xyuas qhov project: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Qhov kev ua si no yuav tsum tau siv Internet</b>
+@@:
+@@:Kev nkag mus hauv Is Taws Nem thiab 3rd-tog tshaj tawm tso cai kom tau txais qee qhov nyiaj los txhim kho qhov kev ua si no. Txawm li cas los xij, koj tuaj yeem yuav "Disable ads" feature los lov tes taw tag nrho 3rd-tog tshaj tawm thiab qhib hom offline. Cia siab rau koj txoj kev nkag siab.
+@selected_train_txt:Xaiv lub tsheb ciav hlau
+@next_signal_txt:Next Signal
+@air_compr_txt:Cua Compressor
+@air_pressure_txt:Siab:
+@system_battery_txt:Roj teeb
+@system_atc_txt:ATC
+@controller_positions_txt:txoj haujlwm
+@nxt_station_txt:Chaw nres tsheb tom ntej:
+@nxt_ad_text:Tom ntej no Ad:
+@prep_ad_text:Npaj kev tshaj tawm...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Paj Txoj Kev
+@line_1_2:Musikalnaya
+@line_1_3:Hav zoov Park
+@line_1_4:Industrial Street
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Tswj taw tes
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:"Avtozavod".
+@line_2_3:Pob zeb Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry-ntoo Park
+@line_2_8:Fais fab nroj tsuag
+@line_2_9:Tswj taw tes
+@line_3_0:Lub nroog qub
+@line_3_1:Pine Park
+@line_3_2:7th qiv
+@line_3_3:Strawberry vaj
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:Tshav dav hlau
+@line_3_7:Tswj taw tes
+@line_4_0:38th Street
+@line_4_1:Chaw Ua Lag Luam
+@line_4_2:Lub Nroog Square
+@line_4_3:Lub Nroog
+@line_4_4:Faile Avenue
+@line_4_5:Hauv plawv nroog
+@line_4_6:91st Street
+@line_4_7:Trade Center
+@line_4_8:Chaw ntau pob
+@line_4_9:Central Park
+@line_4_10:Tswj taw tes
+@line_5_0:Suburban kev sib cais
+@line_5_1:Hav zoov txoj kev
+@line_5_2:Birch Park
+@line_5_3:Stadium (tsis nres)
+@line_5_4:91st Street
+@line_5_5:West Highway (tsis nres)
+@line_5_6:87th Street
+@line_5_7:Lub koom haum ntawm Zog
+@line_5_8:Tsev khaws puav pheej ntawm keeb kwm (tsis nres)
+@line_5_9:Central Library
+@line_5_10:Tsev khaws puav pheej Street (tsis nres)
+@line_5_11:Park Street
+@line_5_12:Transport Authority
+@line_5_13:Lime Street (tsis nres)
+@line_5_14:51st Street
+@line_5_15:49th Street (tsis nres)
+@line_5_16:West Street
+@line_5_17:Tswj taw tes

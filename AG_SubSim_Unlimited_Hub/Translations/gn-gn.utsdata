@@ -1,0 +1,186 @@
+$lang:[AUTO] Guarani
+$version:2
+//UI Strings
+@new_game_button:Ñembosarái pyahu
+@settings_button:Ñemboheko
+@about_button:Upéva rehegua
+@quit_button:Heja
+@choose_line_button:ok | oiporavo línea
+@max_speed_text:Max. pya'eterei
+@cars_total_text:Mba’yrumýi (total) .
+@controller_text:Controlador rehegua
+@cab_preview_button:Cab
+@interior_preview_button:Interior rehegua
+@score_text:Kytame'ẽ
+@passengers_text:Pasajero-kuéra
+@speed_limit_text:Límite de Velocidad rehegua
+@current_speed_text:Pya'eterei
+@cab_camera_button:Cámara taxi rehegua
+@interior_camera_button:Interior rehegua
+@station_camera_button:Arajere
+@controller_panel_header:Controlador rehegua
+@head_light_button:Akã
+@@:Tesakã
+@cab_light_button:Cabina Luz rehegua
+@doors_button:Okẽ
+@horn_button:Hatĩ
+@stop_pos_header:Ojejoko control de posición rehegua
+@express_train_notifiaction:Kóva ha'e tren expreso. Ojesalta ko estación.
+@view_pos_header:<- Ojehecha tenda ->
+@announcement_button:Marandu
+@inf_msg_1:Marandu rehegua 1.1
+@@:(5 seg) .
+@inf_msg_2:Marandu 2. Ñe’ẽpoty
+@@:(10 seg) .
+@inf_ready:Oĩmbáma
+@inf_playback:Marandu oñembopu ohóvo...
+@inf_recording:Grabación...
+@inf_record_txt:Mboguapyre
+@inf_done_txt:Apopyre
+@announcement_setup_button:Mbohete
+@simple_lighting_notice:<b><color=red>Ñe’ẽñemi: </color>Ne tembipuru ndoipytyvõiramo Sistema de iluminación dinámica (mba’ekuaarã faro rehegua nomba’apói), ikatu emboguejy "Sistema de iluminación simple": </b>
+@quit_text:Heja
+@back_to_menu_button:Ojevy menú Principal-pe
+@cancel_button:Heja
+@simple_lighting_option:Eipuru iluminación simple (oñeikotevẽ relanzamiento) .
+@back_button:kupe
+@line_select_text:Línea ojeporavóva
+@start_line_button:¡Jaha katu!
+@system_text:Mohendapyrã
+@master_switch_button:INTERRUPTOR MASTER rehegua
+@line_1_name:Línea Occidental rehegua
+@line_2_name:L Línea N rehegua
+@line_3_name:L Línea S rehegua
+@line_4_name:Línea Central rehegua
+@line_5_name:Peteĩ Línea (Expreso) .
+@line_1_description:Estaciones: 10. Ñe’ẽpoty ha ñe’ẽpoty
+@@:Nivel: ndahasýi
+@line_2_description:Estaciones: 9. Ñe’ẽpoty ha ñe’ẽpoty
+@@:Nivel: ndahasýi
+@line_3_description:Estaciones: 7. Ñe’ẽpoty ha ñe’ẽpoty
+@@:Nivel: mediano rehegua
+@line_4_description:Estaciones: 10. Ñe’ẽpoty ha ñe’ẽpoty
+@@:Nivel: hasy
+@line_5_description:Estaciones: 11 (17) .
+@@:Nivel: hasy
+//////////////////
+@inf_next_signal:Señal oúva
+@inf_pressure:Frenos Presión del Aire rehegua
+@inf_pressure_ind:Prsr. Ñe’ẽpoty ha ñe’ẽpoty.
+@msg_autobrake:Freno automático oime activo
+@msg_unloading:Ojedeskarga haguã...
+@msg_correct_stop:Parada correcta estación-pe. Bono +100 rehegua
+@msg_nxt_station:Ko'ágã ikatu reho ambue estación-pe
+@msg_start_1:Oñembosako'ívo ñepyrũrã... Peha'arõmi
+@msg_start_2:Ombosako’ívo motor ha compresor. Por favor, eha'arõ
+@msg_start_3:Pe tren oĩma oho hag̃ua. Po'aite!
+@controller_lock:Ojejoko
+@fines_total:Multa, total: 1.1.
+@passengers_transported:Pasajero-kuéra oñembohasáva:
+@score:Puntuación Paha: 1.1.
+@signal_red_txt:Pytã
+@signal_green_txt:Hovyũ
+@signal_connection:Ñembojoaju...
+@signal_warning:Señal pytã oime tenonde gotyo
+@signal_fine:Omboykévo señal pytã, multa -50
+@ads_disabled_txt:<b>Oñembogue umi marandu</b>
+@ads_disable_txt:<b>Embogue marandu + modo offline</b>
+@@:<i><size=10>Ombogue opaite marandu 3ha rehegua ha ikatu oñembosarái línea’ỹre</size></i>
+@load_text_1:Ojehechávo umi sistema...
+@load_text_2:Ojesarekóva compresor rehe...
+@load_text_3:Ojehechávo señal ha motor...
+@load_text_4:Haimete ojejapo...
+@spd_warning_50:Advertencia: Límite de velocidad oñemotenonde (50 kph) .
+@spd_warning_35:Advertencia: Límite de velocidad oñemotenonde (35 kph) .
+@spd_overspeed:Velocidad hetaiterei. Por favor, peñongatu pe tren velocidad control-pe
+@spd_ok:Ko'ágã tren velocidad oî porã...
+@spd_fine:Velocidad hetaiterei. ¡Emboguejy mbeguekatu! Multa 1 punto/seg
+@compressor_busy:Estado: hembiapo heta
+@compressor_standby:Estado: ñembosako’i
+@graphics_qual_txt:Calidad Gráfica rehegua
+@qual_low_txt:Iguýpe
+@qual_medium_txt:Mbyte
+@qual_norm_txt:Jepigua
+@qual_high_txt:Yvate
+@qual_refl_checkbox:Umi jepy’amongeta
+@qual_light_checkbox:Eipuru sistema de iluminación simplificado (oñeikotevẽ relanzamiento) .
+@change_lang_btn:Emoambue ñembosarái ñe’ẽ
+@close_btn:Mboty
+@about_text:Programación ojapova’ekue: Sviatoslav Bilov (bilov@alinit.org)
+@@:Modelos 3D ojapova’ekue: Anton Romanchuk
+@@:-------
+@@:Omoherakuãva: Alpha Intl. Grupo IT rehegua
+@@:Proyecto ñeñangareko: Proyecto Alinit (alinit.org), support@alinit.org
+@offline_notice:<b>Ko ñembosarái oikotevẽ Internet jeike</b>
+@@:
+@@:Internet jeike ha umi anuncio 3er parte-pegua oheja ojehupyty michĩmi viru oñemyatyrõ hag̃ua ko ñembosarái. Ha katu ikatu rejogua "Embogue marandu" embogue hag̃ua opaite marandu 3er-pegua ha emombaꞌapo hag̃ua modo fuera de línea. Eha’arõ ne entendimiento.
+@selected_train_txt:Tren ojeporavóva
+@next_signal_txt:Señal oúva
+@air_compr_txt:Compresor de Aire rehegua
+@air_pressure_txt:Jejopy:
+@system_battery_txt:Ñaniryiryru
+@system_atc_txt:ATC rehegua
+@controller_positions_txt:umi cargo rehegua
+@nxt_station_txt:Estación oúva:
+@nxt_ad_text:Anuncio oúva:
+@prep_ad_text:Ombosako'ívo anuncio...
+//////////////////
+//Stations
+@line_1_0:Norte gotyo
+@line_1_1:Yvotykuéra tape
+@line_1_2:Musikalnaya rehegua
+@line_1_3:Parque Ka’aguy rehegua
+@line_1_4:Calle Industrial rehegua
+@line_1_5:Morskaya rehegua
+@line_1_6:Abrikosovaya rehegua
+@line_1_7:Kuarahy Resape Tape
+@line_1_8:Apelsinovaya rehegua
+@line_1_9:Calle Oeste rehegua
+@line_1_10:Punto de control rehegua
+@line_2_0:Zavodskaya rehegua
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod rehegua
+@line_2_3:Tape Ita rehegua
+@line_2_4:Río tape
+@line_2_5:Sudoremontniy Zavod rehegua
+@line_2_6:Calle Este rehegua
+@line_2_7:Parque cereza-yvyra rehegua
+@line_2_8:Central Eléctrica rehegua
+@line_2_9:Punto de control rehegua
+@line_3_0:Táva Tuja
+@line_3_1:Parque de Pino rehegua
+@line_3_2:7o cuarto rehegua
+@line_3_3:Yvotyty Fresa rehegua
+@line_3_4:Ozernaya rehegua
+@line_3_5:Suburbio táva okaháre
+@line_3_6:Aviõguejyha
+@line_3_7:Punto de control rehegua
+@line_4_0:Tape 38ha
+@line_4_1:Centro de Negocios rehegua
+@line_4_2:Tavaguasu Plaza
+@line_4_3:Ayuntamiento Aty Guasu
+@line_4_4:Avenida Faille rehegua
+@line_4_5:Táva mbytépe
+@line_4_6:Tape 91ha
+@line_4_7:Centro Comercial rehegua
+@line_4_8:Estadio rehegua
+@line_4_9:Parque Central rehegua
+@line_4_10:Punto de control rehegua
+@line_5_0:Discrito suburbano rehegua
+@line_5_1:Tape ka’aguy rehegua
+@line_5_2:Parque Abedul rehegua
+@line_5_3:Estadio (ojepytaso'ỹre) .
+@line_5_4:Tape 91ha
+@line_5_5:Tape Kuarahyreikegua (opytu’u’ỹre) .
+@line_5_6:Tape 87ha
+@line_5_7:Instituto de Energía rehegua
+@line_5_8:Museo de Historia (ojepytaso’ỹre) .
+@line_5_9:Biblioteca Central rehegua
+@line_5_10:Museo Calle (ojepytaso’ỹre) .
+@line_5_11:Tape Park rehegua
+@line_5_12:Autoridad de Transporte rehegua
+@line_5_13:Calle Lime (ojepytaso’ỹre) .
+@line_5_14:Tape 51ha
+@line_5_15:Calle 49 (opytu’u’ỹre) .
+@line_5_16:Calle Oeste rehegua
+@line_5_17:Punto de control rehegua

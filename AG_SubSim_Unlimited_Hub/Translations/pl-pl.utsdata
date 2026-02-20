@@ -1,0 +1,186 @@
+$lang:[AUTO] Polish
+$version:2
+//UI Strings
+@new_game_button:Nowa gra
+@settings_button:Ustawienia
+@about_button:O
+@quit_button:Zakończ
+@choose_line_button:ok well124; wybierz linię
+@max_speed_text:Maksymalna prędkość
+@cars_total_text:Samochody (ogółem)
+@controller_text:Sterownik
+@cab_preview_button:Taksówka
+@interior_preview_button:Wnętrze
+@score_text:Wynik
+@passengers_text:Pasażerowie
+@speed_limit_text:Ograniczenie prędkości
+@current_speed_text:Prędkość
+@cab_camera_button:Kamera
+@interior_camera_button:Wnętrze
+@station_camera_button:Stacja
+@controller_panel_header:Sterownik
+@head_light_button:Głowa
+@@:Światło
+@cab_light_button:Światło kabiny
+@doors_button:Drzwi
+@horn_button:Róg
+@stop_pos_header:Kontrola pozycji zatrzymania
+@express_train_notifiaction:Tu pociąg ekspresowy. Pomiń tę stację.
+@view_pos_header:< - Widok pozycji - >
+@announcement_button:Ogłoszenie
+@inf_msg_1:Wiadomość 1
+@@:(5 sekund)
+@inf_msg_2:Wiadomość 2
+@@:(10 sekund)
+@inf_ready:Gotowe
+@inf_playback:Wiadomość odtwarza...
+@inf_recording:Nagrywanie...
+@inf_record_txt:Zapis
+@inf_done_txt:Gotowe
+@announcement_setup_button:Ustawienia
+@simple_lighting_notice:<b> < kolor = czerwony > Notatka: < / kolor > Jeśli Twoje urządzenie nie obsługuje Dynamic Lighting System (funkcja reflektorów nie działa), możesz włączyć "Simple Lighting System": </b>
+@quit_text:Zakończ
+@back_to_menu_button:Wróć do menu głównego
+@cancel_button:Anuluj
+@simple_lighting_option:Użyj prostego oświetlenia (wymagane ponowne uruchomienie)
+@back_button:tył
+@line_select_text:Wybór linii
+@start_line_button:Idziemy!
+@system_text:System
+@master_switch_button:MASTER SWITCH
+@line_1_name:Linia zachodnia
+@line_2_name:N Linia
+@line_3_name:Linia S
+@line_4_name:Linia centralna
+@line_5_name:Linia A (ekspresowa)
+@line_1_description:Stacje: 10
+@@:Poziom: łatwy
+@line_2_description:Stacje: 9
+@@:Poziom: łatwy
+@line_3_description:Stacje: 7
+@@:Poziom: średni
+@line_4_description:Stacje: 10
+@@:Poziom: twardy
+@line_5_description:Stacje: 11 (17)
+@@:Poziom: twardy
+//////////////////
+@inf_next_signal:Następny sygnał
+@inf_pressure:Ciśnienie powietrza hamowania
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Hamulec automatyczny jest aktywny
+@msg_unloading:Rozładowywanie...
+@msg_correct_stop:Prawidłowy przystanek na stacji. Bonus + 100
+@msg_nxt_station:Teraz możesz iść na następną stację.
+@msg_start_1:Przygotowuję się na początek... Proszę poczekać.
+@msg_start_2:Przygotowuję silnik i kompresor. Proszę poczekać.
+@msg_start_3:Pociąg jest gotowy. Powodzenia!
+@controller_lock:Zablokowany
+@fines_total:Grzywny, ogółem:
+@passengers_transported:Pasażerowie przewożeni:
+@score:Ostateczny wynik:
+@signal_red_txt:Czerwony
+@signal_green_txt:Zielony
+@signal_connection:Połączenie...
+@signal_warning:Czerwony sygnał jest przed nami.
+@signal_fine:Ignorowanie czerwonego sygnału, fine -50
+@ads_disabled_txt:<b> Ogłoszenia są wyłączone </b>
+@ads_disable_txt:<b> Wyłącz reklamy + tryb offline </b>
+@@:<i> < rozmiar = 10 > Wyłącza wszystkie reklamy stron trzecich i umożliwia odtwarzanie offline </size> </i>
+@load_text_1:Sprawdzanie systemów...
+@load_text_2:Sprawdzam kompresor...
+@load_text_3:Sprawdzam sygnały i silnik...
+@load_text_4:Prawie skończyłem...
+@spd_warning_50:Ostrzeżenie: Granica prędkości jest przed nami (50 kph)
+@spd_warning_35:Ostrzeżenie: Granica prędkości jest przed nami (35 kph)
+@spd_overspeed:Overspeed. Proszę utrzymać prędkość pociągu pod kontrolą
+@spd_ok:Teraz prędkość pociągu jest OK...
+@spd_fine:Overspeed. Zwolnij! Grzywna 1 punkt / s
+@compressor_busy:Stan: zajęty
+@compressor_standby:Stan: stan gotowości
+@graphics_qual_txt:Jakość grafiki
+@qual_low_txt:Niski
+@qual_medium_txt:Średni
+@qual_norm_txt:Normalny
+@qual_high_txt:Wysoki
+@qual_refl_checkbox:Reflekcje
+@qual_light_checkbox:Użyj uproszczonego systemu oświetlenia (wymagane ponowne uruchomienie)
+@change_lang_btn:Zmień język gry
+@close_btn:Zamknij
+@about_text:Programowanie: Sviatoslav Bilov (bilov @ alinit.org)
+@@:Modele 3D: Anton Romanchuk
+@@:Czy...
+@@:Wydawca: Alpha Intl. Grupa IT
+@@:Konserwacja projektu: Alinit Project (alinit.org), support @ alinit.org
+@offline_notice:<b> Ta gra wymaga dostępu do Internetu </b>
+@@:
+@@:Dostęp do Internetu i reklamy 3rd- party pozwalają uzyskać pewne finansowanie do poprawy tej gry. Jednak można kupić funkcję "Wyłącz reklamy", aby wyłączyć wszystkie reklamy 3rd- party i aktywować tryb offline. Mam nadzieję, że zrozumiesz.
+@selected_train_txt:Wybrany pociąg
+@next_signal_txt:Następny sygnał
+@air_compr_txt:Sprężarka powietrza
+@air_pressure_txt:Ciśnienie:
+@system_battery_txt:Bateria
+@system_atc_txt:ATC
+@controller_positions_txt:pozycje
+@nxt_station_txt:Następna stacja:
+@nxt_ad_text:Następna reklama:
+@prep_ad_text:Przygotowywanie reklamy...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Ulica kwiatów
+@line_1_2:Musikalnaya Przewodniczący
+@line_1_3:Forest Park
+@line_1_4:Industrial Street
+@line_1_5:Morskaya Przewodniczący
+@line_1_6:Abrikosovaya Przewodniczący
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Punkt kontroli
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya Przewodniczący
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Cherry- tree Park
+@line_2_8:Elektrownia
+@line_2_9:Punkt kontroli
+@line_3_0:Stare miasto
+@line_3_1:Pine Park
+@line_3_2:7. kwarc
+@line_3_3:Ogród truskawkowy
+@line_3_4:Ozernaja
+@line_3_5:Przedmieście
+@line_3_6:Lotnisko
+@line_3_7:Punkt kontroli
+@line_4_0:38th Street
+@line_4_1:Business Center
+@line_4_2:Plac miejski
+@line_4_3:Ratusz
+@line_4_4:Faille Avenue
+@line_4_5:Centrum
+@line_4_6:91. ulica
+@line_4_7:Centrum Handlowe
+@line_4_8:Stadion
+@line_4_9:Central Park
+@line_4_10:Punkt kontroli
+@line_5_0:Dyskrikt podmiejski
+@line_5_1:Ulica leśna
+@line_5_2:Birch Park
+@line_5_3:Stadion (bez zatrzymywania się)
+@line_5_4:91. ulica
+@line_5_5:West Highway (bez zatrzymywania)
+@line_5_6:87th Street
+@line_5_7:Instytut Energii
+@line_5_8:Muzeum Historii (bez zatrzymywania)
+@line_5_9:Biblioteka Centralna
+@line_5_10:Museum Street (bez zatrzymywania się)
+@line_5_11:Park Street
+@line_5_12:Organ ds. transportu
+@line_5_13:Lime Street (bez zatrzymywania się)
+@line_5_14:51. Ulica
+@line_5_15:49th Street (bez zatrzymywania się)
+@line_5_16:West Street
+@line_5_17:Punkt kontroli

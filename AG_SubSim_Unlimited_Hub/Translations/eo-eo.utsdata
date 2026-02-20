@@ -1,0 +1,186 @@
+$lang:[AUTO] Esperanto
+$version:2
+//UI Strings
+@new_game_button:Nova ludo
+@settings_button:Settings
+@about_button:Ĉirkaŭ
+@quit_button:Ĉu vi havas
+@choose_line_button:Okto elektas linion
+@max_speed_text:Max. rapido
+@cars_total_text:Aŭtoj (totala)
+@controller_text:Kontrolo de kontrolo
+@cab_preview_button:Cab
+@interior_preview_button:Interna interno
+@score_text:Poentaro
+@passengers_text:Pasaĝeroj
+@speed_limit_text:Rapida Limo
+@current_speed_text:Rapida Rapideco
+@cab_camera_button:Cab fotilo
+@interior_camera_button:Interna interno
+@station_camera_button:Stacio
+@controller_panel_header:Kontrolo de kontrolo
+@head_light_button:Kapo
+@@:Lumo de lumo
+@cab_light_button:Cab Light
+@doors_button:Pordoj
+@horn_button:Horn Horn
+@stop_pos_header:Halta pozicio
+@express_train_notifiaction:Tio estas eksplicita trajno. Rompu tiun stacion.
+@view_pos_header:<-vido pozicio ->
+@announcement_button:Anunciament
+@inf_msg_1:Mesaĝo 1
+@@:(5 Sec)
+@inf_msg_2:2 Mesaĝo 2
+@@:(10 sec)
+@inf_ready:Preta
+@inf_playback:La mesaĝo ludas malantaŭen...
+@inf_recording:Registrado...
+@inf_record_txt:Rekordo
+@inf_done_txt:Done
+@announcement_setup_button:Agordu
+@simple_lighting_notice:<b><color=red> Notu:</color> Se via aparato ne apogas Dynamic Lighting System (Headlight trajto ne funkcias), vi povas turni sur "Simple Lighting System":
+@quit_text:Ĉu vi havas
+@back_to_menu_button:Reiri al Ĉefaj menuoj
+@cancel_button:Cancel
+@simple_lighting_option:Uzu simplan lumon (relaunch postulis)
+@back_button:malantaŭa dorso
+@line_select_text:Linio selektas
+@start_line_button:Ni iru!
+@system_text:Sistemo
+@master_switch_button:MASTER SWITCH
+@line_1_name:Okcidenta Linio
+@line_2_name:N Linio
+@line_3_name:S Linio
+@line_4_name:Centra Linio
+@line_5_name:Linio (Ekspreso)
+@line_1_description:Stacioj: 10
+@@:Nivelo: Facila
+@line_2_description:Stacioj: 9
+@@:Nivelo: Facila
+@line_3_description:Stacioj: 7
+@@:Nivelo: komunikilo
+@line_4_description:Stacioj: 10
+@@:Nivelo: malmola
+@line_5_description:Stacioj: 11 (17)
+@@:Nivelo: malmola
+//////////////////
+@inf_next_signal:Ĉefa Signalo
+@inf_pressure:Brakes Air Pressure
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Aŭtomata bremso estas aktiva
+@msg_unloading:Senŝarĝi...
+@msg_correct_stop:Kortujo ĉesas sur la stacidomo. Bonus +100
+@msg_nxt_station:Nun vi povas iri al la sekva stacidomo
+@msg_start_1:Prepari por la komenco... Bonvolu atendi
+@msg_start_2:Preparado motoro kaj kompresoro. Bonvolu atendi
+@msg_start_3:La trajno pretas iri. Bonan sorton!
+@controller_lock:blokis
+@fines_total:Fine, totalo:
+@passengers_transported:Pasaĝeroj transportis:
+@score:Final Score:
+@signal_red_txt:Ruĝa Ruĝa Ruĝa
+@signal_green_txt:Verda
+@signal_connection:Ligo...
+@signal_warning:Ruĝa signalo estas antaŭ
+@signal_fine:Ignorante ruĝan signalon, monpunon -50
+@ads_disabled_txt:<b> Ads estas handikapita</b>
+@ads_disable_txt:<b>Disable anoncoj + offline reĝimo</b>
+@@:<i> Disables ĉiuj triaj partioanoncoj kaj faras ebla ludi offline</size></i>
+@load_text_1:Kontrolu sistemojn...
+@load_text_2:Kontrolu kompresoron...
+@load_text_3:Kontrolu signalojn kaj motoron...
+@load_text_4:Preskaŭ farita...
+@spd_warning_50:Averto: Rapida limo estas antaŭ (50 kph)
+@spd_warning_35:Averto: Rapida limo estas antaŭ (35 kph)
+@spd_overspeed:trorapide. Bonvolu teni la trajno rapido sub kontrolo
+@spd_ok:Nun la trajno rapido estas bona...
+@spd_fine:trorapide. Malrapide! 1 punkto/sec
+@compressor_busy:Ŝtato: okupata
+@compressor_standby:Ŝtato: standby
+@graphics_qual_txt:Grafika kvalito
+@qual_low_txt:malalta
+@qual_medium_txt:Medium
+@qual_norm_txt:Normalo
+@qual_high_txt:Alta
+@qual_refl_checkbox:Reflektadoj
+@qual_light_checkbox:Uzu simpligitan lumsistemon (relaunch postulis)
+@change_lang_btn:Ŝanĝoj de ludo
+@close_btn:Fermu proksime
+@about_text:Programado: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D Modeloj: Anton Romanchuk
+@@:- - - - -
+@@:Publisher: Alpha Intl. IT Group
+@@:Projektoprizorgado: Alinit Project (linit.org), subteno@alinit.org
+@offline_notice:Tiu ludo postulas retaliron</b>
+@@:
+@@:Interreta aliro kaj triaj anoncoj permesas ricevi iun financadon por plibonigi tiun ludon. Tamen, vi povas aĉeti la "Disable anoncojn" trajton por disigeblaj ĉiuj triaj anoncoj kaj aktivigi eksterlinian reĝimon. Mi esperas al via kompreno.
+@selected_train_txt:Elektita trajno
+@next_signal_txt:Ĉefa Signalo
+@air_compr_txt:Air Compressor
+@air_pressure_txt:Premo:
+@system_battery_txt:Baterioj
+@system_atc_txt:ATC
+@controller_positions_txt:pozicioj
+@nxt_station_txt:Ĉefa artikolo:
+@nxt_ad_text:Sekva Ad:
+@prep_ad_text:Prepari reklamon...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Floroj
+@line_1_2:Musikalnaya
+@line_1_3:Parko Forest Park
+@line_1_4:Industria Strato
+@line_1_5:Morskaja
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:Okcidenta Strato
+@line_1_10:Kontrolopunkto
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:Rivera Strato
+@line_2_5:Suboremontniy Zavod
+@line_2_6:Orienta Strato
+@line_2_7:Ĉerizo-arbo Parko
+@line_2_8:Power Plant
+@line_2_9:Kontrolopunkto
+@line_3_0:Malnova urbo
+@line_3_1:Pine Park
+@line_3_2:7-a Kvartalo
+@line_3_3:La ĝardeno de Strawberry
+@line_3_4:Ozernaya
+@line_3_5:Suburb
+@line_3_6:Flughaveno Airport
+@line_3_7:Kontrolopunkto
+@line_4_0:38-a Strato
+@line_4_1:Komerca Centro
+@line_4_2:Urboplaco
+@line_4_3:Urbodomo
+@line_4_4:Faille Avenue
+@line_4_5:Urbocentre
+@line_4_6:91-a Strato
+@line_4_7:Komerccentro
+@line_4_8:Stadiono Stadium
+@line_4_9:Centra Parko Centra Parko
+@line_4_10:Kontrolopunkto
+@line_5_0:Antaŭurba diskriko
+@line_5_1:Arbaro strato
+@line_5_2:Birch Park
+@line_5_3:Stadiono (sen halto)
+@line_5_4:91-a Strato
+@line_5_5:Okcidenta Aŭtovojo (sen halto)
+@line_5_6:87-a Strato
+@line_5_7:Instituto de Energio
+@line_5_8:Muzeo de Historio (sen halto)
+@line_5_9:Centra biblioteko
+@line_5_10:Muzeo Strato (sen halto)
+@line_5_11:Parka Strato
+@line_5_12:Transportinstanco
+@line_5_13:Lime Street (sen halto)
+@line_5_14:51-a Strato
+@line_5_15:49-a Strato (sen halto)
+@line_5_16:Okcidenta Strato
+@line_5_17:Kontrolopunkto

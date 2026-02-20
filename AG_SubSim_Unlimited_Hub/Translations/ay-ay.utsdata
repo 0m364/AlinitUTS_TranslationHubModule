@@ -1,0 +1,186 @@
+$lang:[AUTO] Aymara
+$version:2
+//UI Strings
+@new_game_button:Machaq anatt’awi
+@settings_button:Ukax mä juk’a pachanakanwa
+@about_button:Ukxata
+@quit_button:Jaytaña
+@choose_line_button:ok | chimpu ajlliñani
+@max_speed_text:Max. jank'aki
+@cars_total_text:Autonaka (taqpacha) .
+@controller_text:Controlador ukaxa
+@cab_preview_button:Cab
+@interior_preview_button:Uka manqhanxa
+@score_text:Puntaji
+@passengers_text:Pasajeros ukanaka
+@speed_limit_text:Límite de Velocidad ukax mä juk’a pachanakanwa
+@current_speed_text:Jank'aki
+@cab_camera_button:Cabería ukax mä cámara ukankiwa
+@interior_camera_button:Uka manqhanxa
+@station_camera_button:Puriñawja
+@controller_panel_header:Controlador ukaxa
+@head_light_button:P'iqi
+@@:Qhana
+@cab_light_button:Cab Light ukax mä qhanawa
+@doors_button:Punkunaka
+@horn_button:Wusina
+@stop_pos_header:Control de posición ukaxa sayt’ayatawa
+@express_train_notifiaction:Akax tren expreso satawa. Aka estación ukarux salt’apxam.
+@view_pos_header:<- Uñakipaña posición ->
+@announcement_button:Yatiyawi
+@inf_msg_1:Yatiyawi 1.1
+@@:(5 seg) ukat jukʼampinaka.
+@inf_msg_2:Yatiyawi 2.1
+@@:(10 seg) ukat jukʼampinaka.
+@inf_ready:Waliki
+@inf_playback:Yatiyawix anatañjamawa...
+@inf_recording:Grabacionajj...
+@inf_record_txt:Qillqanta
+@inf_done_txt:Lurata
+@announcement_setup_button:Mayjt'ayaña
+@simple_lighting_notice:<b><color=red>Qhanacht’awi: </color>Dispositivo ukax jan Sistema de Iluminación Dinámica ukar yanapt’kchi ukhaxa (faro ukan lurawipax janiw irnaqkiti), "Sistema de Iluminación Simple" ukar jist'arañamawa: </b>
+@quit_text:Jaytaña
+@back_to_menu_button:Jilïr menú ukar kutt’añamawa
+@cancel_button:Kansilaña
+@simple_lighting_option:Sapuru qhana apnaqaña (relanzamiento ukaxa wakisiwa) .
+@back_button:qhipa
+@line_select_text:Línea ajlliñatakiwa
+@start_line_button:¡Sarxañäni!
+@system_text:Sistima
+@master_switch_button:MASTER SWITCH ukax mä juk’a pachanakanwa
+@line_1_name:Línea Occidental ukax mä juk’a pachanakanwa
+@line_2_name:N Línea
+@line_3_name:S Línea ukaxa
+@line_4_name:Línea Central ukaxa
+@line_5_name:Mä Línea (Expreso) 1.1.
+@line_1_description:Estaciones ukanaka: 10
+@@:Nivel: jasakiwa
+@line_2_description:Estaciones ukanaka: 9.1
+@@:Nivel: jasakiwa
+@line_3_description:Estaciones ukanaka: 7
+@@:Nivel: chika taypinkiwa
+@line_4_description:Estaciones ukanaka: 10
+@@:Nivel: ch’ama
+@line_5_description:Estaciones: 11 (17) ukat juk’ampinaka.
+@@:Nivel: ch’ama
+//////////////////
+@inf_next_signal:Jutïr Señal
+@inf_pressure:Frenos ukaxa Presión de Aire satawa
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Freno automático ukaxa activo ukhamawa
+@msg_unloading:Ukax mä...
+@msg_correct_stop:Estación ukan chiqapa sayt’ayaña. Bono ukax +100 ukhawa
+@msg_nxt_station:Jichhax jutir estacionaruw sarasma
+@msg_start_1:Qalltañataki wakicht’asiña... Suyt’apxañani
+@msg_start_2:Motor ukat compresor ukanaka wakicht’aña. Ukhamajj suytʼapjjam
+@msg_start_3:Tren ukax sarañatakix wakicht’atawa. Wali surti!
+@controller_lock:Jark’ata
+@fines_total:Multanaka, taqpacha:
+@passengers_transported:Pasajeros ukanakax akhamawa:
+@score:Qhipa Puntuacion: 1.1.
+@signal_red_txt:Wila
+@signal_green_txt:Ch'uxña
+@signal_connection:Ukax mä...
+@signal_warning:Wila señalax nayrar sartaskiwa
+@signal_fine:Wila señal jan yäqasa, suma -50
+@ads_disabled_txt:<b>Anuncios ukanakax jan ch’amanchatawa</b>
+@ads_disable_txt:<b>Anuncios + jan uñt’at modalidad</b> ukar jan ch’amanchaña
+@@:<i><size=10>Taqi 3r jaqinakan yatiyawinakap jan ch’amanchaña ukat jan internetan anatt’añax</size></i>
+@load_text_1:Sistemas ukanaka uñakipaña...
+@load_text_2:Compresor uñakipaña...
+@load_text_3:Señales ukat motor ukanaka uñakipaña...
+@load_text_4:Niya tukuyatäxiwa...
+@spd_warning_50:Uñt’ayawi: Límite de velocidad ukax nayrar sartatawa (50 kph)
+@spd_warning_35:Uñt’ayawi: Límite de velocidad ukax nayrar sartatawa (35 kph)
+@spd_overspeed:Sinti jank’akïña. Ukhamarusa, trenan velocidadapajj janiw kuns lurañjamäkiti
+@spd_ok:Jichhax trenan velocidadapax walikïskiwa...
+@spd_fine:Sinti jank’akïña. ¡K’achat k’achat k’achat k’achat! Multa 1 punto/seg
+@compressor_busy:Estado: ch’am tukuña
+@compressor_standby:Estado: suyt’aña
+@graphics_qual_txt:Gráficos ukax Calidad ukawa
+@qual_low_txt:Jask'a
+@qual_medium_txt:Chika
+@qual_norm_txt:Nurmalaki
+@qual_high_txt:Jach'a
+@qual_refl_checkbox:Amuyt’awinaka
+@qual_light_checkbox:Sistema de iluminación simplificado uka apnaqaña (relanzamiento ukax wakisiwa) .
+@change_lang_btn:Anatañ aru mayjt’ayaña
+@close_btn:Jist'antaña
+@about_text:Programación ukax akanakawa: Sviatoslav Bilov (bilov@alinit.org)
+@@:Modelos 3D ukax akanakawa: Anton Romanchuk
+@@:None
+@@:Yatiyiri: Alpha Intl. IT Grupo ukax mä jach’a uñacht’äwiwa
+@@:Proyecto mantenimiento: Proyecto Alinit (alinit.org), support@alinit.org ukat juk’ampinaka
+@offline_notice:<b>Aka anatt’awix Internet ukar mantañapawa</b>
+@@:
+@@:Internet ukar mantañax ukat 3r jaqinakan anuncios ukanakax mä juk’a qullqinak aka anatäw juk’amp askinak jikxatañatakiw jaytawayi. Ukampirus "Anuncios desactivar" ukax alasispawa, taqi 3r anuncios ukanakar jan ch'amanchañataki ukhamarak modo offline ukar activar. Amuyt’apxañamataki suyt’apxam.
+@selected_train_txt:Ajllit trena
+@next_signal_txt:Jutïr Señal
+@air_compr_txt:Compresor de Aire ukaxa mä juk’a pachanakwa lurasi
+@air_pressure_txt:Jariya:
+@system_battery_txt:Watiriya
+@system_atc_txt:ATC ukax mä juk’a pachanakanwa
+@controller_positions_txt:cargos ukanaka
+@nxt_station_txt:Jutïr estacionax akhamawa:
+@nxt_ad_text:Jutïr Anuncio:
+@prep_ad_text:Anuncio wakicht’aña...
+//////////////////
+//Stations
+@line_1_0:Norte tuqinkir thakhi
+@line_1_1:Panqaranakan Calle
+@line_1_2:Musikalnaya ukaxa
+@line_1_3:Quqa Parque ukaxa
+@line_1_4:Calle Industrial ukaxa wali ch’amawa
+@line_1_5:Morskaya markanxa
+@line_1_6:Abrikosovaya ukax mä juk’a pachanakanwa
+@line_1_7:Inti jalsu tuqinkir Calle
+@line_1_8:Apelsinovaya ukaxa wali ch’amawa
+@line_1_9:West Street ukax mä jach’a thakhiwa
+@line_1_10:Punto de control ukaxa
+@line_2_0:Zavodskaya ukax mä juk’a pachanakanwa
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod ukax mä juk’a pachanakanwa
+@line_2_3:Qala Calle ukaxa
+@line_2_4:Jawira Calle ukaxa
+@line_2_5:Sudoremontniy Zavod ukat juk’ampinaka
+@line_2_6:Inti jalsu tuqinkir calle
+@line_2_7:Cereza-quqa Parque ukaxa
+@line_2_8:Central Eléctrica ukaxa mä juk’a pachanakwa lurasi
+@line_2_9:Punto de control ukaxa
+@line_3_0:Nayra Marka
+@line_3_1:Pino Parque ukaxa
+@line_3_2:7ri cuarto ukanwa
+@line_3_3:Fresa Jardin ukax wali sumawa
+@line_3_4:Ozernaya markanxa
+@line_3_5:Suburbio markanxa
+@line_3_6:Awyun puriña
+@line_3_7:Punto de control ukaxa
+@line_4_0:38 Calle ukanwa
+@line_4_1:Centro de Negocios ukax mä jach’a utaw
+@line_4_2:Marka Plaza ukaxa
+@line_4_3:Ayuntamiento ukana
+@line_4_4:Faille avenida ukax mä jach’a thakhiwa
+@line_4_5:Marka taypinkiwa
+@line_4_6:91 Calle ukanwa jikxatasi
+@line_4_7:Centro Comercial ukaxa
+@line_4_8:Estadio ukanxa
+@line_4_9:Parque Central ukax mä jach’a uñacht’äwiwa
+@line_4_10:Punto de control ukaxa
+@line_5_0:Discrito suburbio ukaxa
+@line_5_1:Quqa thakhi
+@line_5_2:Birch Park ukax mä jach’a uñacht’äwiwa
+@line_5_3:Estadio (jan sayt’asa) .
+@line_5_4:91 Calle ukanwa jikxatasi
+@line_5_5:West Highway (jan sayt’asis) .
+@line_5_6:87 Calle ukanwa jikxatasi
+@line_5_7:Instituto de Energía uka tuqita
+@line_5_8:Museo de Historia (jan sayt’asa) .
+@line_5_9:Biblioteca Central ukata
+@line_5_10:Museo Calle (jan sayt’asa) .
+@line_5_11:Park Street ukax mä juk’a pachanakanwa
+@line_5_12:Autoridad de Transporte ukaxa
+@line_5_13:Lime Street (jan sayt’asa) .
+@line_5_14:51ri Calle ukanwa
+@line_5_15:49 Calle (jan sayt’asa) .
+@line_5_16:West Street ukax mä jach’a thakhiwa
+@line_5_17:Punto de control ukaxa

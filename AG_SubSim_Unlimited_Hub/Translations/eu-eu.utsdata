@@ -1,0 +1,186 @@
+$lang:[AUTO] Basque
+$version:2
+//UI Strings
+@new_game_button:Joko berria
+@settings_button:Ezarpenak
+@about_button:Buruz
+@quit_button:Irten
+@choose_line_button:ondo | aukeratu lerroa
+@max_speed_text:Max. abiadura
+@cars_total_text:Autoak (guztira)
+@controller_text:Kontrolatzailea
+@cab_preview_button:Kabina
+@interior_preview_button:Barrualdea
+@score_text:Puntuazioa
+@passengers_text:Bidaiariak
+@speed_limit_text:Abiadura Muga
+@current_speed_text:Abiadura
+@cab_camera_button:Kabinako kamera
+@interior_camera_button:Barrualdea
+@station_camera_button:Geltokia
+@controller_panel_header:Kontrolatzailea
+@head_light_button:Burua
+@@:Argia
+@cab_light_button:Kabinako Argia
+@doors_button:Ateak
+@horn_button:Adarra
+@stop_pos_header:Gelditu posizioaren kontrola
+@express_train_notifiaction:Hau express trena da. Saltatu geltoki hau.
+@view_pos_header:<- Ikusi posizioa ->
+@announcement_button:Iragarkia
+@inf_msg_1:Mezua 1
+@@:(5 segundo)
+@inf_msg_2:2. mezua
+@@:(10 segundo)
+@inf_ready:Prest
+@inf_playback:Mezua erreproduzitzen ari da...
+@inf_recording:Grabatzen...
+@inf_record_txt:Grabatu
+@inf_done_txt:Eginda
+@announcement_setup_button:Konfigurazioa
+@simple_lighting_notice:<b><color=red>Oharra: </color> Zure gailuak argiztapen sistema dinamikoa onartzen ez badu (faroen funtzioak ez du funtzionatzen), "Argiztapen sistema sinplea" aktibatu dezakezu: </b>
+@quit_text:Irten
+@back_to_menu_button:Itzuli menu nagusira
+@cancel_button:Utzi
+@simple_lighting_option:Erabili argiztapen sinplea (berrabiarazi behar da)
+@back_button:atzera
+@line_select_text:Lerroa hautatzea
+@start_line_button:Goazen!
+@system_text:Sistema
+@master_switch_button:INTERRUPTOR MAIUSUA
+@line_1_name:Mendebaldeko lerroa
+@line_2_name:N lerroa
+@line_3_name:S lerroa
+@line_4_name:Erdiko Linea
+@line_5_name:Lerro bat (Express)
+@line_1_description:Geltokiak: 10
+@@:Maila: erraza
+@line_2_description:Geltokiak: 9
+@@:Maila: erraza
+@line_3_description:Geltokiak: 7
+@@:Maila: ertaina
+@line_4_description:Geltokiak: 10
+@@:Maila: gogorra
+@line_5_description:Geltokiak: 11 (17)
+@@:Maila: gogorra
+//////////////////
+@inf_next_signal:Hurrengo Seinalea
+@inf_pressure:Balaztak Aire Presioa
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Balazta automatikoa aktibo dago
+@msg_unloading:Deskargatzen...
+@msg_correct_stop:Geltokian geldialdi zuzena. Bonua +100
+@msg_nxt_station:Orain hurrengo geltokira joan zaitezke
+@msg_start_1:Hasierarako prestatzen... Itxaron mesedez
+@msg_start_2:Motorra eta konpresoreak prestatzea. Mesedez, itxaron
+@msg_start_3:Trena joateko prest dago. Zorte on!
+@controller_lock:Blokeatua
+@fines_total:Isunak, guztira:
+@passengers_transported:Garraiatutako bidaiariak:
+@score:Azken puntuazioa:
+@signal_red_txt:Gorria
+@signal_green_txt:Berdea
+@signal_connection:Konexioa...
+@signal_warning:Seinale gorria aurretik dago
+@signal_fine:Seinale gorriari kasurik egin gabe, isuna -50
+@ads_disabled_txt:<b>Iragarkiak desgaituta daude</b>
+@ads_disable_txt:<b>Desgaitu iragarkiak + lineaz kanpoko modua</b>
+@@:<i><size=10>Hirugarrenen iragarki guztiak desgaitzen ditu eta konexiorik gabe jolastea posible egiten du</size></i>
+@load_text_1:Sistemak egiaztatzen...
+@load_text_2:Konpresorea egiaztatzen...
+@load_text_3:Seinaleak eta motorra egiaztatzen...
+@load_text_4:Ia eginda...
+@spd_warning_50:Abisua: Abiadura muga aurretik dago (50 km/h)
+@spd_warning_35:Abisua: Abiadura muga aurretik dago (35 km/h)
+@spd_overspeed:Gehiegizko abiadura. Mesedez, eduki trenaren abiadura kontrolpean
+@spd_ok:Orain trenaren abiadura ondo dago...
+@spd_fine:Gehiegizko abiadura. Moteldu! Isuna 1 puntu/seg
+@compressor_busy:Estatua: lanpetuta
+@compressor_standby:Egoera: egonean
+@graphics_qual_txt:Kalitate grafikoa
+@qual_low_txt:Baxua
+@qual_medium_txt:Ertaina
+@qual_norm_txt:Normala
+@qual_high_txt:Alta
+@qual_refl_checkbox:Hausnarketak
+@qual_light_checkbox:Erabili argiztapen sistema sinplifikatua (berrabiarazi behar da)
+@change_lang_btn:Aldatu jokoaren hizkuntza
+@close_btn:Itxi
+@about_text:Programazioa: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D ereduak: Anton Romanchuk
+@@:None
+@@:Argitaletxea: Alpha Intl. IT Taldea
+@@:Proiektuaren mantentze-lanak: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Joko honek Interneteko sarbidea behar du</b>
+@@:
+@@:Interneterako sarbideak eta hirugarrenen iragarkiek diru-laguntza batzuk lortzeko aukera ematen dute joko hau hobetzeko. Hala ere, "Desgaitu iragarkiak" eginbidea eros dezakezu hirugarrenen iragarki guztiak desgaitzeko eta lineaz kanpoko modua aktibatzeko. Zure ulermena espero.
+@selected_train_txt:Aukeratutako trena
+@next_signal_txt:Hurrengo Seinalea
+@air_compr_txt:Aire-konpresorea
+@air_pressure_txt:Presioa:
+@system_battery_txt:Bateria
+@system_atc_txt:ATC
+@controller_positions_txt:posizioak
+@nxt_station_txt:Hurrengo geltokia:
+@nxt_ad_text:Hurrengo iragarkia:
+@prep_ad_text:Iragarkia prestatzen...
+//////////////////
+//Stations
+@line_1_0:Iparraldea
+@line_1_1:Loreen kalea
+@line_1_2:Musikalnaya
+@line_1_3:Baso Parkea
+@line_1_4:Industria kalea
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Eguzkiaren kalea
+@line_1_8:Apelsinovaya
+@line_1_9:Mendebaldeko kalea
+@line_1_10:Kontrol-puntua
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Harri kalea
+@line_2_4:Ibai kalea
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:Ekialdeko kalea
+@line_2_7:Gerezien parkea
+@line_2_8:Zentrala elektrikoa
+@line_2_9:Kontrol-puntua
+@line_3_0:Hiri Zaharra
+@line_3_1:Pinu parkea
+@line_3_2:7. laurdena
+@line_3_3:Marrubi Lorategia
+@line_3_4:Ozernaya
+@line_3_5:Auzoa
+@line_3_6:Aireportua
+@line_3_7:Kontrol-puntua
+@line_4_0:38. kalea
+@line_4_1:Negozio Zentroa
+@line_4_2:Udalaren plaza
+@line_4_3:Udala
+@line_4_4:Faille etorbidea
+@line_4_5:Erdigunea
+@line_4_6:91. kalea
+@line_4_7:Merkataritza Zentroa
+@line_4_8:Estadioa
+@line_4_9:Central Park
+@line_4_10:Kontrol-puntua
+@line_5_0:Aldirietako auzoa
+@line_5_1:Baso kalea
+@line_5_2:Urki parkea
+@line_5_3:Estadioa (gelditu gabe)
+@line_5_4:91. kalea
+@line_5_5:Mendebaldeko errepidea (gelditu gabe)
+@line_5_6:87 kalea
+@line_5_7:Energia Institutua
+@line_5_8:Historia Museoa (geldirik gabe)
+@line_5_9:Liburutegi Nagusia
+@line_5_10:Museoaren kalea (gelditu gabe)
+@line_5_11:Parke kalea
+@line_5_12:Garraio Agintaritza
+@line_5_13:Lime Street (gelditu gabe)
+@line_5_14:51. kalea
+@line_5_15:49. kalea (gelditu gabe)
+@line_5_16:Mendebaldeko kalea
+@line_5_17:Kontrol-puntua

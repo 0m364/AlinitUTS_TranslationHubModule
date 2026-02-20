@@ -1,0 +1,186 @@
+$lang:[AUTO] Hausa
+$version:2
+//UI Strings
+@new_game_button:Sabon wasa
+@settings_button:Saituna
+@about_button:Game da
+@quit_button:Dakata
+@choose_line_button:oke | zabi layi
+@max_speed_text:Max. gudun
+@cars_total_text:Motoci (jimla)
+@controller_text:Mai sarrafawa
+@cab_preview_button:Cab
+@interior_preview_button:Cikin gida
+@score_text:Ci
+@passengers_text:Fasinjoji
+@speed_limit_text:Iyakar Gudu
+@current_speed_text:Gudu
+@cab_camera_button:Cab kamara
+@interior_camera_button:Cikin gida
+@station_camera_button:Tasha
+@controller_panel_header:Mai sarrafawa
+@head_light_button:Shugaban
+@@:Haske
+@cab_light_button:Cab Light
+@doors_button:Ƙofofi
+@horn_button:Kaho
+@stop_pos_header:Tsaya sarrafa matsayi
+@express_train_notifiaction:Wannan shi ne jirgin kasa. Tsallake wannan tasha.
+@view_pos_header:<- Duba matsayi ->
+@announcement_button:Sanarwa
+@inf_msg_1:Sako 1
+@@:(5 seconds)
+@inf_msg_2:Sako 2
+@@:(10 seconds)
+@inf_ready:Shirye
+@inf_playback:Saƙo yana kunna baya...
+@inf_recording:Ana yin rikodi...
+@inf_record_txt:Yi rikodin
+@inf_done_txt:Anyi
+@announcement_setup_button:Saita
+@simple_lighting_notice:<b><color=red>Lura: </color>Idan na'urarka bata goyan bayan Tsarin Hasken Haske (Falalar Haske ba ta aiki), zaku iya kunna "Simple Lighting System": </b>
+@quit_text:Dakata
+@back_to_menu_button:Komawa zuwa Babban menu
+@cancel_button:Soke
+@simple_lighting_option:Yi amfani da sauƙi mai sauƙi (ana buƙatar sake farawa)
+@back_button:baya
+@line_select_text:Zaɓi layi
+@start_line_button:Mu tafi!
+@system_text:Tsari
+@master_switch_button:MAJALISAR SAUKI
+@line_1_name:Layin Yamma
+@line_2_name:N Layi
+@line_3_name:S Line
+@line_4_name:Layin Tsakiya
+@line_5_name:Layi (Express)
+@line_1_description:Tashoshi: 10
+@@:Level: sauki
+@line_2_description:Tashoshi: 9
+@@:Level: sauki
+@line_3_description:Tashoshi: 7
+@@:Mataki: matsakaici
+@line_4_description:Tashoshi: 10
+@@:Level: wuya
+@line_5_description:Tashoshi: 11 (17)
+@@:Level: wuya
+//////////////////
+@inf_next_signal:Sigina ta gaba
+@inf_pressure:Matsalolin iska
+@inf_pressure_ind:Psr.
+@msg_autobrake:Birki ta atomatik yana aiki
+@msg_unloading:Ana saukewa...
+@msg_correct_stop:Daidai tasha a tashar. Bonus +100
+@msg_nxt_station:Yanzu zaku iya zuwa tasha ta gaba
+@msg_start_1:Ana shirin farawa... Da fatan za a jira
+@msg_start_2:Ana shirya injin da kwampreso. Don Allah jira
+@msg_start_3:Jirgin kasa yana shirye ya tafi. Sa'a!
+@controller_lock:An katange
+@fines_total:Tarar, duka:
+@passengers_transported:An yi jigilar fasinjoji:
+@score:Makin Karshe:
+@signal_red_txt:Ja
+@signal_green_txt:Kore
+@signal_connection:Haɗin kai...
+@signal_warning:Jan siginar yana gaba
+@signal_fine:Yin watsi da siginar ja, lafiya -50
+@ads_disabled_txt:<b>An kashe talla</b>
+@ads_disable_txt:<b>A kashe talla + yanayin layi</b>
+@@:<i><size=10>Yana kashe duk tallace-tallace na ɓangare na uku kuma yana ba da damar yin wasa ta layi </size></i>
+@load_text_1:Ana duba tsarin...
+@load_text_2:Ana duba compressor...
+@load_text_3:Ana duba sigina da injin...
+@load_text_4:An kusa gamawa...
+@spd_warning_50:Gargaɗi: Iyakar gudun yana gaba (50 kph)
+@spd_warning_35:Gargaɗi: Iyakar gudun yana gaba (35 kph)
+@spd_overspeed:Sauri da yawa. Da fatan za a kiyaye saurin jirgin ƙasa ƙarƙashin iko
+@spd_ok:Yanzu saurin jirgin kasa yayi kyau...
+@spd_fine:Sauri da yawa. Rage gudu! Mafi kyawun maki 1/sec
+@compressor_busy:Jiha: aiki
+@compressor_standby:Jiha: jiran aiki
+@graphics_qual_txt:Ingantattun Zane-zane
+@qual_low_txt:Ƙananan
+@qual_medium_txt:Matsakaici
+@qual_norm_txt:Na al'ada
+@qual_high_txt:Babban
+@qual_refl_checkbox:Tunani
+@qual_light_checkbox:Yi amfani da tsarin haske mai sauƙi (ana buƙatar sake farawa)
+@change_lang_btn:Canja yaren wasa
+@close_btn:Kusa
+@about_text:Shirye-shiryen ta: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D Model na: Anton Romanchuk
+@@:---
+@@:Mawallafi: Alpha Intl. Rukunin IT
+@@:Gudanar da aikin: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Wannan wasan yana buƙatar shiga Intanet</b>
+@@:
+@@:Samun damar Intanet da tallace-tallace na ɓangare na uku suna ba da damar samun wasu kudade don inganta wannan wasan. Koyaya, zaku iya siyan fasalin ''Musaki talla'' don kashe duk tallan ɓangare na uku da kunna yanayin layi. Fatan fahimtar ku.
+@selected_train_txt:Jirgin kasa da aka zaba
+@next_signal_txt:Sigina ta gaba
+@air_compr_txt:Air Compressor
+@air_pressure_txt:Matsin lamba:
+@system_battery_txt:Baturi
+@system_atc_txt:ATC
+@controller_positions_txt:matsayi
+@nxt_station_txt:Tasha ta gaba:
+@nxt_ad_text:Talla ta gaba:
+@prep_ad_text:Ana shirya talla...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Titin Flowers
+@line_1_2:Musikalnaya
+@line_1_3:Gandun daji
+@line_1_4:Titin Masana'antu
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:Titin Yamma
+@line_1_10:Wurin sarrafawa
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Autozavod
+@line_2_3:Titin Dutse
+@line_2_4:Titin Kogi
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:Titin Gabas
+@line_2_7:Cherry-Tree Park
+@line_2_8:Wutar Lantarki
+@line_2_9:Wurin sarrafawa
+@line_3_0:Tsohon Garin
+@line_3_1:Pine Park
+@line_3_2:7 kwata kwata
+@line_3_3:Lambun Strawberry
+@line_3_4:Ozernaya
+@line_3_5:Ƙungiya
+@line_3_6:Filin jirgin sama
+@line_3_7:Wurin sarrafawa
+@line_4_0:Titin 38
+@line_4_1:Cibiyar Kasuwanci
+@line_4_2:Dandalin birni
+@line_4_3:ma'aikatar magajin gari
+@line_4_4:Faille Avenue
+@line_4_5:Cikin gari
+@line_4_6:Titin 91st
+@line_4_7:Cibiyar Ciniki
+@line_4_8:Filin wasa
+@line_4_9:Central Park
+@line_4_10:Wurin sarrafawa
+@line_5_0:Bangaren birni
+@line_5_1:Titin daji
+@line_5_2:Birch Park
+@line_5_3:Filin wasa (ba tare da tsayawa ba)
+@line_5_4:Titin 91st
+@line_5_5:Hanyar Yamma (ba tare da tsayawa ba)
+@line_5_6:Titin 87
+@line_5_7:Cibiyar Makamashi
+@line_5_8:Gidan kayan tarihi na Tarihi (ba tare da tsayawa ba)
+@line_5_9:Babban Laburare
+@line_5_10:Titin Museum (ba tare da tsayawa ba)
+@line_5_11:Park Street
+@line_5_12:Hukumar Sufuri
+@line_5_13:Titin Lime (ba tare da tsayawa ba)
+@line_5_14:Titin 51st
+@line_5_15:Titin 49 (ba tare da tsayawa ba)
+@line_5_16:Titin Yamma
+@line_5_17:Wurin sarrafawa

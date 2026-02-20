@@ -1,0 +1,186 @@
+$lang:[AUTO] Italian
+$version:2
+//UI Strings
+@new_game_button:Nuovo gioco
+@settings_button:Impostazioni impostazioni
+@about_button:Informazioni
+@quit_button:Smettetela.
+@choose_line_button:ok | scegliere la linea
+@max_speed_text:Velocità massima.
+@cars_total_text:Auto (totale)
+@controller_text:Controller
+@cab_preview_button:Cabina
+@interior_preview_button:Interno
+@score_text:Punteggio
+@passengers_text:Passeggeri
+@speed_limit_text:Limite di velocità
+@current_speed_text:Velocità
+@cab_camera_button:Telecamera cabina
+@interior_camera_button:Interno
+@station_camera_button:Stazione
+@controller_panel_header:Controller
+@head_light_button:Capo
+@@:Luce
+@cab_light_button:Cab Light
+@doors_button:Porte
+@horn_button:Corno
+@stop_pos_header:Controllo posizione di arresto
+@express_train_notifiaction:Questo è il treno espresso. Salta questa stazione.
+@view_pos_header:< - Posizione vista ->
+@announcement_button:Annuncio
+@inf_msg_1:Messaggio 1
+@@:(5 sec)
+@inf_msg_2:Messaggio 2
+@@:(10 sec)
+@inf_ready:Pronti
+@inf_playback:Il messaggio sta tornando...
+@inf_recording:Registrazione...
+@inf_record_txt:Registrazione
+@inf_done_txt:Fatto
+@announcement_setup_button:Impostazione
+@simple_lighting_notice:Traduzione: Nota: </color> Se il dispositivo non supporta il sistema di illuminazione dinamica (la funzione di illuminazione non funziona), è possibile attivare "Simple Lighting System": </b>
+@quit_text:Smettetela.
+@back_to_menu_button:Torna al menu principale
+@cancel_button:Annulla
+@simple_lighting_option:Utilizzare l'illuminazione semplice (rilancio richiesto)
+@back_button:Indietro
+@line_select_text:Seleziona la linea
+@start_line_button:Andiamo!
+@system_text:Sistema
+@master_switch_button:MASTER SWITCH
+@line_1_name:Linea occidentale
+@line_2_name:Linea N
+@line_3_name:Linea
+@line_4_name:Linea centrale
+@line_5_name:Una linea (Express)
+@line_1_description:Stazioni: 10
+@@:Livello: facile
+@line_2_description:Stazioni: 9
+@@:Livello: facile
+@line_3_description:Stazioni: 7
+@@:Livello: medio
+@line_4_description:Stazioni: 10
+@@:Livello: duro
+@line_5_description:Stazioni: 11 (17)
+@@:Livello: duro
+//////////////////
+@inf_next_signal:Il prossimo segnale
+@inf_pressure:Freni pressione dell'aria
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Freno automatico attivo
+@msg_unloading:Scarico...
+@msg_correct_stop:Fermata corretta alla stazione. Bonus +100
+@msg_nxt_station:Ora puoi andare alla prossima stazione
+@msg_start_1:Prepararsi per l'inizio... Per favore.
+@msg_start_2:Preparazione motore e compressore. Per favore.
+@msg_start_3:Il treno è pronto ad andare. Buona fortuna!
+@controller_lock:Bloccato
+@fines_total:Fines, totale:
+@passengers_transported:I passeggeri trasportati:
+@score:Final Score:
+@signal_red_txt:Rosso
+@signal_green_txt:Verde
+@signal_connection:Connessione...
+@signal_warning:Il segnale rosso è avanti
+@signal_fine:Ignorando il segnale rosso, fine -50
+@ads_disabled_txt:<b> Gli annunci sono disabilitati
+@ads_disable_txt:<b> Annunci disabilitati + modalità offline
+@@:<i> <size=10>Disabilita tutti gli annunci di terze parti e permette di giocare offline
+@load_text_1:Sistemi di controllo...
+@load_text_2:Compressore di controllo...
+@load_text_3:Controllo segnali e motore...
+@load_text_4:Quasi fatto...
+@spd_warning_50:Attenzione: il limite di velocità è avanti (50 kph)
+@spd_warning_35:Attenzione: il limite di velocità è avanti (35 kph)
+@spd_overspeed:Overspeed. Tenere sotto controllo la velocità del treno
+@spd_ok:Ora la velocità del treno è OK...
+@spd_fine:Overspeed. Rallenta! Fine 1 punto/sec
+@compressor_busy:Stato: occupato
+@compressor_standby:Stato: standby
+@graphics_qual_txt:Qualità grafica
+@qual_low_txt:Basso
+@qual_medium_txt:Media
+@qual_norm_txt:Normale
+@qual_high_txt:Alto
+@qual_refl_checkbox:Riflessioni
+@qual_light_checkbox:Utilizzare sistema di illuminazione semplificato (rilancio richiesto)
+@change_lang_btn:Cambia la lingua di gioco
+@close_btn:Chiudi
+@about_text:Programmazione di: Sviatoslav Bilov (bilov@alinit.org)
+@@:Modelli 3D di: Anton Romanchuk
+@@:------
+@@:Editore: Alpha Intl. IT Group
+@@:Manutenzione del progetto: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b> Questo gioco richiede l'accesso a Internet
+@@:
+@@:Accesso a Internet e annunci di terze parti permettono di ottenere alcuni finanziamenti per migliorare questo gioco. Tuttavia, è possibile acquistare la funzione "Disable ads" per disabilitare tutti gli annunci di terze parti e attivare la modalità offline. Spero per la tua comprensione.
+@selected_train_txt:Treno selezionato
+@next_signal_txt:Il prossimo segnale
+@air_compr_txt:Compressore ad aria
+@air_pressure_txt:Pressione:
+@system_battery_txt:Batteria
+@system_atc_txt:ATC
+@controller_positions_txt:posizioni
+@nxt_station_txt:Prossima stazione:
+@nxt_ad_text:Il prossimo annuncio:
+@prep_ad_text:Preparare pubblicità...
+//////////////////
+//Stations
+@line_1_0:Northway
+@line_1_1:Fiori Street
+@line_1_2:Musikalnaya
+@line_1_3:Parco forestale
+@line_1_4:Strada industriale
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Punto di controllo
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Parco delle ciliegie
+@line_2_8:Centrale elettrica
+@line_2_9:Punto di controllo
+@line_3_0:Città vecchia
+@line_3_1:Parco acquatico
+@line_3_2:7° quarto
+@line_3_3:Giardino delle fragole
+@line_3_4:Ozernaya
+@line_3_5:Suburbio
+@line_3_6:Aeroporto
+@line_3_7:Punto di controllo
+@line_4_0:38th Street
+@line_4_1:Business Center
+@line_4_2:Piazza della città
+@line_4_3:Municipio
+@line_4_4:Faille Avenue
+@line_4_5:Centro città
+@line_4_6:91st Street
+@line_4_7:Centro commerciale
+@line_4_8:Stadio
+@line_4_9:Parco centrale
+@line_4_10:Punto di controllo
+@line_5_0:Discrizioni suburbane
+@line_5_1:Strada forestale
+@line_5_2:Parco di Birch
+@line_5_3:Stadio (senza sosta)
+@line_5_4:91st Street
+@line_5_5:West Highway (senza fermata)
+@line_5_6:87th Street
+@line_5_7:Istituto di Energia
+@line_5_8:Museo di Storia (senza sosta)
+@line_5_9:Biblioteca centrale
+@line_5_10:Museum Street (senza fermata)
+@line_5_11:Park Street
+@line_5_12:Autorità di trasporto
+@line_5_13:Lime Street (senza sosta)
+@line_5_14:51st Street
+@line_5_15:49th Street (senza sosta)
+@line_5_16:West Street
+@line_5_17:Punto di controllo

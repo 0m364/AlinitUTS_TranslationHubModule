@@ -1,0 +1,186 @@
+$lang:[AUTO] Thai
+$version:2
+//UI Strings
+@new_game_button:เกมใหม่
+@settings_button:ตั้งค่า
+@about_button:เกี่ยวกับ
+@quit_button:ออก
+@choose_line_button:โอเค ○ เลือกบรรทัด
+@max_speed_text:ความเร็วสูงสุด
+@cars_total_text:รถ (โททาล)
+@controller_text:ตัวควบคุม
+@cab_preview_button:แท็กซี่
+@interior_preview_button:ภายใน
+@score_text:คะแนน
+@passengers_text:ผู้โดยสาร
+@speed_limit_text:จํากัดความเร็ว
+@current_speed_text:ความเร็ว
+@cab_camera_button:กล้องในแท็กซี่
+@interior_camera_button:ภายใน
+@station_camera_button:สถานี
+@controller_panel_header:ตัวควบคุม
+@head_light_button:หัว
+@@:แสง
+@cab_light_button:แปรงทาสี
+@doors_button:ประตู
+@horn_button:แตร
+@stop_pos_header:ควบคุมตําแหน่ง
+@express_train_notifiaction:นี่เป็นรถไฟด่วน ข้ามสถานีนี้ไป
+@view_pos_header:<- ตําแหน่งมุมมอง ->
+@announcement_button:การ ประกาศ
+@inf_msg_1:ข้อความ 1
+@@:(5 วินาที)
+@inf_msg_2:จดหมาย 2
+@@:(10 วินาที)
+@inf_ready:พร้อม
+@inf_playback:ข้อความกําลังเล่นกลับ...
+@inf_recording:กําลังบันทึก...
+@inf_record_txt:บันทึก
+@inf_done_txt:เสร็จแล้ว
+@announcement_setup_button:ตั้งค่า
+@simple_lighting_notice:<b> หมายเหตุ: </color> ถ้าอุปกรณ์ของคุณไม่รองรับระบบปรับแสงอัตโนมัติ (คุณสมบัติความร้อนทํางานไม่ได้) คุณสามารถเปิดระบบปรับแสงได้: <b>
+@quit_text:ออก
+@back_to_menu_button:กลับไปใช้เมนูหลัก
+@cancel_button:ยกเลิก
+@simple_lighting_option:ใช้แสงแบบธรรมดา (ต้องการสี)
+@back_button:กลับ
+@line_select_text:เลือกบรรทัด
+@start_line_button:ไปกันเถอะ!
+@system_text:ระบบ
+@master_switch_button:มาสเตอร์สวาเซ
+@line_1_name:เส้นตะวันตก
+@line_2_name:เส้น
+@line_3_name:เส้น S
+@line_4_name:เส้นกลาง
+@line_5_name:เส้นตรง (ถูกกด)
+@line_1_description:สถานี: 10
+@@:ระดับ: ง่าย
+@line_2_description:สถานี: 9
+@@:ระดับ: ง่าย
+@line_3_description:สถานี: 7
+@@:ระดับ:
+@line_4_description:สถานี: 10
+@@:ระดับ: หนัก
+@line_5_description:สถานี: 11 (17)
+@@:ระดับ: หนัก
+//////////////////
+@inf_next_signal:สัญญาณถัดไป
+@inf_pressure:แรง กด ของ อากาศ
+@inf_pressure_ind:ปรา
+@msg_autobrake:เบรคอัตโนมัติเปิดใช้งานอยู่
+@msg_unloading:กําลังดาวน์โหลด...
+@msg_correct_stop:จุดหยุดที่ถูกต้องบนสถานี โบนุส + 100
+@msg_nxt_station:ตอนนี้คุณสามารถไปสถานีต่อไป
+@msg_start_1:เตรียมเตรียมตัวให้พร้อม... โปรดรอสักครู่
+@msg_start_2:เตรียมเครื่องยนต์และคอมเพรสเซอร์ โปรดรอสักครู่
+@msg_start_3:รถไฟพร้อมแล้ว โชคดี!
+@controller_lock:บล็อค
+@fines_total:ยอดเงิน รวม:
+@passengers_transported:ผู้โดยสารที่ส่ง:
+@score:คะแนนสุดท้าย:
+@signal_red_txt:แดง
+@signal_green_txt:เขียว
+@signal_connection:การเชื่อมต่อ...
+@signal_warning:สัญญาณสีแดงอยู่ข้างหน้า
+@signal_fine:ไม่สนใจสัญญาณสีแดง ปรับ -50
+@ads_disabled_txt:<b> Ads ถูกปิด </b>
+@ads_disable_txt:<b> โฆษณาที่แยกได้ + โหมดออฟไลน์ <b>
+@@:<i> <size=10> โฆษณาที่ 3 ทั้งหมด ทําให้สามารถเล่นออฟไลน์ได้
+@load_text_1:กําลังตรวจระบบ...
+@load_text_2:กําลังตรวจสอบตัวบีบอัด...
+@load_text_3:กําลังตรวจสัญญาณและเครื่องยนต์...
+@load_text_4:เกือบเสร็จแล้ว...
+@spd_warning_50:คําเตือน: จํากัดความเร็วนําหน้า (50 kf)
+@spd_warning_35:คําเตือน: จํากัดความเร็วอยู่ข้างหน้า (35 kf)
+@spd_overspeed:โอเวอร์สปีด กรุณาควบคุมความเร็วรถไฟ
+@spd_ok:ตอนนี้ความเร็วรถไฟไม่เป็นไร
+@spd_fine:โอเวอร์สปีด ช้าลงหน่อย! ปรับ 1 จุด/วินาที
+@compressor_busy:สถานะ:
+@compressor_standby:สถานะ: สแตนด์บาย
+@graphics_qual_txt:คุณภาพของภาพ
+@qual_low_txt:ต่ํา
+@qual_medium_txt:สื่อ
+@qual_norm_txt:ปกติ
+@qual_high_txt:สูง
+@qual_refl_checkbox:สะท้อน
+@qual_light_checkbox:ใช้ระบบปรับแสงแบบง่าย ๆ (ต้องลดขนาด)
+@change_lang_btn:เปลี่ยนภาษาเกม
+@close_btn:ปิด
+@about_text:โปรแกรมโดย: Siviatoslav Blov (Billiv@alinit.org)
+@@:3 มิติ รุ่น: แอนทอน โรมาชุก
+@@:------
+@@:ผู้เผยแพร่: Alpha Intl.IT Group
+@@:การบํารุงรักษาโครงการ: Alinit Project (alinit.org) รองรับ@alinit.org
+@offline_notice:<b> เกมนี้ต้องการเข้าถึงอินเทอร์เน็ต
+@@:
+@@:เข้าถึงอินเตอร์เน็ต และโฆษณาที่ 3 อนุญาตให้ได้รับทุนเพื่อปรับปรุงเกมนี้ อย่างไรก็ตาม คุณสามารถซื้อคุณสมบัติ "โฆษณาที่อ่านได้" เพื่อปิดโฆษณาที่ 3 และเปิดใช้งานโหมดออฟไลน์ หวังในความเข้าใจของคุณ
+@selected_train_txt:รถไฟที่เลือกไว้
+@next_signal_txt:สัญญาณถัดไป
+@air_compr_txt:เครื่อง อัด ลม
+@air_pressure_txt:ความดัน:
+@system_battery_txt:แบตเตอรี่
+@system_atc_txt:ATC
+@controller_positions_txt:ตําแหน่ง
+@nxt_station_txt:สถานีต่อไป:
+@nxt_ad_text:ถัดไป:
+@prep_ad_text:กําลังเตรียมโฆษณา...
+//////////////////
+//Stations
+@line_1_0:ทิศเหนือ
+@line_1_1:ถนนดอกไม้
+@line_1_2:ภาษามุไซกาลีName
+@line_1_3:อุทยาน ป่า
+@line_1_4:ถนนอุตสาหกรรม
+@line_1_5:มาสกายา
+@line_1_6:อะบริ โค โซ วา
+@line_1_7:ถนนซันไชน์
+@line_1_8:อัล ปา ซิ โน วา ยา
+@line_1_9:เวสต์สตรีท
+@line_1_10:จุดควบคุม
+@line_2_0:ซาโวด์สกายา
+@line_2_1:ไล เท น ยา
+@line_2_2:อะฟ โต ซา โวด
+@line_2_3:ถนนสโตน
+@line_2_4:ถนนริเวอร์
+@line_2_5:ซูโดร์มอนท์นี ซาโวด
+@line_2_6:อีสต์สตรีท
+@line_2_7:สวนเชอร์รี่
+@line_2_8:โรงไฟฟ้า
+@line_2_9:จุดควบคุม
+@line_3_0:เมืองเก่า
+@line_3_1:วนอุทยานไพน์
+@line_3_2:ควอร์ตที่ 7
+@line_3_3:สวน สตรอเบอรี่
+@line_3_4:อัส เซ นา
+@line_3_5:ย่อย
+@line_3_6:สนามบิน
+@line_3_7:จุดควบคุม
+@line_4_0:ถนน 38
+@line_4_1:ศูนย์ธุรกิจ
+@line_4_2:จัตุรัสนคร
+@line_4_3:ศาลากลาง
+@line_4_4:ถนนเฟลล์
+@line_4_5:ใจกลางเมือง
+@line_4_6:ถนน 91
+@line_4_7:ศูนย์การค้า
+@line_4_8:สนามกีฬา
+@line_4_9:เซ็นทรัลพาร์ค
+@line_4_10:จุดควบคุม
+@line_5_0:ตัวแบ่งประเภทย่อย
+@line_5_1:ถนนป่า
+@line_5_2:สวน บิส
+@line_5_3:สนามกีฬา (ไม่หยุด)
+@line_5_4:ถนน 91
+@line_5_5:ทางหลวงตะวันตก (ไม่หยุด)
+@line_5_6:ถนน 87
+@line_5_7:สถาบัน พลังงาน
+@line_5_8:พิพิธภัณฑ์ประวัติศาสตร์ (โดยไม่หยุด)
+@line_5_9:ไลบรารีกลาง
+@line_5_10:ถนนพิพิธภัจน์ (ไม่หยุด)
+@line_5_11:ถนนพาร์ก
+@line_5_12:อํานาจการรับส่งข้อมูล
+@line_5_13:ถนนมะนาว (ไม่หยุด)
+@line_5_14:ถนน 51
+@line_5_15:ถนน 49 (หยุดไม่ได้)
+@line_5_16:เวสต์สตรีท
+@line_5_17:จุดควบคุม

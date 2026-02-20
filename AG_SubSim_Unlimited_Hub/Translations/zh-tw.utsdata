@@ -1,0 +1,186 @@
+$lang:[AUTO] Chinese (traditional)
+$version:2
+//UI Strings
+@new_game_button:新遊戲
+@settings_button:設定
+@about_button:關於
+@quit_button:辭職
+@choose_line_button:好的 |選擇線路
+@max_speed_text:最大限度。速度
+@cars_total_text:汽車（總計）
+@controller_text:控制器
+@cab_preview_button:計程車
+@interior_preview_button:內部的
+@score_text:分數
+@passengers_text:乘客
+@speed_limit_text:速度極限
+@current_speed_text:速度
+@cab_camera_button:駕駛室攝影機
+@interior_camera_button:內部的
+@station_camera_button:車站
+@controller_panel_header:控制器
+@head_light_button:頭
+@@:光
+@cab_light_button:駕駛室燈
+@doors_button:門
+@horn_button:喇叭
+@stop_pos_header:停止位置控制
+@express_train_notifiaction:這是特快列車。跳過這個站。
+@view_pos_header:<- 查看位置->
+@announcement_button:公告
+@inf_msg_1:留言1
+@@:（5 秒）
+@inf_msg_2:留言2
+@@:（10 秒）
+@inf_ready:準備好
+@inf_playback:正在播放訊息...
+@inf_recording:記錄...
+@inf_record_txt:記錄
+@inf_done_txt:完畢
+@announcement_setup_button:設定
+@simple_lighting_notice:<b><color=red>注意：</color>如果您的裝置不支援動態照明系統（頭燈功能不起作用），您可以開啟「簡單照明系統」：</b>
+@quit_text:辭職
+@back_to_menu_button:返回主選單
+@cancel_button:取消
+@simple_lighting_option:使用簡單的照明（需要重新啟動）
+@back_button:後退
+@line_select_text:線路選擇
+@start_line_button:我們走吧！
+@system_text:系統
+@master_switch_button:主開關
+@line_1_name:西線
+@line_2_name:N線
+@line_3_name:S線
+@line_4_name:中環線
+@line_5_name:A線（特快）
+@line_1_description:車站：10
+@@:等級：簡單
+@line_2_description:車站：9
+@@:等級：簡單
+@line_3_description:車站：7
+@@:等級：中
+@line_4_description:車站：10
+@@:等級：硬
+@line_5_description:車站：11 (17)
+@@:等級：硬
+//////////////////
+@inf_next_signal:下一個訊號
+@inf_pressure:煞車氣壓
+@inf_pressure_ind:請注意。
+@msg_autobrake:自動煞車已啟用
+@msg_unloading:正在卸載...
+@msg_correct_stop:正確停靠車站。獎金+100
+@msg_nxt_station:現在你可以去下一站了
+@msg_start_1:正在準備開始...請稍候
+@msg_start_2:准备发动机和压缩机。請稍等
+@msg_start_3:火車已準備好出發。祝你好運！
+@controller_lock:被阻止
+@fines_total:罰款總額：
+@passengers_transported:運送旅客：
+@score:最終得分：
+@signal_red_txt:紅色的
+@signal_green_txt:綠色的
+@signal_connection:聯繫...
+@signal_warning:前方有紅色訊號
+@signal_fine:忽略紅色訊號，罰款-50
+@ads_disabled_txt:<b>廣告停用</b>
+@ads_disable_txt:<b>停用廣告+離線模式</b>
+@@:<i><size=10>停用所有第 3 方廣告並且可以離線玩</size></i>
+@load_text_1:檢查系統...
+@load_text_2:檢查壓縮機...
+@load_text_3:檢查訊號和引擎...
+@load_text_4:快完成了...
+@spd_warning_50:警告：前方限速（50 公里/小時）
+@spd_warning_35:警告：前方限速（35 公里/小時）
+@spd_overspeed:超速。請控制列車速度
+@spd_ok:現在火車速度還可以...
+@spd_fine:超速。減速！細 1 點/秒
+@compressor_busy:狀態： 忙
+@compressor_standby:狀態：待機
+@graphics_qual_txt:圖形品質
+@qual_low_txt:低的
+@qual_medium_txt:中等的
+@qual_norm_txt:普通的
+@qual_high_txt:高的
+@qual_refl_checkbox:反思
+@qual_light_checkbox:使用簡化的照明系統（需要重新啟動）
+@change_lang_btn:更改遊戲語言
+@close_btn:關閉
+@about_text:程式設計：Sviatoslav Bilov (bilov@alinit.org)
+@@:3D 模型：Anton Romanchuk
+@@:------
+@@:發行商: Alpha Intl.資訊科技集團
+@@:專案維護：Alinit 專案 (alinit.org)，support@alinit.org
+@offline_notice:<b>此遊戲需要網路連線</b>
+@@:
+@@:網路存取和第三方廣告可以讓我們獲得一些資金來改善這款遊戲。但是，您可以購買「停用廣告」功能來停用所有第三方廣告並啟動離線模式。希望您的理解。
+@selected_train_txt:選列車
+@next_signal_txt:下一個訊號
+@air_compr_txt:空氣壓縮機
+@air_pressure_txt:壓力：
+@system_battery_txt:電池
+@system_atc_txt:空中交通管制
+@controller_positions_txt:職位
+@nxt_station_txt:下一站：
+@nxt_ad_text:下一個廣告：
+@prep_ad_text:正在準備廣告...
+//////////////////
+//Stations
+@line_1_0:諾斯威
+@line_1_1:花街
+@line_1_2:音樂
+@line_1_3:森林公園
+@line_1_4:工業街
+@line_1_5:莫斯卡婭
+@line_1_6:阿布里科索娃婭
+@line_1_7:陽光街
+@line_1_8:阿佩爾西諾瓦亞
+@line_1_9:西街
+@line_1_10:控制點
+@line_2_0:扎沃德斯卡婭
+@line_2_1:萊特納亞
+@line_2_2:阿夫托扎沃德
+@line_2_3:石街
+@line_2_4:河街
+@line_2_5:蘇多雷蒙尼·扎沃德
+@line_2_6:東街
+@line_2_7:櫻花公園
+@line_2_8:發電廠
+@line_2_9:控制點
+@line_3_0:舊城
+@line_3_1:松樹公園
+@line_3_2:第七個四分節
+@line_3_3:草莓園
+@line_3_4:奧澤納亞
+@line_3_5:市郊
+@line_3_6:飛機場
+@line_3_7:控制點
+@line_4_0:38街
+@line_4_1:商務中心
+@line_4_2:城市廣場
+@line_4_3:市政府
+@line_4_4:法耶大道
+@line_4_5:市中心
+@line_4_6:91街
+@line_4_7:貿易中心
+@line_4_8:體育場
+@line_4_9:中央公園
+@line_4_10:控制點
+@line_5_0:郊區
+@line_5_1:森林街
+@line_5_2:樺木公園
+@line_5_3:體育場（不停歇）
+@line_5_4:91街
+@line_5_5:西高速（不停車）
+@line_5_6:87街
+@line_5_7:能源研究所
+@line_5_8:歷史博物館（不停站）
+@line_5_9:中央圖書館
+@line_5_10:博物館街（不停站）
+@line_5_11:公園街
+@line_5_12:運輸管理局
+@line_5_13:萊姆街（不停歇）
+@line_5_14:51街
+@line_5_15:49th Street (without stopping)
+@line_5_16:West Street
+@line_5_17:Control point

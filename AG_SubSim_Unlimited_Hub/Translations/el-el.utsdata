@@ -1,0 +1,186 @@
+$lang:[AUTO] Greek
+$version:2
+//UI Strings
+@new_game_button:Νέο παιχνίδι
+@settings_button:Settings
+@about_button:Σχετικά
+@quit_button:Έξοδος
+@choose_line_button:Εντάξει
+@max_speed_text:Μέγιστη ταχύτητα
+@cars_total_text:Αυτοκίνητα (σύνολο)
+@controller_text:Ελεγκτής
+@cab_preview_button:Ταξί
+@interior_preview_button:Εσωτερικό
+@score_text:Βαθμολογία
+@passengers_text:Επιβάτες
+@speed_limit_text:Όριο ταχύτητας
+@current_speed_text:Ταχύτητα
+@cab_camera_button:Κάμερα ταξί
+@interior_camera_button:Εσωτερικό
+@station_camera_button:Σταθμός
+@controller_panel_header:Ελεγκτής
+@head_light_button:Υπεύθυνος
+@@:Φως
+@cab_light_button:Φωτεινή καμπίνα
+@doors_button:Πόρτες
+@horn_button:Κέρας
+@stop_pos_header:Έλεγχος θέσης στοπ
+@express_train_notifiaction:Αυτό είναι τρένο εξπρές. Παράκαμψε αυτό το σταθμό.
+@view_pos_header:<- Θέση προβολής ->
+@announcement_button:Ανακοίνωση
+@inf_msg_1:Μήνυμα 1
+@@:(5 δευτ)
+@inf_msg_2:Μήνυμα 2
+@@:(10 δευτ)
+@inf_ready:Έτοιμος
+@inf_playback:Το μήνυμα επιστρέφει...
+@inf_recording:Ηχογράφηση...
+@inf_record_txt:Εγγραφή
+@inf_done_txt:Έγινε
+@announcement_setup_button:Set
+@simple_lighting_notice:<b><color=red> Σημείωση: </color> Αν η συσκευή σας δεν υποστηρίζει το Δυναμικό Σύστημα Φωτισμού (η λειτουργία του Προβολέα δεν λειτουργεί), μπορείτε να ενεργοποιήσετε "Απλό Σύστημα Φωτισμού": </b>
+@quit_text:Έξοδος
+@back_to_menu_button:Επιστροφή στο κύριο μενού
+@cancel_button:Ακύρωση
+@simple_lighting_option:Χρήση απλού φωτισμού (απαιτείται επανεκκίνηση)
+@back_button:πίσω
+@line_select_text:Επιλογή γραμμής
+@start_line_button:Πάμε!
+@system_text:Σύστημα
+@master_switch_button:ΚΥΡΙΑ ΕΛΒΕΤΙΑ
+@line_1_name:Δυτική γραμμή
+@line_2_name:Γραμμή N
+@line_3_name:Γραμμή S
+@line_4_name:Κεντρική γραμμή
+@line_5_name:Γραμμή (Express)
+@line_1_description:Σταθμοί: 10
+@@:Επίπεδο: εύκολο
+@line_2_description:Σταθμοί: 9
+@@:Επίπεδο: εύκολο
+@line_3_description:Σταθμοί: 7
+@@:Επίπεδο: μέσο
+@line_4_description:Σταθμοί: 10
+@@:Επίπεδο: δύσκολο
+@line_5_description:Σταθμοί: 11 (17)
+@@:Επίπεδο: δύσκολο
+//////////////////
+@inf_next_signal:Επόμενο σήμα
+@inf_pressure:Πίεση αέρα φρένων
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Η αυτόματη πέδη είναι ενεργή
+@msg_unloading:Ξεφόρτωση...
+@msg_correct_stop:Σωστή στάση στο σταθμό. Μπόνους +100
+@msg_nxt_station:Τώρα μπορείς να πας στον επόμενο σταθμό.
+@msg_start_1:Προετοιμασία για την αρχή... Παρακαλώ περιμένετε.
+@msg_start_2:Προετοιμασία κινητήρα και συμπιεστή. Παρακαλώ περιμένετε.
+@msg_start_3:Το τρένο είναι έτοιμο να φύγει. Καλή τύχη!
+@controller_lock:Αποκλεισμένο
+@fines_total:Πρόστιμα, σύνολο:
+@passengers_transported:Μεταφερόμενοι επιβάτες:
+@score:Τελική βαθμολογία:
+@signal_red_txt:Κόκκινο
+@signal_green_txt:Πράσινο
+@signal_connection:Σύνδεση...
+@signal_warning:Κόκκινο σήμα είναι μπροστά.
+@signal_fine:Αγνοώντας κόκκινο σήμα, πρόστιμο -50
+@ads_disabled_txt:<b>Οι διαφημίσεις είναι απενεργοποιημένες </b>
+@ads_disable_txt:<b>Διαθέσιμες διαφημίσεις + λειτουργία εκτός σύνδεσης </b>
+@@:<i><size=10>Διαλύει όλες τις διαφημίσεις του 3ου μέρους και καθιστά δυνατή την αναπαραγωγή εκτός σύνδεσης</size></i>
+@load_text_1:Έλεγχος συστημάτων...
+@load_text_2:Έλεγχος συμπιεστή...
+@load_text_3:Έλεγχος σημάτων και μηχανών...
+@load_text_4:Σχεδόν τελείωσα...
+@spd_warning_50:Προειδοποίηση: Το όριο ταχύτητας είναι μπροστά (50 kph)
+@spd_warning_35:Προειδοποίηση: Το όριο ταχύτητας είναι μπροστά (35 kph)
+@spd_overspeed:Υπερταχύτητα. Παρακαλώ κρατήστε την ταχύτητα του τρένου υπό έλεγχο.
+@spd_ok:Τώρα η ταχύτητα του τρένου είναι εντάξει...
+@spd_fine:Υπερταχύτητα. Πιο σιγά! Πρόστιμο 1 σημείο/δευτερόλεπτο
+@compressor_busy:Κατάσταση: απασχολημένος
+@compressor_standby:Κατάσταση: σε αναμονή
+@graphics_qual_txt:Ποιότητα γραφικών
+@qual_low_txt:Χαμηλή
+@qual_medium_txt:Μεσαίο
+@qual_norm_txt:Κανονικό
+@qual_high_txt:Υψηλό
+@qual_refl_checkbox:Αντανακλάσεις
+@qual_light_checkbox:Χρήση απλοποιημένου συστήματος φωτισμού (απαιτείται επανεκκίνηση)
+@change_lang_btn:Αλλαγή γλώσσας παιχνιδιού
+@close_btn:Κλείσιμο
+@about_text:Προγραμματισμός από: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D Μοντέλα από: Anton Romanchuk
+@@:--------
+@@:Εκδότης: Alpha Intl.
+@@:Συντήρηση έργου: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:Αυτό το παιχνίδι απαιτεί πρόσβαση στο Internet </b>
+@@:
+@@:Πρόσβαση στο Internet και 3ες διαφημίσεις επιτρέπουν να πάρει κάποια χρηματοδότηση για να βελτιώσει αυτό το παιχνίδι. Ωστόσο, μπορείτε να αγοράσετε το "Disable ads" χαρακτηριστικό για να απενεργοποιήσετε όλες τις διαφημίσεις 3ου μέρους και να ενεργοποιήσετε τη λειτουργία offline. Ελπίδα για την κατανόησή σας.
+@selected_train_txt:Επιλεγμένη αμαξοστοιχία
+@next_signal_txt:Επόμενο σήμα
+@air_compr_txt:Αεροσυμπιεστής
+@air_pressure_txt:Πίεση:
+@system_battery_txt:Μπαταρία
+@system_atc_txt:ATC
+@controller_positions_txt:θέσεις
+@nxt_station_txt:Επόμενος σταθμός:
+@nxt_ad_text:Επόμενη διαφήμιση:
+@prep_ad_text:Προετοιμασία διαφήμισης...
+//////////////////
+//Stations
+@line_1_0:Βόρεια οδός
+@line_1_1:Οδός Λουλούδια
+@line_1_2:Μουσικαλνάγια
+@line_1_3:Δασικό Πάρκο
+@line_1_4:Βιομηχανική οδός
+@line_1_5:Μόρσκαγια
+@line_1_6:Αμπρίκοβαγια
+@line_1_7:Οδός Sunshine
+@line_1_8:Απελσινόβαγια
+@line_1_9:Δυτική οδός
+@line_1_10:Σημείο ελέγχου
+@line_2_0:Ζαβόντσκαγια
+@line_2_1:Λιτεϊνάγια
+@line_2_2:Αβτοζαβόντ
+@line_2_3:Οδός Στόουν
+@line_2_4:Οδός Ρίβερ
+@line_2_5:Σουντορεμόντνι Ζαβόντ
+@line_2_6:Ανατολική οδός
+@line_2_7:Πάρκο Cherry-tree
+@line_2_8:Ηλεκτρικός σταθμός
+@line_2_9:Σημείο ελέγχου
+@line_3_0:Παλιά Πόλη
+@line_3_1:Πάιν Παρκ
+@line_3_2:7ο τέταρτο
+@line_3_3:Κήπος φράουλας
+@line_3_4:Οζερνάγια
+@line_3_5:Προάστιο
+@line_3_6:Αεροδρόμιο
+@line_3_7:Σημείο ελέγχου
+@line_4_0:38η οδός
+@line_4_1:Επιχειρηματικό κέντρο
+@line_4_2:Πλατεία της πόλης
+@line_4_3:Δημαρχείο
+@line_4_4:Λεωφόρος Faille
+@line_4_5:Κέντρο
+@line_4_6:91η Οδός
+@line_4_7:Κέντρο Εμπορίου
+@line_4_8:Στάδιο
+@line_4_9:Κεντρικό πάρκο
+@line_4_10:Σημείο ελέγχου
+@line_5_0:Προαστιακή δισκοβολία
+@line_5_1:Δασική οδός
+@line_5_2:Πάρκο Birch
+@line_5_3:Στάδιο (χωρίς στάση)
+@line_5_4:91η Οδός
+@line_5_5:Δυτική εθνική οδός (χωρίς στάση)
+@line_5_6:87η οδός
+@line_5_7:Ινστιτούτο Ενέργειας
+@line_5_8:Μουσείο Ιστορίας (χωρίς στάση)
+@line_5_9:Κεντρική Βιβλιοθήκη
+@line_5_10:Οδός Μουσείου (χωρίς στάση)
+@line_5_11:Οδός Παρκ.
+@line_5_12:Αρχή Μεταφορών
+@line_5_13:Lime Street (χωρίς στάση)
+@line_5_14:51η οδός
+@line_5_15:49η οδός (χωρίς στάση)
+@line_5_16:Δυτική οδός
+@line_5_17:Σημείο ελέγχου

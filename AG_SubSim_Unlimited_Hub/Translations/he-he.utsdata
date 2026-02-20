@@ -1,0 +1,186 @@
+$lang:[AUTO] Hebrew
+$version:2
+//UI Strings
+@new_game_button:משחק חדש
+@settings_button:הגדרות הגדרות
+@about_button:אודות
+@quit_button:בורח
+@choose_line_button:בסדר, בחרו קו
+@max_speed_text:מהירות מקס
+@cars_total_text:מכוניות (total)
+@controller_text:המפקח
+@cab_preview_button:קבר
+@interior_preview_button:פנים
+@score_text:ציון
+@passengers_text:נוסעים
+@speed_limit_text:הגבלת מהירות
+@current_speed_text:מהירות מהירות
+@cab_camera_button:מצלמה
+@interior_camera_button:פנים
+@station_camera_button:תחנת Station
+@controller_panel_header:המפקח
+@head_light_button:ראש ראש
+@@:אור אור
+@cab_light_button:המונחים Light
+@doors_button:דלתות
+@horn_button:הורם
+@stop_pos_header:תפסיקו לשלוט במיקומים
+@express_train_notifiaction:זו רכבת אקספרס. דלגו בתחנה זו.
+@view_pos_header:מיקום תצוגה >
+@announcement_button:הודעה
+@inf_msg_1:הודעה 1
+@@:(5 כת)
+@inf_msg_2:הודעה 2
+@@:(10 כת)
+@inf_ready:מוכן מוכן
+@inf_playback:המסר חוזר...
+@inf_recording:תקליט...
+@inf_record_txt:רשומות רשומות
+@inf_done_txt:נעשה
+@announcement_setup_button:התקנה
+@simple_lighting_notice:<b> <color=red> תגית: </color> אם המכשיר שלך אינו תומך במערכת תאורה דינמית (תכונת תאורה אחורית אינה עובדת), באפשרותך להפעיל "מערכת תאורה פשוטה": </b>
+@quit_text:בורח
+@back_to_menu_button:חזרה לתפריט הראשי
+@cancel_button:ביטול
+@simple_lighting_option:השתמש תאורה פשוטה (נדרש)
+@back_button:בחזרה
+@line_select_text:קו בחירת
+@start_line_button:בואו נלך!
+@system_text:מערכת
+@master_switch_button:תגית: SWITCH
+@line_1_name:קו מערבי
+@line_2_name:N Line
+@line_3_name:S Line
+@line_4_name:קו מרכזי
+@line_5_name:קו (express)
+@line_1_description:תחנות: 10
+@@:רמה: Easy
+@line_2_description:תחנה: 9
+@@:רמה: Easy
+@line_3_description:תחנה: 7
+@@:דרגה: בינוני
+@line_4_description:תחנות: 10
+@@:רמה: קשה
+@line_5_description:תחנה: 11 (5)
+@@:רמה: קשה
+//////////////////
+@inf_next_signal:אות
+@inf_pressure:לחץ אוויר
+@inf_pressure_ind:Prsr
+@msg_autobrake:בלם אוטומטי פעיל
+@msg_unloading:המונחים:
+@msg_correct_stop:עצירה נכונה בתחנה. בונוס +100
+@msg_nxt_station:עכשיו אפשר להגיע לתחנה הבאה
+@msg_start_1:להתכונן לתחילת... חכה
+@msg_start_2:הכנת מנוע ודחוס. חכה
+@msg_start_3:הרכבת מוכנה ללכת. בהצלחה!
+@controller_lock:חסם
+@fines_total:יפה, כולל:
+@passengers_transported:נוסעים:
+@score:ציון אחרון:
+@signal_red_txt:אדום אדום
+@signal_green_txt:ירוק ירוק ירוק
+@signal_connection:חיבור...
+@signal_warning:האות האדום הוא קדימה
+@signal_fine:התעלמות מהאות האדום, -50
+@ads_disabled_txt:<b>Ads are closed</b>
+@ads_disable_txt:<b> מודעות אפשריות + מצב לא מקוון</b>
+@@:<i><size=10>Disables all 3rd party מודעות ומאפשר לשחק לא מקוון</ Size></i>
+@load_text_1:לבדוק מערכות...
+@load_text_2:לבדוק דחוס...
+@load_text_3:לבדוק אותות ומנוע...
+@load_text_4:כמעט עשו...
+@spd_warning_50:אזהרה: הגבלת מהירות היא לפני (50 kph)
+@spd_warning_35:אזהרה: הגבלת מהירות היא לפני (35 kph)
+@spd_overspeed:מהיר. שמור על מהירות הרכבת תחת שליטה
+@spd_ok:מהירות הרכבת בסדר...
+@spd_fine:מהיר. לאט! נקודה אחת / Sec
+@compressor_busy:מדינה: עסוק
+@compressor_standby:תגית: Standby
+@graphics_qual_txt:איכות גרפית
+@qual_low_txt:נמוך
+@qual_medium_txt:בינוני בינוני
+@qual_norm_txt:נורמלי
+@qual_high_txt:גבוה גבוה
+@qual_refl_checkbox:מחשבות
+@qual_light_checkbox:השתמש במערכת תאורה פשוטה (נדרש)
+@change_lang_btn:שינוי השפה
+@close_btn:סגור
+@about_text:שם הסרטון: Sviatoslav Bilov (bilov@alinit.org)
+@@:3D מודלים: אנטון רומצ'וק
+@@:-----
+@@:תגית: Alpha Slide
+@@:פרויקט תחזוקה פרוייקט: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:המשחק דורש גישה לאינטרנט</b>
+@@:
+@@:גישה לאינטרנט ופרסומות של צד שלישי מאפשרות לקבל מימון כדי לשפר את המשחק. עם זאת, אתה יכול לקנות את התכונה "מודעות בלתי ניתנות לפירוק כל המודעות של צד שלישי ולהפעיל מצב לא מקוון. תקווה להבנה שלך
+@selected_train_txt:רכבת נבחרת
+@next_signal_txt:אות
+@air_compr_txt:Air Compressor
+@air_pressure_txt:לחץ:
+@system_battery_txt:סוללה
+@system_atc_txt:ATC
+@controller_positions_txt:עמדות
+@nxt_station_txt:התחנה הבאה:
+@nxt_ad_text:Next Ad:
+@prep_ad_text:הכנת פרסומות...
+//////////////////
+//Stations
+@line_1_0:צפון הדרך
+@line_1_1:רחוב פרחים
+@line_1_2:Musikalnaya
+@line_1_3:יער הפארק
+@line_1_4:רחוב תעשייתי
+@line_1_5:Morskaya
+@line_1_6:Abrikosovaya
+@line_1_7:רחוב Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:רחוב West Street
+@line_1_10:נקודת בקרה
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:רחוב סטון
+@line_2_4:River Street
+@line_2_5:סודורמונטני זאווד
+@line_2_6:רחוב מזרח
+@line_2_7:פארק הדובדבן
+@line_2_8:תחנת כוח
+@line_2_9:נקודת בקרה
+@line_3_0:העיר העתיקה
+@line_3_1:Pine Park
+@line_3_2:המונחים:
+@line_3_3:Strawberry Garden
+@line_3_4:Ozerina
+@line_3_5:בסביבה הקרובה
+@line_3_6:נמל התעופה
+@line_3_7:נקודת בקרה
+@line_4_0:רחוב 38
+@line_4_1:מרכז עסקים
+@line_4_2:כיכר העיר
+@line_4_3:העירייה Hall
+@line_4_4:כתובת: Faille Avenue
+@line_4_5:Downtown Downtown Downtown
+@line_4_6:רחוב 91
+@line_4_7:מרכז הסחר
+@line_4_8:אצטדיון Stadium
+@line_4_9:סנטרל פארק
+@line_4_10:נקודת בקרה
+@line_5_0:בסביבה הקרובה של
+@line_5_1:רחוב יער
+@line_5_2:פארק בירנץ
+@line_5_3:אצטדיון (ללא עצירות)
+@line_5_4:רחוב 91
+@line_5_5:כביש מערב (ללא עצירות)
+@line_5_6:רחוב 87
+@line_5_7:המכון לאנרגיה
+@line_5_8:מוזיאון ההיסטוריה (ללא עצירות)
+@line_5_9:הספרייה המרכזית
+@line_5_10:רחוב המוזיאון (ללא עצירות)
+@line_5_11:רחוב Park Street
+@line_5_12:רשות התחבורה
+@line_5_13:רחוב Lime (ללא עצירות)
+@line_5_14:רחוב 51
+@line_5_15:רחוב 49 (ללא הפסקה)
+@line_5_16:רחוב West Street
+@line_5_17:נקודת בקרה

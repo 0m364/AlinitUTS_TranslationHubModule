@@ -1,0 +1,186 @@
+$lang:[AUTO] Bambara
+$version:2
+//UI Strings
+@new_game_button:Tulon kura
+@settings_button:Settings (Labɛnw)
+@about_button:Kan
+@quit_button:Ka bɔ
+@choose_line_button:ok | layini sugandi
+@max_speed_text:Max. teliya
+@cars_total_text:Mobiliw (total) .
+@controller_text:Kontrɔlikɛla
+@cab_preview_button:Kabini
+@interior_preview_button:Kɔnɔna na
+@score_text:Bi
+@passengers_text:Mɔbili kɔnɔmɔgɔw
+@speed_limit_text:Teliya Dan
+@current_speed_text:Teliya
+@cab_camera_button:Kamera min bɛ kabini
+@interior_camera_button:Kɔnɔna na
+@station_camera_button:Sitasiyɔn
+@controller_panel_header:Kontrɔlikɛla
+@head_light_button:Kunkolo
+@@:Yeelen
+@cab_light_button:Kabini Yeelen
+@doors_button:Dabaw
+@horn_button:Biɲɛ
+@stop_pos_header:Aw bɛ jɔyɔrɔw kɔlɔsili dabila
+@express_train_notifiaction:Nin ye tɛrɛn teliya ye. Aw ye tɛmɛ nin garasi in kan.
+@view_pos_header:<- Yɔrɔ lajɛ ->
+@announcement_button:Kunnafoni
+@inf_msg_1:Cikan 1nan
+@@:(seginkanni 5)
+@inf_msg_2:Cikan 2nan
+@@:(seginkanni 10)
+@inf_ready:Labɛn
+@inf_playback:Message bɛ ka tulon kɛ...
+@inf_recording:Enregistrement...
+@inf_record_txt:Ka kumakan ta
+@inf_done_txt:A kɛra
+@announcement_setup_button:Ka bila sen kan
+@simple_lighting_notice:<b><color=red>Kɔlɔsili : </color>Ni i ka minɛn tɛ Dynamic Lighting System dɛmɛ (Headlight feature tɛ baara kɛ), i bɛ se ka "Simple Lighting System" da: </b>
+@quit_text:Ka bɔ
+@back_to_menu_button:Segin ka na menu principal kan
+@cancel_button:ka dankari
+@simple_lighting_option:Baara kɛ ni yeelen nɔgɔman ye (a ka kan ka daminɛ kokura) .
+@back_button:kɔ
+@line_select_text:Layini sugandi
+@start_line_button:An ka taa!
+@system_text:Sisitɛmu
+@master_switch_button:MASTER SWITCH KA ƝƐNABƆLI
+@line_1_name:Tlebi Layini
+@line_2_name:N Layini
+@line_3_name:S Layini
+@line_4_name:Cɛmancɛ Layini
+@line_5_name:Layini dɔ (Express) .
+@line_1_description:Gara minnu bɛ yen: 10
+@@:Nivo: a ka nɔgɔn
+@line_2_description:Gara minnu bɛ yen: 9
+@@:Nivo: a ka nɔgɔn
+@line_3_description:Gara minnu bɛ yen: 7
+@@:Nivo: cɛmancɛ
+@line_4_description:Gara minnu bɛ yen: 10
+@@:Nivo: gɛlɛn
+@line_5_description:Gara minnu bɛ yen: 11 (17) .
+@@:Nivo: gɛlɛn
+//////////////////
+@inf_next_signal:Siginiden nata
+@inf_pressure:Freins Fiɲɛ Tansiyɔn
+@inf_pressure_ind:Prsr.
+@msg_autobrake:Frein automatique bɛ baara la
+@msg_unloading:Dechargement ka...
+@msg_correct_stop:A jɔcogo ɲuman garasi kan. Bonus +100 ye
+@msg_nxt_station:Sisan, i bɛ se ka taa garasi nata la
+@msg_start_1:Labɛnni daminɛ kama... Aw ka kɔnɔni kɛ
+@msg_start_2:Motɛri ni komɛsi labɛnni. Aw ye aw jija ka kɔnɔni kɛ
+@msg_start_3:Tɛrɛn labɛnnen don ka taa. Kunnaja!
+@controller_lock:Blocked (Bɔli) kɛra
+@fines_total:Alamanw, u bɛɛ lajɛlen:
+@passengers_transported:Mɔgɔ minnu bɛ taa ni u ye:
+@score:Jate laban:
+@signal_red_txt:Bilema
+@signal_green_txt:Binkɛnɛ
+@signal_connection:Jɛɲɔgɔnya...
+@signal_warning:Siginiden bilenman bɛ ɲɛfɛ
+@signal_fine:Ignoring signal rouge, fine -50
+@ads_disabled_txt:<b>Piblisitew bɛ bali</b>
+@ads_disable_txt:<b>Piblisitew bali + cogo min na ɛntɛrinɛti kɔkan</b>
+@@:<i><size=10>A bɛ mɔgɔ 3nan ka piblisite bɛɛ bali ani ka se ka tulon kɛ ɛntɛrinɛti kɔkan </size></i>
+@load_text_1:Sistɛmuw sɛgɛsɛgɛli...
+@load_text_2:Checking compresseur...
+@load_text_3:Siginidenw ni motɛriw lajɛ...
+@load_text_4:A bɛ ɲini ka kɛ...
+@spd_warning_50:Ladilikan: Teliya dan bɛ ɲɛfɛ (50 kph) .
+@spd_warning_35:Ladilikan: Teliya dan bɛ ɲɛfɛ (35 kph) .
+@spd_overspeed:Teliya kojugu. Aw ye aw jija ka tɛrɛn teliya to aw yɛrɛ la
+@spd_ok:Sisan tɛrɛn teliya bɛ OK...
+@spd_fine:Teliya kojugu. I ka dɔɔni dɔɔni! Alamaɲi 1 point/sec
+@compressor_busy:Jamana: bolo degunnen don
+@compressor_standby:Jamana: jɔli
+@graphics_qual_txt:Graphiques Quality (jatebɔcogo ɲuman).
+@qual_low_txt:Fɛ́gɛn
+@qual_medium_txt:Hakɛ
+@qual_norm_txt:O ka kan
+@qual_high_txt:Jamanjan
+@qual_refl_checkbox:Hakilijagabɔw
+@qual_light_checkbox:Baara kɛ ni yeelenbɔlan nɔgɔman ye (a ka kan ka daminɛ kokura) .
+@change_lang_btn:Tulonkan caman Changer
+@close_btn:Ka datugu
+@about_text:Porogaramu min kɛra: Sviatoslav Bilov fɛ (bilov@alinit.org)
+@@:3D Modeliw kɛra: Anton Romanchuk fɛ
+@@:------ .
+@@:A bɔbaga: Alpha Intl. IT Jɛkulu
+@@:Porozɛ ladonni: Alinit Porozɛ (alinit.org), support@alinit.org
+@offline_notice:<b>Nin tulon in bɛ ɛntɛrinɛti sɔrɔli de wajibiya</b>
+@@:
+@@:Ɛntɛrinɛti sɔrɔli ni mɔgɔ 3nan ka piblisitew b’a to ka wari dɔ sɔrɔ walasa ka nin tulon in ɲɛ. Nka, i bɛ se ka "Disable ads" fɛɛrɛ san walasa ka 3nan ka piblisite bɛɛ bali ani ka offline mode (fɔcogo min tɛ ɛntɛrinɛti kan) baara. Jigiya bɛ i ka faamuyali la.
+@selected_train_txt:Tɛrɛn sugandilen
+@next_signal_txt:Siginiden nata
+@air_compr_txt:Fiɲɛbɔlan (Compresseur) min bɛ fiɲɛ bila
+@air_pressure_txt:Gɛrɛntɛ:
+@system_battery_txt:Batiri
+@system_atc_txt:ATC ye
+@controller_positions_txt:jɔyɔrɔw la
+@nxt_station_txt:Gara nata la:
+@nxt_ad_text:Piblisite nata:
+@prep_ad_text:Piblisite labɛnni...
+//////////////////
+//Stations
+@line_1_0:Worodugu sira fɛ
+@line_1_1:Fulaw ka sira kan
+@line_1_2:Musikalnaya ye
+@line_1_3:Kungo-kɔnɔ-yɔrɔ
+@line_1_4:Industrie sira kan
+@line_1_5:Morskaya ye
+@line_1_6:Abrikosovaya ye baara kɛ
+@line_1_7:Tilebɔ sira
+@line_1_8:Apelsinovaya (Apelsinovaya) ye
+@line_1_9:Tlebi sira fɛ
+@line_1_10:Kontrɔli yɔrɔ
+@line_2_0:Zavodskaya ye
+@line_2_1:Liteynaya ye
+@line_2_2:Avtozavod (Avtozavod) ye
+@line_2_3:Kabakurun sira kan
+@line_2_4:Baji sira kan
+@line_2_5:Sudoremontniy Zavod ye baara kɛ
+@line_2_6:Kɔrɔnfɛla sira kan
+@line_2_7:Seri-jiriw ka Park
+@line_2_8:Kuranko baarakɛyɔrɔ
+@line_2_9:Kontrɔli yɔrɔ
+@line_3_0:Dugu Kɔrɔ
+@line_3_1:Pine Park (Pine Park) ye
+@line_3_2:7nan naani
+@line_3_3:Nakɔ min bɛ wele ko Fraise
+@line_3_4:Ozernaya ye
+@line_3_5:Suburb dugu kɔnɔ
+@line_3_6:Awiyɔnso
+@line_3_7:Kontrɔli yɔrɔ
+@line_4_0:38nan sira kan
+@line_4_1:Jagokɛyɔrɔ
+@line_4_2:Dugu kɛnɛba kan
+@line_4_3:Duguba kɔnɔ
+@line_4_4:Faille ka siraba kan
+@line_4_5:Dugu cɛmancɛ la
+@line_4_6:91nan sira kan
+@line_4_7:Jagokɛyɔrɔ
+@line_4_8:Stade (Stade) la
+@line_4_9:Central Park (Sentral Park) ye
+@line_4_10:Kontrɔli yɔrɔ
+@line_5_0:Dugu kɔkanna diskri
+@line_5_1:Kungo siraba
+@line_5_2:Birch Park ye
+@line_5_3:Stade (k’a sɔrɔ a ma jɔ) .
+@line_5_4:91nan sira kan
+@line_5_5:Tlebi siraba (k’a sɔrɔ a ma jɔ) .
+@line_5_6:87nan sira kan
+@line_5_7:Institut de l’Energie (Energie ka baarada).
+@line_5_8:Tariku misiri (k’a sɔrɔ i ma jɔ) .
+@line_5_9:Cɛmancɛ gafemarayɔrɔ
+@line_5_10:Museum Street (k’a sɔrɔ i ma jɔ) .
+@line_5_11:Park sira kan
+@line_5_12:Transport (Transport) ɲɛmɔgɔso
+@line_5_13:Lime Street (k’a sɔrɔ a ma jɔ) .
+@line_5_14:51nan sira kan
+@line_5_15:49nan sira (k’a sɔrɔ a ma jɔ) .
+@line_5_16:Tlebi sira fɛ
+@line_5_17:Kontrɔli yɔrɔ

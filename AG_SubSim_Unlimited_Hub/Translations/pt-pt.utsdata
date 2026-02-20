@@ -1,0 +1,186 @@
+$lang:[AUTO] Portuguese
+$version:2
+//UI Strings
+@new_game_button:Novo jogo
+@settings_button:Configurações
+@about_button:Sobre
+@quit_button:Sair
+@choose_line_button:ok escolha linha
+@max_speed_text:Velocidade máxima
+@cars_total_text:Veículos (total)
+@controller_text:Controlador
+@cab_preview_button:Cab
+@interior_preview_button:Interior
+@score_text:Pontuação
+@passengers_text:Passageiros
+@speed_limit_text:Limite de Velocidade
+@current_speed_text:Velocidade
+@cab_camera_button:Câmara de cabina
+@interior_camera_button:Interior
+@station_camera_button:Estação
+@controller_panel_header:Controlador
+@head_light_button:Cabeçalho
+@@:Luz
+@cab_light_button:Luz da cabina
+@doors_button:Portas
+@horn_button:Corno
+@stop_pos_header:Controle de posição de parada
+@express_train_notifiaction:Este é o comboio expresso. Salta esta estação.
+@view_pos_header:<- Ver posição ->
+@announcement_button:Anúncio
+@inf_msg_1:Mensagem 1
+@@:(5 segundos)
+@inf_msg_2:Mensagem 2
+@@:(10 seg)
+@inf_ready:Pronto
+@inf_playback:A mensagem está a voltar...
+@inf_recording:A gravar...
+@inf_record_txt:Gravar
+@inf_done_txt:Feito
+@announcement_setup_button:Configuração
+@simple_lighting_notice:<b><color=vermelho> Nota: </color> Se o seu dispositivo não estiver a suportar o Sistema de Iluminação Dinâmica (a funcionalidade Headlight não está a funcionar), pode ligar "Sistema de Iluminação Simples": </b>
+@quit_text:Sair
+@back_to_menu_button:Voltar ao menu principal
+@cancel_button:Cancelar
+@simple_lighting_option:Usar iluminação simples (release requerido)
+@back_button:voltar
+@line_select_text:Linha seleccionada
+@start_line_button:Vamos!
+@system_text:Sistema
+@master_switch_button:SWITCH MASTER
+@line_1_name:Linha Ocidental
+@line_2_name:Linha N
+@line_3_name:Linha S
+@line_4_name:Linha Central
+@line_5_name:Uma Linha (Expresso)
+@line_1_description:Estações: 10
+@@:Nível: fácil
+@line_2_description:Estações: 9
+@@:Nível: fácil
+@line_3_description:Estações: 7
+@@:Nível: meio
+@line_4_description:Estações: 10
+@@:Nível: difícil
+@line_5_description:Estações: 11 (17)
+@@:Nível: difícil
+//////////////////
+@inf_next_signal:Próximo Sinal
+@inf_pressure:Pressão do ar dos travões
+@inf_pressure_ind:Prsr.
+@msg_autobrake:O travão automático está activo
+@msg_unloading:Descarregando...
+@msg_correct_stop:Parada correcta na estação. Bônus +100
+@msg_nxt_station:Agora podes ir para a próxima estação.
+@msg_start_1:Preparando para o início... Por favor, espere.
+@msg_start_2:Preparando motor e compressor. Por favor, espere.
+@msg_start_3:O comboio está pronto. Boa sorte!
+@controller_lock:Bloqueado
+@fines_total:Coimas, total:
+@passengers_transported:Passageiros transportados:
+@score:Pontuação final:
+@signal_red_txt:Vermelho
+@signal_green_txt:Verde
+@signal_connection:Ligação...
+@signal_warning:O sinal vermelho está à frente.
+@signal_fine:Ignorando o sinal vermelho, bom -50
+@ads_disabled_txt:<b>Os anúncios estão desativados</b>
+@ads_disable_txt:<b>Desativar anúncios + modo offline</b>
+@@:<i><tamanho=10>Desativa todos os anúncios de terceiros e torna possível jogar offline</tamanho></i>
+@load_text_1:Verificando sistemas...
+@load_text_2:Verificando o compressor...
+@load_text_3:Verificando sinais e motor...
+@load_text_4:Quase...
+@spd_warning_50:Aviso: O limite de velocidade está à frente (50 kph)
+@spd_warning_35:Aviso: O limite de velocidade está à frente (35 kph)
+@spd_overspeed:Velocidade excessiva. Por favor, mantenha a velocidade do comboio sob controlo.
+@spd_ok:Agora a velocidade do comboio está bem...
+@spd_fine:Velocidade excessiva. Devagar! Fine 1 ponto/seg
+@compressor_busy:Estado: ocupado
+@compressor_standby:Estado: standby
+@graphics_qual_txt:Qualidade gráfica
+@qual_low_txt:Baixo
+@qual_medium_txt:Médio
+@qual_norm_txt:Normal
+@qual_high_txt:Alta
+@qual_refl_checkbox:Reflexões
+@qual_light_checkbox:Utilizar sistema de iluminação simplificado (release requerido)
+@change_lang_btn:Alterar idioma do jogo
+@close_btn:Fechar
+@about_text:Programação por: Sviatoslav Bilov (bilov@alinit.org)
+@@:Modelos 3D por: Anton Romanchuk
+@@:-------
+@@:Editor: Alpha Intl. IT Group
+@@:Manutenção do projeto: Alinit Project (alinit.org), support@alinit.org
+@offline_notice:<b>Este jogo requer acesso à Internet</b>
+@@:
+@@:Acesso à Internet e anúncios de terceiros permitem obter algum financiamento para melhorar este jogo. No entanto, você pode comprar o recurso "Desativar anúncios" para desativar todos os anúncios de terceiros e ativar o modo offline. Espero pela sua compreensão.
+@selected_train_txt:Comboio seleccionado
+@next_signal_txt:Próximo Sinal
+@air_compr_txt:Compressor de ar
+@air_pressure_txt:Pressão:
+@system_battery_txt:Bateria
+@system_atc_txt:ATC
+@controller_positions_txt:posições
+@nxt_station_txt:Próxima estação:
+@nxt_ad_text:Anúncio Seguinte:
+@prep_ad_text:Preparando propaganda...
+//////////////////
+//Stations
+@line_1_0:Norte
+@line_1_1:Rua Flowers
+@line_1_2:Musikalnaya
+@line_1_3:Parque Florestal
+@line_1_4:Industrial Street
+@line_1_5:Morskaya
+@line_1_6:Abrakosovaya
+@line_1_7:Sunshine Street
+@line_1_8:Apelsinovaya
+@line_1_9:West Street
+@line_1_10:Ponto de controlo
+@line_2_0:Zavodskaya
+@line_2_1:Liteynaya
+@line_2_2:Avtozavod
+@line_2_3:Stone Street
+@line_2_4:River Street
+@line_2_5:Sudoremontniy Zavod
+@line_2_6:East Street
+@line_2_7:Parque das Cerejeiras
+@line_2_8:Instalações eléctricas
+@line_2_9:Ponto de controlo
+@line_3_0:Cidade Velha
+@line_3_1:Pine Park
+@line_3_2:7o quartal
+@line_3_3:Jardim de Morango
+@line_3_4:Ozernaya
+@line_3_5:Subúrbio
+@line_3_6:Aeroporto
+@line_3_7:Ponto de controlo
+@line_4_0:38th Street
+@line_4_1:Centro de Negócios
+@line_4_2:Praça da Cidade
+@line_4_3:Prefeitura
+@line_4_4:Avenida Faille
+@line_4_5:Centro
+@line_4_6:91st Street
+@line_4_7:Centro Comercial
+@line_4_8:Estádio
+@line_4_9:Central Park
+@line_4_10:Ponto de controlo
+@line_5_0:Discreto suburbano
+@line_5_1:Rua Florestal
+@line_5_2:Parque Birch
+@line_5_3:Estádio (sem parar)
+@line_5_4:91st Street
+@line_5_5:West Highway (sem parar)
+@line_5_6:87th Street
+@line_5_7:Instituto de Energia
+@line_5_8:Museu de História (sem parar)
+@line_5_9:Biblioteca Central
+@line_5_10:Rua do Museu (sem parar)
+@line_5_11:Park Street
+@line_5_12:Autoridade dos Transportes
+@line_5_13:Lime Street (sem parar)
+@line_5_14:51st Street
+@line_5_15:49th Street (sem parar)
+@line_5_16:West Street
+@line_5_17:Ponto de controlo
