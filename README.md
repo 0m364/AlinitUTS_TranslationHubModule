@@ -33,3 +33,35 @@ Czech translation provided by [@falconczfi](https://github.com/falconczfi)
 French translation edited by [@ben20471](https://github.com/ben20471)
 
 Spanish translation provided by [@Rescue742Fan](https://github.com/Rescue742Fan)
+
+---
+
+## OpenAI Whisper Translation Pipeline
+
+This repository includes a preconfigured Python pipeline to easily translate audio speech using the `.utsdata` dictionaries and **OpenAI Whisper**. The script transcribes spoken English audio and maps it to the existing translated dictionary keys to output translations.
+
+### Requirements
+
+To use the transcription pipeline, make sure to install the dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Note: You may also need to install `ffmpeg` on your system.
+- On Ubuntu/Debian: `sudo apt update && sudo apt install ffmpeg`
+- On MacOS (using Homebrew): `brew install ffmpeg`
+
+### Usage
+
+Run the `whisper_pipeline.py` script and pass in your audio file and the target language code. For example, to translate to Japanese (`ja-jp`):
+
+```bash
+python whisper_pipeline.py path/to/audio.mp3 ja-jp
+```
+
+The script will transcribe the audio, map it to the dictionary's English strings, and print out the corresponding Japanese localized text.
+
+### Licensing
+
+OpenAI Whisper is distributed under the MIT License. See `OPENAI_WHISPER_LICENSE` for more details.
